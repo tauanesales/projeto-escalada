@@ -1,3 +1,8 @@
+ifneq ("$(wildcard .env)","")
+	include .env
+	export
+endif
+
 install: ## Install the project.
 	poetry install --no-root
 
