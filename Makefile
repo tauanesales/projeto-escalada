@@ -4,7 +4,9 @@ ifneq ("$(wildcard .env)","")
 endif
 
 install: ## Install the project.
+	poetry lock
 	poetry install --no-root
+	poetry run pre-commit install
 
 .PHONY: up-postgres
 up-postgres: ## Start postgres database container.
@@ -58,4 +60,3 @@ clean: ## Clean project's temporary files.
 .PHONY: help
 help:
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' "Makefile" | sed 's/Makefile://g' | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-30s\033[0m %s\n", $$1, $$2}'
-

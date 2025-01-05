@@ -1,6 +1,7 @@
 from typing import Optional
-from sqlalchemy import ForeignKey, Integer, String
-from sqlalchemy.orm import Mapped, mapped_column, relationship
+
+from sqlalchemy import Integer, String
+from sqlalchemy.orm import Mapped, mapped_column
 
 from src.database.models.base.entity_model_base import EntityModelBase
 
@@ -8,9 +9,7 @@ from src.database.models.base.entity_model_base import EntityModelBase
 class Autor(EntityModelBase):
     __tablename__ = "autores"
 
-    nome: Mapped[str] = mapped_column(
-        String(255), nullable=False, unique=False
-    )
+    nome: Mapped[str] = mapped_column(String(255), nullable=False, unique=False)
     escalada: Mapped[Optional[str]] = mapped_column(
         String(255), nullable=True, unique=False
     )

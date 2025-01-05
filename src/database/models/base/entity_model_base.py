@@ -9,7 +9,9 @@ class EntityModelBase(DeclarativeBase):
 
     metadata = MetaData()
 
-    id: Mapped[int] = mapped_column(nullable=False, primary_key=True, index=True, autoincrement=True)
+    id: Mapped[int] = mapped_column(
+        nullable=False, primary_key=True, index=True, autoincrement=True
+    )
     criado_em: Mapped[datetime] = mapped_column(
         DateTime(), default=datetime.utcnow(), nullable=False
     )

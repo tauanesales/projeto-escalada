@@ -1,7 +1,8 @@
 from datetime import date
 from typing import Optional
+
 from sqlalchemy import Date, ForeignKey, String
-from sqlalchemy.orm import Mapped, mapped_column, relationship
+from sqlalchemy.orm import Mapped, mapped_column
 
 from src.database.models.base.entity_model_base import EntityModelBase
 
@@ -9,7 +10,9 @@ from src.database.models.base.entity_model_base import EntityModelBase
 class Notificacao(EntityModelBase):
     __tablename__ = "notificacoes"
 
-    usuario_id: Mapped[int] = mapped_column(ForeignKey("usuarios.id"), nullable=False, index=True)
+    usuario_id: Mapped[int] = mapped_column(
+        ForeignKey("usuarios.id"), nullable=False, index=True
+    )
     # usuario: Mapped["Usuario"] = relationship(  # noqa: F821
     #     "Usuario", back_populates="solicitacoes", lazy="joined", uselist=False
     # )

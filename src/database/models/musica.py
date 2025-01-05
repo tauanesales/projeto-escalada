@@ -1,8 +1,7 @@
-from sqlalchemy import Enum, ForeignKey, String, Text
-from sqlalchemy.orm import Mapped, mapped_column, relationship
+from sqlalchemy import String, Text
+from sqlalchemy.orm import Mapped, mapped_column
 
 from src.database.models.base.entity_model_base import EntityModelBase
-from src.utils.enums import TipoUsuarioEnum
 
 
 class Musica(EntityModelBase):

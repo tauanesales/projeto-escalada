@@ -6,6 +6,7 @@ from sqlalchemy.ext.asyncio import AsyncSession
 
 from src.database.models.base.entity_model_base import EntityModelBase
 
+
 class Repository:
     def __init__(self, session: AsyncSession):
         self._session: AsyncSession = session

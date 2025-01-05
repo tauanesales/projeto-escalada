@@ -1,14 +1,14 @@
 from src.database.models import (  # noqa
-    autor_musica,
     autor,
+    autor_musica,
     aviso,
-    solicitacoes_de_musica,
-    musica,
-    usuario,
-    notificacao,
-    gerar_acesso_admin,
-    foto,
     edicao_dashboard,
+    foto,
     foto_edicao_dashboard,
-    usuario_foto
+    gerar_acesso_admin,
+    musica,
+    notificacao,
+    solicitacoes_de_musica,
+    usuario,
+    usuario_foto,
 )

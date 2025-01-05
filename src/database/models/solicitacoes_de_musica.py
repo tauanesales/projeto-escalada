@@ -1,7 +1,8 @@
 from datetime import date
 from typing import Optional
+
 from sqlalchemy import CheckConstraint, Date, Enum, ForeignKey
-from sqlalchemy.orm import Mapped, mapped_column, relationship
+from sqlalchemy.orm import Mapped, mapped_column
 
 from src.database.models.base.entity_model_base import EntityModelBase
 from src.utils.enums import StatusSolicitacaoDeMusicaEnum, TipoSolicitacaoDeMusicaEnum
@@ -10,7 +11,9 @@ from src.utils.enums import StatusSolicitacaoDeMusicaEnum, TipoSolicitacaoDeMusi
 class SolicitacaoDeMusica(EntityModelBase):
     __tablename__ = "solicitacoes_de_musica"
 
-    solicitante_id: Mapped[int] = mapped_column(ForeignKey("usuarios.id"), nullable=False)
+    solicitante_id: Mapped[int] = mapped_column(
+        ForeignKey("usuarios.id"), nullable=False
+    )
     # solicitante: Mapped["Usuario"] = relationship(  # noqa: F821
     #     "Usuario", back_populates="solicitacoes", lazy="joined", uselist=False
     # )
@@ -23,7 +26,9 @@ class SolicitacaoDeMusica(EntityModelBase):
         Enum(TipoSolicitacaoDeMusicaEnum), nullable=False
     )
 
-    avaliador_id: Mapped[Optional[int]] = mapped_column(ForeignKey("usuarios.id"), nullable=True)
+    avaliador_id: Mapped[Optional[int]] = mapped_column(
+        ForeignKey("usuarios.id"), nullable=True
+    )
     # avaliador: Mapped["Usuario"] = relationship(  # noqa: F821
     #     "Usuario", back_populates="solicitacoes", lazy="joined", uselist=False
     # )

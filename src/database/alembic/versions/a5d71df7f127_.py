@@ -6,21 +6,17 @@ Create Date: 2025-01-05 00:32:35.605834
 
 """
 
-from datetime import datetime
 import random
 import string
+from datetime import datetime, timedelta
 from typing import Sequence, Union
 
 from alembic import op
-import sqlalchemy as sa
 
-from src.database.models.usuario import Usuario
 from src.database.models.aviso import Aviso
 from src.database.models.musica import Musica
-from datetime import datetime, timedelta
-
+from src.database.models.usuario import Usuario
 from src.utils.enums import TipoUsuarioEnum
-
 
 # revision identifiers, used by Alembic.
 revision: str = "a5d71df7f127"
@@ -125,30 +121,30 @@ def upgrade() -> None:
         Usuario.__table__,
         [
             {
-                'nome': generate_random_text().replace(",","").replace(".",""),
-                'email': f"{iteration}@email.com",
-                'senha': "UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA",
-                'tipo_usuario': TipoUsuarioEnum.ADMIN,
-                'token_reset_senha': None,
+                "nome": generate_random_text().replace(",", "").replace(".", ""),
+                "email": f"{iteration}@email.com",
+                "senha": "UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA",
+                "tipo_usuario": TipoUsuarioEnum.ADMIN,
+                "token_reset_senha": None,
                 **generate_base_dates(iteration),
-                "deletado_em": None
+                "deletado_em": None,
             }
             for iteration in range(20)
         ],
     )
-    
+
     op.bulk_insert(
         Usuario.__table__,
         [
             {
-                'nome': generate_random_text().replace(",","").replace(".",""),
-                'email': f"{iteration}@email.com",
-                'senha': "UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA",
-                'tipo_usuario': TipoUsuarioEnum.PADRAO,
-                'token_reset_senha': None,
+                "nome": generate_random_text().replace(",", "").replace(".", ""),
+                "email": f"{iteration}@email.com",
+                "senha": "UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA",
+                "tipo_usuario": TipoUsuarioEnum.PADRAO,
+                "token_reset_senha": None,
                 **generate_base_dates(iteration),
             }
-            for iteration in range(20,5000)
+            for iteration in range(20, 5000)
         ],
     )
 
@@ -156,7 +152,7 @@ def upgrade() -> None:
         Aviso.__table__,
         [
             {
-                "criador_id": random.randint(1,20),
+                "criador_id": random.randint(1, 20),
                 "titulo": generate_random_text(),
                 "texto": generate_random_text(max_length=800, linebreak=True),
                 **generate_base_dates(iteration),
