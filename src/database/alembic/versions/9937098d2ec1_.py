@@ -1,4 +1,4 @@
-"""empty message
+"""Criação das tabelas, colunas, relações e constraints
 
 Revision ID: 9937098d2ec1
 Revises: 

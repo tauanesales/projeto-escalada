@@ -16,7 +16,7 @@ down: ## Stop all docker services from this project.
 
 .PHONY: rm-containers
 rm-containers: ## Remove all docker containers.
-	docker rm -f $(docker ps -aq)
+	docker rm -f $$(docker ps -aq)
 
 .PHONY: start-docker
 start-docker: ## Start the docker. WSL needs to manually start docker.
@@ -34,9 +34,16 @@ migrate: ## Apply the migrations to the database.
 downgrade: ## Undo the last migration.
 	poetry run alembic downgrade -1
 
+.PHONY: db-drop
+db-drop: ## Drop the database.
+	docker compose exec postgres psql -U $(DB_USERNAME) -d postgres -c "DROP DATABASE IF EXISTS $(DB_DATABASE);"
+
+.PHONY: db-create
+db-create: ## Create the database.
+	docker compose exec postgres psql -U $(DB_USERNAME) -d postgres -c "CREATE DATABASE $(DB_DATABASE);"
+
 .PHONY: db-full-clean
-db-full-clean: ## Drop and recreate the database.
-	docker compose exec postgres postgres -u "$2" -p"$3" -e "DROP DATABASE IF EXISTS $4; CREATE DATABASE $4;"
+db-full-clean: db-drop db-create ## Drop and recreate the database.
 
 .PHONY: db-reset
 db-reset: db-full-clean migrate ## Drop, recreate and apply all migrations to the database.
