@@ -8,7 +8,7 @@ from src.utils.enums import TipoUsuarioEnum
 
 
 class Usuario(EntityModelBase):
-    __tablename__ = "usuarios"
+    __tablename__ = "Usuarios"
 
     nome: Mapped[str] = mapped_column(String(255), nullable=False, unique=False)
     email: Mapped[str] = mapped_column(

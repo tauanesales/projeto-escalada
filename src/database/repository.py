@@ -4,7 +4,7 @@ from loguru import logger
 from sqlalchemy import and_, select, update
 from sqlalchemy.ext.asyncio import AsyncSession
 
-from src.database.models.base.entity_model_base import EntityModelBase
+from database.models.base.entity_model_base import EntityModelBase
 
 
 class Repository:

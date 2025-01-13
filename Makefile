@@ -10,19 +10,19 @@ install: ## Install the project.
 
 .PHONY: up-postgres
 up-postgres: ## Start postgres database container.
-	docker compose up -d postgres --force-recreate
+	podman compose up -d postgres --force-recreate
 
 .PHONY: down
-down: ## Stop all docker services from this project.
-	docker compose down
+down: ## Stop all podman services from this project.
+	podman compose down
 
 .PHONY: rm-containers
-rm-containers: ## Remove all docker containers.
-	docker rm -f $$(docker ps -aq)
+rm-containers: ## Remove all podman containers.
+	podman rm -f $$(podman ps -aq)
 
-.PHONY: start-docker
-start-docker: ## Start the docker. WSL needs to manually start docker.
-	sudo service docker start
+.PHONY: start-podman
+start-podman: ## Start the podman. WSL needs to manually start podman.
+	sudo service podman start
 
 .PHONY: revision
 revision: ## Create a new revision of the database using alembic. Use MESSAGE="your message" to add a message.
@@ -38,11 +38,11 @@ downgrade: ## Undo the last migration.
 
 .PHONY: db-drop
 db-drop: ## Drop the database.
-	docker compose exec postgres psql -U $(DB_USERNAME) -d postgres -c "DROP DATABASE IF EXISTS $(DB_DATABASE);"
+	podman compose exec postgres psql -U $(DB_USERNAME) -d postgres -c "DROP DATABASE IF EXISTS $(DB_DATABASE);"
 
 .PHONY: db-create
 db-create: ## Create the database.
-	docker compose exec postgres psql -U $(DB_USERNAME) -d postgres -c "CREATE DATABASE $(DB_DATABASE);"
+	podman compose exec postgres psql -U $(DB_USERNAME) -d postgres -c "CREATE DATABASE $(DB_DATABASE);"
 
 .PHONY: db-full-clean
 db-full-clean: db-drop db-create ## Drop and recreate the database.
