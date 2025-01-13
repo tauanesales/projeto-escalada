@@ -1,4 +1,4 @@
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Xtlr nyryhkofavxfxbqqvw ywy l','0@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','ADMIN'::public.tipousuarioenum,NULL,'2011-01-01 00:00:00','2011-01-01 00:00:00',NULL),
 	 ('G o Nayd Vmxxxhothlesjfzw','1@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','ADMIN'::public.tipousuarioenum,NULL,'2011-01-02 00:00:00','2011-12-16 00:00:00',NULL),
 	 ('N mugtqkm ubjdkxohjoq xgfyew npniq','2@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','ADMIN'::public.tipousuarioenum,NULL,'2011-01-03 00:00:00','2012-10-12 00:00:00',NULL),
@@ -9,7 +9,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Hvgalajs yt','7@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','ADMIN'::public.tipousuarioenum,NULL,'2011-01-08 00:00:00','2011-02-09 00:00:00',NULL),
 	 ('Xvyejvtbez ajbmt','8@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','ADMIN'::public.tipousuarioenum,NULL,'2011-01-09 00:00:00','2011-02-02 00:00:00',NULL),
 	 ('Wi tvwzwngqfwy','9@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','ADMIN'::public.tipousuarioenum,NULL,'2011-01-10 00:00:00','2012-09-09 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Laibz','10@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','ADMIN'::public.tipousuarioenum,NULL,'2011-01-11 00:00:00','2011-05-03 00:00:00',NULL),
 	 ('Naowksnigvhdjfyfs xjqr Xmlez','11@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','ADMIN'::public.tipousuarioenum,NULL,'2011-01-12 00:00:00','2011-02-24 00:00:00',NULL),
 	 ('Dj mwerstmv x e jvnq uztmse D v ijbva','12@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','ADMIN'::public.tipousuarioenum,NULL,'2011-01-13 00:00:00','2012-09-10 00:00:00',NULL),
@@ -20,7 +20,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Edvvzox Ku sztefl','17@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','ADMIN'::public.tipousuarioenum,NULL,'2011-01-18 00:00:00','2011-03-11 00:00:00',NULL),
 	 ('Aektmbbdifzrsic fa wppebmpqqbfr Ker','18@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','ADMIN'::public.tipousuarioenum,NULL,'2011-01-19 00:00:00','2011-02-05 00:00:00',NULL),
 	 ('Psbquz caaxs','19@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','ADMIN'::public.tipousuarioenum,NULL,'2011-01-20 00:00:00','2011-10-26 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Tg ezmt ocf','20@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-01-21 00:00:00','2011-09-14 00:00:00',NULL),
 	 ('Iduicoksj','21@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-01-22 00:00:00','2011-01-22 00:00:00',NULL),
 	 ('Jvuds f','22@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-01-23 00:00:00','2011-02-02 00:00:00',NULL),
@@ -31,7 +31,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Hict mbtdco h Nnaxqpvwm oucrtdnfdeujkpy','27@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-01-28 00:00:00','2011-01-28 00:00:00',NULL),
 	 ('Paamb vvpaocgfp','28@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-01-29 00:00:00','2011-01-29 00:00:00',NULL),
 	 ('Tjvxczzetaq ileahpldiwbda tzu','29@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-01-30 00:00:00','2012-07-28 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('O hugfbao ec vzdo ch b idg Ubth','30@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-01-31 00:00:00','2011-02-04 00:00:00',NULL),
 	 ('Qtdnpx w ippllzhz Ikfdpqw xxgh zxnm','31@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-02-01 00:00:00','2011-02-13 00:00:00',NULL),
 	 ('Zd fjdxzsvsymolursfi Yqsk','32@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-02-02 00:00:00','2011-02-05 00:00:00',NULL),
@@ -42,7 +42,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Xiicgrut Kjqpdxcniiskm iromvfvmqac','37@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-02-07 00:00:00','2011-02-07 00:00:00',NULL),
 	 ('Pvau bssncfhobeqfq','38@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-02-08 00:00:00','2011-02-08 00:00:00',NULL),
 	 ('Aefelb n cocbms fnhwt tvcxdizs','39@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-02-09 00:00:00','2011-03-10 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Wymvlkblpansakx','40@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-02-10 00:00:00','2011-03-17 00:00:00',NULL),
 	 ('Rotfesvct J lp tptp','41@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-02-11 00:00:00','2012-03-23 00:00:00',NULL),
 	 ('Gp ktmaladrm','42@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-02-12 00:00:00','2011-08-21 00:00:00',NULL),
@@ -53,7 +53,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Vyz l qm kvbwimc htwjo','47@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-02-17 00:00:00','2011-03-22 00:00:00',NULL),
 	 ('Umlhksvxrhpl Qbu pwfupwiqtgwu','48@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-02-18 00:00:00','2011-02-18 00:00:00',NULL),
 	 ('Bcuhpil','49@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-02-19 00:00:00','2011-02-19 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Yz vyalmf g Ftln osplge mnsiwpufd','50@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-02-20 00:00:00','2011-02-20 00:00:00',NULL),
 	 ('Xzov e be','51@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-02-21 00:00:00','2012-08-23 00:00:00',NULL),
 	 ('Gzgfozigshyqdqdppsmdkojkgalakcb php','52@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-02-22 00:00:00','2011-06-20 00:00:00',NULL),
@@ -64,7 +64,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Dcomhzl','57@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-02-27 00:00:00','2012-05-04 00:00:00',NULL),
 	 ('Uxkuoemaqhtcm cofxa nuejav','58@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-02-28 00:00:00','2011-02-28 00:00:00',NULL),
 	 ('Lzgmm lyur hfnqcknnqw dt','59@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-03-01 00:00:00','2011-04-08 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Vzuoqelhsq','60@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-03-02 00:00:00','2011-05-06 00:00:00',NULL),
 	 ('Donta qrsmlozojxm kfptiilfjr iy','61@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-03-03 00:00:00','2011-03-03 00:00:00',NULL),
 	 ('Bibubdappqrgt ya tnrfqd fwmhalaaz','62@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-03-04 00:00:00','2011-08-26 00:00:00',NULL),
@@ -75,7 +75,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Pfwnqiftt Fzh pvdz','67@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-03-09 00:00:00','2011-05-04 00:00:00',NULL),
 	 ('Ybv uvewgxjpohhrrgpkeebexhifrbjz','68@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-03-10 00:00:00','2011-06-27 00:00:00',NULL),
 	 ('Mnvaj xumer jlompoo nblnoasxhrzseevue a','69@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-03-11 00:00:00','2011-03-11 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Zsuvyiwjg Y vyp mef Oanzwekoqqsntr','70@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-03-12 00:00:00','2011-03-12 00:00:00',NULL),
 	 ('Uqgtzltw s aeaqvqxmib z ypb','71@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-03-13 00:00:00','2011-03-14 00:00:00',NULL),
 	 ('Bonuck ostiqelvgkae','72@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-03-14 00:00:00','2011-07-05 00:00:00',NULL),
@@ -86,7 +86,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Snfvbbkbhuuonhjss cqomumqbivxfnr','77@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-03-19 00:00:00','2011-05-10 00:00:00',NULL),
 	 ('Kyyqizpzb rrpouivtykoprnmzbxnobwsyn','78@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-03-20 00:00:00','2011-04-06 00:00:00',NULL),
 	 ('Byvzyqietnmveuhff p Ejhu r lrtexr','79@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-03-21 00:00:00','2011-12-06 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('W ocull','80@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-03-22 00:00:00','2011-06-10 00:00:00',NULL),
 	 ('Hcrebkayspuhzozrzosuedntcgxm','81@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-03-23 00:00:00','2011-03-23 00:00:00',NULL),
 	 ('Lpvgq hisccdenzrgxaczg kkzor','82@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-03-24 00:00:00','2012-10-01 00:00:00',NULL),
@@ -97,7 +97,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Fgvl yiiwgxgce','87@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-03-29 00:00:00','2012-08-22 00:00:00',NULL),
 	 ('Hnrtjqjdt irgeyrozm L  qmly','88@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-03-30 00:00:00','2011-09-16 00:00:00',NULL),
 	 ('Pgalrhdfh bwicllhibjuwjda mokue','89@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-03-31 00:00:00','2011-08-14 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Rbzmpiehnplbps bba','90@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-04-01 00:00:00','2013-02-09 00:00:00','2013-05-02 00:00:00'),
 	 ('Bgd  fnsmn ucokipsm yx l oe Gjg','91@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-04-02 00:00:00','2011-04-02 00:00:00',NULL),
 	 ('Ymz e','92@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-04-03 00:00:00','2011-10-17 00:00:00',NULL),
@@ -108,7 +108,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Srhpcpzgff','97@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-04-08 00:00:00','2012-10-28 00:00:00',NULL),
 	 ('Yastabe  eoakax','98@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-04-09 00:00:00','2011-04-09 00:00:00',NULL),
 	 ('Owtqmasjxobrwtlzdi','99@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-04-10 00:00:00','2011-04-10 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Orfkp q','100@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-04-11 00:00:00','2011-05-02 00:00:00',NULL),
 	 ('Egg kpevzttrvd dzqbyhpptib zogexkohuald','101@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-04-12 00:00:00','2011-09-12 00:00:00',NULL),
 	 ('Bbaz kcyiyorjicniev fuglpnu','102@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-04-13 00:00:00','2011-04-13 00:00:00','2011-05-13 00:00:00'),
@@ -119,7 +119,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Nserc Qbpfgwwz o','107@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-04-18 00:00:00','2012-01-29 00:00:00',NULL),
 	 ('Z ms z Dvf ruv vnrott hiakno qrg phghpe','108@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-04-19 00:00:00','2011-10-08 00:00:00',NULL),
 	 ('N vckcf Repxsjklmddwhn','109@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-04-20 00:00:00','2011-12-22 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Oayrwpxeusebdnnwdnuehuikpeogbxpmibgtbzq','110@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-04-21 00:00:00','2011-05-09 00:00:00',NULL),
 	 ('Lxakrkexferzs uctygzzb ogscxwo','111@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-04-22 00:00:00','2011-07-11 00:00:00',NULL),
 	 ('Bsq','112@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-04-23 00:00:00','2011-05-03 00:00:00',NULL),
@@ -130,7 +130,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Dwr xpqdl nmeiwtzjetjvdbtynbmc','117@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-04-28 00:00:00','2011-10-07 00:00:00',NULL),
 	 ('Erl rxypiwpjoy  ui','118@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-04-29 00:00:00','2011-04-29 00:00:00','2013-03-27 00:00:00'),
 	 ('Iuygsgifcvoic usagmdldoxfoqoqx fmcxq','119@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-04-30 00:00:00','2012-12-08 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('D','120@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-05-01 00:00:00','2011-07-14 00:00:00',NULL),
 	 ('O wfztcgx','121@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-05-02 00:00:00','2011-05-22 00:00:00',NULL),
 	 ('Zh dgfqfcu','122@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-05-03 00:00:00','2011-05-03 00:00:00',NULL),
@@ -141,7 +141,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('H Prswpkixf ficjrankquxozxqyaq','127@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-05-08 00:00:00','2011-08-09 00:00:00',NULL),
 	 ('Pgsrrkydpvkzdkpym aqs fn','128@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-05-09 00:00:00','2011-05-09 00:00:00',NULL),
 	 ('I peedbve giiqdddq ki ii','129@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-05-10 00:00:00','2012-02-25 00:00:00','2012-02-25 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Sxjuakjwrqjuzdabhlgtictps','130@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-05-11 00:00:00','2011-07-13 00:00:00',NULL),
 	 ('Ntccmlnslu naur','131@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-05-12 00:00:00','2011-09-01 00:00:00',NULL),
 	 ('Ffiposihq rczioi','132@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-05-13 00:00:00','2011-05-13 00:00:00',NULL),
@@ -152,7 +152,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('I y iitroskvdcztwjsbrebby  jqafkou L','137@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-05-18 00:00:00','2011-09-14 00:00:00',NULL),
 	 ('U Wtuhyxfxgbrpueqz q','138@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-05-19 00:00:00','2011-05-19 00:00:00',NULL),
 	 ('Fxietulzejgct fkdnvv','139@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-05-20 00:00:00','2011-06-10 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('P livlcghyttonqi Iycx glcenpqnlmuh','140@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-05-21 00:00:00','2011-06-21 00:00:00',NULL),
 	 ('Qhrp wnasjfdxql','141@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-05-22 00:00:00','2012-04-06 00:00:00',NULL),
 	 ('Ftjadij','142@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-05-23 00:00:00','2011-07-04 00:00:00',NULL),
@@ -163,7 +163,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('V Afdriijphskt rngt nvusnmnocjyfsgc','147@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-05-28 00:00:00','2011-06-07 00:00:00','2012-04-17 00:00:00'),
 	 ('Nh  ah yha nojlm j kfmjwtf lhqiciukc','148@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-05-29 00:00:00','2012-03-27 00:00:00',NULL),
 	 ('Oepi','149@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-05-30 00:00:00','2011-06-21 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ipccjvtziv ltpyfi','150@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-05-31 00:00:00','2011-06-28 00:00:00',NULL),
 	 ('Mnmevphwuj ecwoyst  j','151@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-06-01 00:00:00','2011-06-08 00:00:00',NULL),
 	 ('Cieg dzxcdfnkxvkwi','152@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-06-02 00:00:00','2012-01-09 00:00:00','2012-03-30 00:00:00'),
@@ -174,7 +174,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Xv P','157@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-06-07 00:00:00','2011-06-26 00:00:00',NULL),
 	 ('Sbnxbkx ozudww','158@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-06-08 00:00:00','2011-08-02 00:00:00',NULL),
 	 ('Lnhofvatwpqwakaeb Xzau Qyinh','159@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-06-09 00:00:00','2011-06-09 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Hucbit cvfkjtfdarzojgipgzcimnbsxjhh','160@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-06-10 00:00:00','2011-07-11 00:00:00',NULL),
 	 ('Opi Gzhkhvecvl','161@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-06-11 00:00:00','2011-06-30 00:00:00',NULL),
 	 ('Wsubpffgqt csr  fhxv','162@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-06-12 00:00:00','2011-08-20 00:00:00',NULL),
@@ -185,7 +185,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Xax ivb jx Dth yr J x','167@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-06-17 00:00:00','2011-08-24 00:00:00','2011-08-24 00:00:00'),
 	 ('C dbqpm usijkudjupadnmixf  ngrt','168@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-06-18 00:00:00','2011-06-18 00:00:00',NULL),
 	 ('Y dr gvxlfaezyqxelpf','169@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-06-19 00:00:00','2011-06-19 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Mmntotlg avafibarnjivevww','170@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-06-20 00:00:00','2011-08-11 00:00:00','2011-09-07 00:00:00'),
 	 ('Elxxd ak aegom l','171@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-06-21 00:00:00','2012-04-27 00:00:00',NULL),
 	 ('Lieuaabekhzydwhggoghxg','172@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-06-22 00:00:00','2012-04-07 00:00:00',NULL),
@@ -196,7 +196,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('O jhhexg','177@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-06-27 00:00:00','2011-06-27 00:00:00',NULL),
 	 ('J u  ervc g abr','178@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-06-28 00:00:00','2011-06-28 00:00:00',NULL),
 	 ('Uidk   pszctdhjny','179@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-06-29 00:00:00','2012-06-18 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ehddo Jumwfrblxwf ixs','180@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-06-30 00:00:00','2011-07-20 00:00:00',NULL),
 	 ('Nmm Rvcqycxnycjowhpjvuzaw guo','181@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-07-01 00:00:00','2011-10-05 00:00:00',NULL),
 	 ('Yyqzimu Rf cmjjvb','182@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-07-02 00:00:00','2011-07-06 00:00:00',NULL),
@@ -207,7 +207,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Gresrwmhdjoserxtzdpar','187@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-07-07 00:00:00','2011-08-16 00:00:00',NULL),
 	 ('E lk wlksysnmjzwnlfe','188@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-07-08 00:00:00','2012-11-06 00:00:00',NULL),
 	 ('Xeoqm jllzjlg w cvy wcmzh','189@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-07-09 00:00:00','2011-07-09 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Tj  v aoysyo pt geviss qefarv pgqfptqmf','190@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-07-10 00:00:00','2013-01-03 00:00:00',NULL),
 	 ('Lefcrfatn','191@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-07-11 00:00:00','2012-10-26 00:00:00',NULL),
 	 ('Xpcllmkbdvqf Scpgypxmmvcyen Gj jugownj','192@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-07-12 00:00:00','2011-07-12 00:00:00',NULL),
@@ -218,7 +218,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Sxpyz akieubofivfdbvuix','197@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-07-17 00:00:00','2011-07-28 00:00:00',NULL),
 	 ('Gbml enataquuoqre eetwi Gbzodnhw  j k','198@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-07-18 00:00:00','2011-08-04 00:00:00',NULL),
 	 ('Oxfjuogotzbkjs r','199@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-07-19 00:00:00','2011-08-21 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Miruykaybvycpg','200@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-07-20 00:00:00','2013-06-10 00:00:00',NULL),
 	 ('Skl ms  clqxsolbicgspfso','201@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-07-21 00:00:00','2011-11-02 00:00:00',NULL),
 	 ('L fqfppdsiotjwrij q','202@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-07-22 00:00:00','2011-07-22 00:00:00',NULL),
@@ -229,7 +229,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ncnj','207@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-07-27 00:00:00','2011-08-13 00:00:00',NULL),
 	 ('Vmxbhvdsaulkgzcqvm','208@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-07-28 00:00:00','2013-06-14 00:00:00',NULL),
 	 ('Niwzm zhvv bbkllzop','209@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-07-29 00:00:00','2011-10-24 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Omyjx eyrjzmdbzqu Lc','210@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-07-30 00:00:00','2011-09-17 00:00:00',NULL),
 	 ('Cb ufmwbiimkxmcfxnubovcfbwjezj','211@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-07-31 00:00:00','2012-11-16 00:00:00',NULL),
 	 ('Lwuhglkkijkdvvhi Hhvow s','212@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-08-01 00:00:00','2011-10-22 00:00:00','2012-04-10 00:00:00'),
@@ -240,7 +240,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Reqittt Hwzyfuspduyzi kcylnllvvpvimazgt','217@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-08-06 00:00:00','2011-08-31 00:00:00',NULL),
 	 ('Matzrabhsepvbpexkd ke','218@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-08-07 00:00:00','2011-08-15 00:00:00',NULL),
 	 ('S ttgyi sulhxqlns','219@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-08-08 00:00:00','2011-08-08 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Yxccmwffeqbdp','220@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-08-09 00:00:00','2011-08-09 00:00:00',NULL),
 	 ('Lkhzabui','221@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-08-10 00:00:00','2011-09-18 00:00:00',NULL),
 	 ('Idqsndzufvlnbb ejmgbxlzik','222@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-08-11 00:00:00','2011-08-11 00:00:00',NULL),
@@ -251,7 +251,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Cncydxto  ollplheregfqmicqlosljsukwddkv','227@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-08-16 00:00:00','2012-06-27 00:00:00','2013-11-20 00:00:00'),
 	 ('Mrgcap','228@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-08-17 00:00:00','2011-10-29 00:00:00',NULL),
 	 ('Qtguxtfjoaylmndsahywbocngkj ciqocgg','229@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-08-18 00:00:00','2012-08-15 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Vlzfyl','230@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-08-19 00:00:00','2011-08-26 00:00:00',NULL),
 	 ('Hasrta','231@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-08-20 00:00:00','2012-05-10 00:00:00',NULL),
 	 ('Pznpnlegvmpic wugdnjinhwx immlqhbw rrs','232@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-08-21 00:00:00','2011-08-21 00:00:00','2011-08-21 00:00:00'),
@@ -262,7 +262,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Vjaldxdsmvj H at Reu rdzglglfllffc Rho','236@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-08-25 00:00:00','2011-08-25 00:00:00',NULL),
 	 ('Xohm','237@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-08-26 00:00:00','2011-09-13 00:00:00',NULL),
 	 ('Roboihxtgeb vsjrnntdb Thw Naclhqi zvrct','238@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-08-27 00:00:00','2011-12-17 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Iea','239@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-08-28 00:00:00','2011-12-25 00:00:00',NULL),
 	 ('Dabraqtqhpzvreelyh','240@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-08-29 00:00:00','2011-08-29 00:00:00',NULL),
 	 ('Slzey zzqdfzsjchb  tpmuzjazt b','241@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-08-30 00:00:00','2013-03-16 00:00:00',NULL),
@@ -273,7 +273,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Vylbh xobgwoumxiakfy wr bul wdl omiuys','246@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-09-04 00:00:00','2011-10-22 00:00:00',NULL),
 	 ('X vnodqrivl','247@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-09-05 00:00:00','2011-10-02 00:00:00',NULL),
 	 ('Rpsa i l em Gvno','248@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-09-06 00:00:00','2011-09-21 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Kgizqeiwfnbytei cynnzqtq ljvgydlloe','249@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-09-07 00:00:00','2012-03-09 00:00:00',NULL),
 	 ('Qjzne yulxqsbm','250@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-09-08 00:00:00','2011-09-08 00:00:00',NULL),
 	 ('F twwerqvx tbjlt','251@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-09-09 00:00:00','2013-06-21 00:00:00',NULL),
@@ -284,7 +284,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Tqndnrfoaxq hiue  msetfwnywieblqb','256@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-09-14 00:00:00','2011-09-14 00:00:00',NULL),
 	 ('Klnonjpanndbjiffb knmd','257@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-09-15 00:00:00','2012-04-20 00:00:00',NULL),
 	 ('Fthljrz Oxtrytg iejtvd  i jubmy iy','258@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-09-16 00:00:00','2011-10-30 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Gecoufkpqk','259@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-09-17 00:00:00','2011-09-17 00:00:00',NULL),
 	 ('Blrcrsb oh taow bdfbyuumcvy','260@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-09-18 00:00:00','2011-10-22 00:00:00',NULL),
 	 ('Fbimkjrwky rwv jgsivkmybuyx m','261@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-09-19 00:00:00','2012-08-23 00:00:00',NULL),
@@ -295,7 +295,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Esjozhge kbsktg wo mhsmxrttbex Q','266@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-09-24 00:00:00','2012-06-19 00:00:00',NULL),
 	 ('Tyw j rn','267@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-09-25 00:00:00','2011-12-23 00:00:00',NULL),
 	 ('Wraoqqqwkzzafti ddibm arr ynsc gm','268@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-09-26 00:00:00','2011-10-09 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Xcmppmqtpj jy czzsqd','269@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-09-27 00:00:00','2011-10-20 00:00:00',NULL),
 	 ('Jotkbpc','270@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-09-28 00:00:00','2012-12-05 00:00:00',NULL),
 	 ('Brkikag rg m Exonrepupsdq gbxwm','271@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-09-29 00:00:00','2013-04-03 00:00:00',NULL),
@@ -306,7 +306,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Wzufblclby  bduqwlunjbj','276@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-10-04 00:00:00','2011-10-20 00:00:00',NULL),
 	 ('Ptejohw d drb rlwrfdw','277@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-10-05 00:00:00','2011-10-05 00:00:00',NULL),
 	 ('M Eg kx jyybeotsjlaknkzmehhknlmrpwe','278@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-10-06 00:00:00','2012-01-20 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Nwi paaybgbotff lrmhmphetikn Gaupmgh','279@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-10-07 00:00:00','2011-12-09 00:00:00','2012-01-14 00:00:00'),
 	 ('Tpog','280@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-10-08 00:00:00','2012-05-29 00:00:00',NULL),
 	 ('Igjngsgangahhiezn','281@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-10-09 00:00:00','2011-10-09 00:00:00',NULL),
@@ -317,7 +317,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Spc','286@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-10-14 00:00:00','2011-10-16 00:00:00',NULL),
 	 ('Pftuosxitfwfxnethv tmxtrebzj Ceaqgh','287@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-10-15 00:00:00','2013-07-05 00:00:00',NULL),
 	 ('Uhbe','288@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-10-16 00:00:00','2011-12-04 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Idlkdiwfrx bmvrwkablvt','289@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-10-17 00:00:00','2011-10-17 00:00:00',NULL),
 	 ('Ruca tad Qwfjieszaou tpxtujnluxbjc','290@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-10-18 00:00:00','2011-11-02 00:00:00',NULL),
 	 ('Eahmtde','291@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-10-19 00:00:00','2011-10-19 00:00:00',NULL),
@@ -328,7 +328,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Kclg Eua Yfz mvzy oslf Kqbgwk','297@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-10-25 00:00:00','2011-12-29 00:00:00','2012-03-26 00:00:00'),
 	 ('Ztvrmphpgfdvqrjzxommp Ipcfk j rl','298@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-10-26 00:00:00','2011-11-17 00:00:00',NULL),
 	 ('Vttxow gywkqz','299@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-10-27 00:00:00','2013-02-12 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Tacwmhtkdtwslu jwcugic','300@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-10-28 00:00:00','2012-07-09 00:00:00',NULL),
 	 ('Tnssslzxgkfzkr','301@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-10-29 00:00:00','2013-08-29 00:00:00',NULL),
 	 ('Mtvmcv sjaaw fskjmntyzwclbf U','302@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-10-30 00:00:00','2012-01-26 00:00:00',NULL),
@@ -339,7 +339,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Aqljvxdtreyotdqfenh Fiap Usixtcvp p Nao','307@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-11-04 00:00:00','2012-09-05 00:00:00',NULL),
 	 ('Amjk rfwcrq','308@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-11-05 00:00:00','2011-11-05 00:00:00',NULL),
 	 ('Nx cgcdkeg c Xyonhle','309@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-11-06 00:00:00','2011-11-06 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Jsiklbarv x','310@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-11-07 00:00:00','2011-11-07 00:00:00',NULL),
 	 ('K xvrgrx Bkjtzubkxd ufo ownocchyr','311@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-11-08 00:00:00','2012-02-21 00:00:00',NULL),
 	 ('Hvznelm xobcprlojqpjbxvjyjosgxulk','312@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-11-09 00:00:00','2013-03-14 00:00:00',NULL),
@@ -350,7 +350,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Nuszfmrixqthijefukrousazhexyfqso hmomz','317@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-11-14 00:00:00','2011-12-09 00:00:00','2011-12-13 00:00:00'),
 	 ('Eq ieqy shj airyji k unwxikxhecz','318@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-11-15 00:00:00','2011-11-20 00:00:00',NULL),
 	 ('Gpbqmodr rzdvvmgrgpibv mm','319@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-11-16 00:00:00','2011-11-30 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Naewrzmnccujzjpcnqmxd fd Qm na hpbcqgm','320@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-11-17 00:00:00','2013-10-17 00:00:00',NULL),
 	 ('Vwohrznyh','321@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-11-18 00:00:00','2011-11-20 00:00:00',NULL),
 	 ('Srxefvbok','322@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-11-19 00:00:00','2012-08-26 00:00:00',NULL),
@@ -361,7 +361,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Vhcsgdpnuomn V J e sc jhgfnz reqttl','327@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-11-24 00:00:00','2011-12-24 00:00:00',NULL),
 	 ('B zqner Niiobefg Emohlfryrtcp Knsfwzpta','328@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-11-25 00:00:00','2012-02-06 00:00:00',NULL),
 	 ('Ytdrqtjylauketjxvleqgnolbtsdrfxs rcqvscw','329@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-11-26 00:00:00','2011-12-10 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ehyrunpyenmrycuiqtehf Uvte puqzsp','330@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-11-27 00:00:00','2011-12-15 00:00:00','2011-12-28 00:00:00'),
 	 ('Rasmvabwiypeulvjfizo Cithbg','331@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-11-28 00:00:00','2012-08-18 00:00:00',NULL),
 	 ('Bzdowxxzb Ctd hefi Xoqgn alsxbwetcapqqy','332@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-11-29 00:00:00','2011-11-29 00:00:00','2011-12-09 00:00:00'),
@@ -372,7 +372,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Skxeewrilufd','337@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-12-04 00:00:00','2012-02-09 00:00:00',NULL),
 	 ('Toku dmq l Uh','338@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-12-05 00:00:00','2011-12-05 00:00:00',NULL),
 	 ('Nmxw uquengfcupmb','339@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-12-06 00:00:00','2011-12-06 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ox  ovuxhcoabhwbn uqmvufhaqt','340@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-12-07 00:00:00','2012-06-05 00:00:00',NULL),
 	 ('Cfjgfnpspuu kveoiujdom','341@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-12-08 00:00:00','2012-01-23 00:00:00',NULL),
 	 ('Zmiwoadzdigtbfti yhog','342@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-12-09 00:00:00','2011-12-22 00:00:00','2012-04-28 00:00:00'),
@@ -383,7 +383,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Xnwrcakneegn ntxansfrug Hvjovictvvo','347@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-12-14 00:00:00','2012-01-03 00:00:00',NULL),
 	 ('Ymcpuwjiuwrcfwpourhrcn byzcp qbsolaruxl','348@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-12-15 00:00:00','2011-12-17 00:00:00',NULL),
 	 ('Rphsswcjleaoq','349@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-12-16 00:00:00','2013-08-11 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Noivt oihjomkyq cmkfwbfjf wteie','350@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-12-17 00:00:00','2012-03-16 00:00:00',NULL),
 	 ('Vpqksdgthb glphjskxczpsbwahw p bfklf','351@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-12-18 00:00:00','2012-08-02 00:00:00',NULL),
 	 ('D E osom qfebsi ysxdmxadvrkmawyuaoew h','352@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-12-19 00:00:00','2011-12-19 00:00:00',NULL),
@@ -394,7 +394,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Exix ffkvpzxjgaoztiniuzg Wjd','357@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-12-24 00:00:00','2012-03-25 00:00:00',NULL),
 	 ('Fp Av','358@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-12-25 00:00:00','2012-04-03 00:00:00','2012-04-06 00:00:00'),
 	 ('Ixxzmzxoak  zswhnxmygyknyngic Po','359@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-12-26 00:00:00','2013-03-30 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('U Hcdzca','360@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-12-27 00:00:00','2011-12-27 00:00:00',NULL),
 	 ('Pnezyro wkyukzvpj yood','361@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-12-28 00:00:00','2012-01-11 00:00:00',NULL),
 	 ('Velaupnwze fizeb  gi kuj qcmu','362@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2011-12-29 00:00:00','2012-05-31 00:00:00',NULL),
@@ -405,7 +405,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ffgz o Zgvh','367@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-01-03 00:00:00','2012-01-16 00:00:00',NULL),
 	 ('Yzanognnvudfrruworzvmi k','368@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-01-04 00:00:00','2012-03-24 00:00:00',NULL),
 	 ('Sbp kftytjxp lknv s','369@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-01-05 00:00:00','2012-02-01 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Vtza','370@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-01-06 00:00:00','2012-02-11 00:00:00',NULL),
 	 ('Qzfukibhhxf bflqct dfm a btmdr','371@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-01-07 00:00:00','2012-03-25 00:00:00','2012-03-25 00:00:00'),
 	 ('U utgxrqxcb','372@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-01-08 00:00:00','2012-08-19 00:00:00',NULL),
@@ -416,7 +416,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Pav wuir symg','377@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-01-13 00:00:00','2012-01-17 00:00:00',NULL),
 	 ('Lgv brl','378@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-01-14 00:00:00','2013-10-19 00:00:00',NULL),
 	 ('Fctyntpatdtbsedrxk xclzx Kvotyzmiw','379@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-01-15 00:00:00','2012-01-15 00:00:00','2012-01-26 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Uajmqueiuwbjqngboxlpwhr rjfhrq kbt','380@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-01-16 00:00:00','2012-01-16 00:00:00',NULL),
 	 ('Qs n fuvypdevrce','381@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-01-17 00:00:00','2012-12-05 00:00:00',NULL),
 	 ('Vdvl vliyoaowsgjzxjwsfipi','382@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-01-18 00:00:00','2012-01-18 00:00:00',NULL),
@@ -427,7 +427,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('F flcssuirkxdmbtpsbdzxb Akkqlgdpxotz','387@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-01-23 00:00:00','2013-07-21 00:00:00',NULL),
 	 ('Eqdg dkuu ryczzf nyhi','388@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-01-24 00:00:00','2012-01-24 00:00:00',NULL),
 	 ('Jyosvi Uu xqjedw Hmebafuc','389@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-01-25 00:00:00','2012-03-20 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Klce mgellnb kjqry Xherxkry','390@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-01-26 00:00:00','2012-01-26 00:00:00',NULL),
 	 ('Mtalovo yioqxxwxt','391@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-01-27 00:00:00','2012-02-08 00:00:00',NULL),
 	 ('Bap ffdjmna','392@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-01-28 00:00:00','2012-05-11 00:00:00',NULL),
@@ -438,7 +438,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ngjtjvrlkcldvvqs','397@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-02-02 00:00:00','2012-02-12 00:00:00',NULL),
 	 ('Pabgwqarxn bj njbneof ecsi','398@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-02-03 00:00:00','2013-12-29 00:00:00',NULL),
 	 ('Nnljlwjenvemqtxccmgmxnxsohyl wuguwwh','399@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-02-04 00:00:00','2012-02-04 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Lfkgnzawbufe hv','400@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-02-05 00:00:00','2012-02-26 00:00:00',NULL),
 	 ('Xdwoaofjlucgyiayxem rui grmplw hxigu uf','401@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-02-06 00:00:00','2012-02-16 00:00:00',NULL),
 	 ('Ophsttlr','402@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-02-07 00:00:00','2012-02-12 00:00:00',NULL),
@@ -449,7 +449,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Fdkcqqdz','407@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-02-12 00:00:00','2012-05-29 00:00:00',NULL),
 	 ('Pwocs','408@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-02-13 00:00:00','2012-04-26 00:00:00','2014-02-15 00:00:00'),
 	 ('Hi fiwlcte','409@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-02-14 00:00:00','2012-04-12 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ytdcsgwdnw mkruxblli','410@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-02-15 00:00:00','2013-10-09 00:00:00',NULL),
 	 ('Olebiakdlegjlb Lsoifg','411@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-02-16 00:00:00','2012-02-16 00:00:00',NULL),
 	 ('Wqbrq gsfxdgmmxddnxu','412@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-02-17 00:00:00','2012-02-17 00:00:00',NULL),
@@ -460,7 +460,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ilbl njvlzzsjjjvxeycv gck H','417@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-02-22 00:00:00','2012-06-17 00:00:00',NULL),
 	 ('Uuaifeei npdc wijxhsudgqcl bk','418@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-02-23 00:00:00','2012-02-23 00:00:00',NULL),
 	 ('Kcy','419@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-02-24 00:00:00','2012-03-02 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Cmope','420@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-02-25 00:00:00','2012-05-17 00:00:00',NULL),
 	 ('Kdsixhwwghxhnxktefkxx','421@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-02-26 00:00:00','2012-03-26 00:00:00',NULL),
 	 ('Uszqjzbdfgz','422@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-02-27 00:00:00','2012-03-05 00:00:00',NULL),
@@ -471,7 +471,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Boavhqiowgrbkpalzazucey  wbdanbwcaifbr','427@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-03-03 00:00:00','2012-05-02 00:00:00',NULL),
 	 ('J b r','428@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-03-04 00:00:00','2012-04-05 00:00:00',NULL),
 	 ('Gwoq','429@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-03-05 00:00:00','2013-11-02 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Amnmqobfvhugl Ycdpl yzbflzkmg u','430@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-03-06 00:00:00','2012-03-24 00:00:00',NULL),
 	 ('Qczorjnmulqh rvh djx  af lkpdwv kzaoxm','431@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-03-07 00:00:00','2012-03-29 00:00:00',NULL),
 	 ('Wuuh  kxul zvaitrgt s wsciqp','432@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-03-08 00:00:00','2013-08-28 00:00:00','2013-10-30 00:00:00'),
@@ -482,7 +482,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('X udjkqml','437@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-03-13 00:00:00','2012-03-13 00:00:00',NULL),
 	 ('Mud W s','438@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-03-14 00:00:00','2012-03-26 00:00:00',NULL),
 	 ('K ckejmuehjkdp','439@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-03-15 00:00:00','2012-03-24 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Budwil ejvpye','440@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-03-16 00:00:00','2012-06-02 00:00:00',NULL),
 	 ('W xxpjsc','441@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-03-17 00:00:00','2012-05-12 00:00:00',NULL),
 	 ('Fraqcmmg y br esoxaydtdisdaizylkqcvuxe','442@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-03-18 00:00:00','2012-04-05 00:00:00',NULL),
@@ -493,7 +493,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Iojghh','447@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-03-23 00:00:00','2013-08-16 00:00:00',NULL),
 	 ('Imteykthjmo xhdihpcopnuvidjowjbinrqdefv','448@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-03-24 00:00:00','2012-03-24 00:00:00',NULL),
 	 ('Ezqweqnabl','449@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-03-25 00:00:00','2012-07-03 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Yjnis medhdu','450@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-03-26 00:00:00','2012-03-26 00:00:00',NULL),
 	 ('Scdtbsrvjtfw cponxz  rxrp','451@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-03-27 00:00:00','2012-03-27 00:00:00','2012-04-04 00:00:00'),
 	 ('Fq Jjtveslhap','452@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-03-28 00:00:00','2013-09-12 00:00:00',NULL),
@@ -504,7 +504,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Bttmwjvzajtlptell','457@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-04-02 00:00:00','2013-03-19 00:00:00',NULL),
 	 ('Vwgnumvuxye gja fzf','458@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-04-03 00:00:00','2012-06-06 00:00:00',NULL),
 	 ('Uzdbjgmd cz','459@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-04-04 00:00:00','2012-05-17 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Txreiewenrkdl ns vejqbnaa','460@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-04-05 00:00:00','2012-07-13 00:00:00',NULL),
 	 ('Dnqhuojcxbzfbmzolnlvfbjd  wyh','461@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-04-06 00:00:00','2012-04-06 00:00:00',NULL),
 	 ('Ajkygfxsvfhotbmnt Wussod jsobe oq','462@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-04-07 00:00:00','2012-04-07 00:00:00','2012-04-09 00:00:00'),
@@ -515,7 +515,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Rojafarmlpwpfyvnnniklohtajgzszbm','467@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-04-12 00:00:00','2013-03-27 00:00:00','2013-04-26 00:00:00'),
 	 ('Opxqv Dhyzoxay','468@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-04-13 00:00:00','2012-04-13 00:00:00',NULL),
 	 ('Czcfzyzpvikrnwc','469@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-04-14 00:00:00','2012-04-30 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Wqyf Ycuyd s','470@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-04-15 00:00:00','2012-04-15 00:00:00',NULL),
 	 ('Agejkjk khmhxjvd f','471@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-04-16 00:00:00','2012-04-20 00:00:00','2012-09-17 00:00:00'),
 	 ('Mcahdyqignnoiabkcpy','472@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-04-17 00:00:00','2012-04-17 00:00:00',NULL),
@@ -526,7 +526,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Nefstl qqsrezwydrhcyy fvjfmg l qw','477@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-04-22 00:00:00','2012-04-22 00:00:00',NULL),
 	 ('Pzbbuqizzwfukx','478@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-04-23 00:00:00','2012-04-23 00:00:00',NULL),
 	 ('Rdltazvhfflof yohikuyekz','479@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-04-24 00:00:00','2012-04-24 00:00:00','2012-04-29 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Klfyrhixdzllhwfq pucwgeiihj','480@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-04-25 00:00:00','2012-04-25 00:00:00',NULL),
 	 ('Tb ioyinnsmsjgj Dq n Evqicrk K xlqqonmz','481@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-04-26 00:00:00','2012-05-11 00:00:00',NULL),
 	 ('Wk kgsmpkakmqssukhlh yqkwc tsnc','482@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-04-27 00:00:00','2012-05-24 00:00:00',NULL),
@@ -537,7 +537,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Zx pnfmj  w jzjnv ai Fitigfahshfv','487@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-05-02 00:00:00','2012-05-02 00:00:00',NULL),
 	 ('Lgqrhrapon','488@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-05-03 00:00:00','2012-10-08 00:00:00',NULL),
 	 ('Yru iqnxvolygyyxvhe','489@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-05-04 00:00:00','2012-05-18 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Wk pmzmrmxbijyr','490@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-05-05 00:00:00','2012-07-13 00:00:00',NULL),
 	 ('Dwp ypo ikd mfqo ukzwss','491@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-05-06 00:00:00','2012-05-06 00:00:00',NULL),
 	 ('Ypupkvvawntdt','492@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-05-07 00:00:00','2012-08-02 00:00:00',NULL),
@@ -548,7 +548,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ewc nnsfhrgc','497@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-05-12 00:00:00','2012-05-22 00:00:00',NULL),
 	 ('Klmoxqzuitzqn','498@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-05-13 00:00:00','2012-05-13 00:00:00','2012-08-15 00:00:00'),
 	 ('X Vj xvc am vyr na bpjij','499@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-05-14 00:00:00','2012-05-14 00:00:00','2014-04-08 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Dfioogsl tblak','500@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-05-15 00:00:00','2012-11-16 00:00:00',NULL),
 	 ('Nyrawwhwz xooj','501@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-05-16 00:00:00','2012-06-02 00:00:00',NULL),
 	 ('Iqcqusgbjwuudjvfulxhblt esptfgid drfcc','502@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-05-17 00:00:00','2012-05-28 00:00:00',NULL),
@@ -559,7 +559,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ucwxhgvmgjjuh','507@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-05-22 00:00:00','2012-06-06 00:00:00',NULL),
 	 ('Oryiw','508@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-05-23 00:00:00','2012-05-23 00:00:00',NULL),
 	 ('Pryeuwckdg','509@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-05-24 00:00:00','2012-06-21 00:00:00','2012-08-03 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Iaiwl Tdf','510@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-05-25 00:00:00','2012-05-25 00:00:00','2012-07-02 00:00:00'),
 	 ('Ouje','511@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-05-26 00:00:00','2012-05-26 00:00:00',NULL),
 	 ('Gf Qrko kz  do kjlkggts Pkatexjrqu','512@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-05-27 00:00:00','2012-05-27 00:00:00',NULL),
@@ -570,7 +570,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Brpnzp w Bfztffqksmuiqrunfu','517@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-06-01 00:00:00','2014-02-18 00:00:00',NULL),
 	 ('G  pw ikjrth','518@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-06-02 00:00:00','2012-06-12 00:00:00',NULL),
 	 ('Vweulnf w voehdhos','519@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-06-03 00:00:00','2013-03-02 00:00:00','2013-03-02 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Dqjlahnsrkjftocxnh mfj hyct','520@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-06-04 00:00:00','2014-01-28 00:00:00',NULL),
 	 ('Xnjgf','521@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-06-05 00:00:00','2013-04-26 00:00:00',NULL),
 	 ('Tytnbmjoshak tcaqourwjvk lor','522@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-06-06 00:00:00','2012-11-18 00:00:00',NULL),
@@ -581,7 +581,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Thdaosnsydoiciqve s exommtq rcml','527@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-06-11 00:00:00','2012-07-10 00:00:00',NULL),
 	 ('Hfxvychnjmar Dwdecor pacx','528@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-06-12 00:00:00','2012-06-30 00:00:00',NULL),
 	 ('Dalexfrz','529@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-06-13 00:00:00','2012-06-13 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Uzr Xh wrxcepsait','530@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-06-14 00:00:00','2012-06-14 00:00:00',NULL),
 	 ('O xiddodzgh','531@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-06-15 00:00:00','2012-06-15 00:00:00',NULL),
 	 ('Dxp dxyjxnfb ctferesncfahuno ufafugqw','532@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-06-16 00:00:00','2012-11-19 00:00:00','2013-04-03 00:00:00'),
@@ -592,7 +592,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('R zh jkvohhhzfx aemknhjvq ymdrj','537@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-06-21 00:00:00','2012-09-25 00:00:00',NULL),
 	 ('Soyyjx Qvm','538@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-06-22 00:00:00','2014-03-14 00:00:00','2014-03-14 00:00:00'),
 	 ('Tnzma mudijck h','539@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-06-23 00:00:00','2012-06-23 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Lq iqgpb rtpqifyqyk','540@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-06-24 00:00:00','2012-09-25 00:00:00',NULL),
 	 ('B mlxfrluaxuly bt rmjxour','541@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-06-25 00:00:00','2013-08-17 00:00:00',NULL),
 	 ('Otdfgrengx','542@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-06-26 00:00:00','2012-06-26 00:00:00',NULL),
@@ -603,7 +603,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Wdalycqk bkmfme','547@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-07-01 00:00:00','2013-07-07 00:00:00',NULL),
 	 ('Veidg rfvohuh','548@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-07-02 00:00:00','2012-07-14 00:00:00',NULL),
 	 ('Htpxwgzqlygq f','549@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-07-03 00:00:00','2012-07-03 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Dmgzurkufzmymtswu W y Yaqivwdmcv quul','550@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-07-04 00:00:00','2012-07-24 00:00:00',NULL),
 	 ('Si wcpzpnfpsyzhqtdbqjzg','551@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-07-05 00:00:00','2012-07-10 00:00:00','2012-08-07 00:00:00'),
 	 ('Fpfr Yecithsvlcx Wxhxy','552@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-07-06 00:00:00','2012-07-27 00:00:00',NULL),
@@ -614,7 +614,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Vkngby uww','557@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-07-11 00:00:00','2012-07-12 00:00:00',NULL),
 	 ('M xmbg el on perbajealnyd rfbmu xqimhzs','558@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-07-12 00:00:00','2012-07-12 00:00:00',NULL),
 	 ('Xzukc Tazxkwvcj jjxwjznxuubifjlqw','559@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-07-13 00:00:00','2012-10-07 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Z vn wqaemom Hgla ocymtuxjurne','560@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-07-14 00:00:00','2012-09-12 00:00:00',NULL),
 	 ('E gcsdtfcqptktua mf jile','561@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-07-15 00:00:00','2012-09-06 00:00:00',NULL),
 	 ('Qbmfkrqev','562@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-07-16 00:00:00','2012-07-16 00:00:00',NULL),
@@ -625,7 +625,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Hyypdwgj','567@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-07-21 00:00:00','2012-11-28 00:00:00',NULL),
 	 ('Popwyliagjucefcrhyrzb','568@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-07-22 00:00:00','2012-07-22 00:00:00',NULL),
 	 ('Kprqebnlzsmtjrjco','569@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-07-23 00:00:00','2012-08-08 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Sgeeec mgfrxvrotenawxsjoyuhaknzg','570@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-07-24 00:00:00','2012-07-24 00:00:00',NULL),
 	 ('Uvoy saxtz xtamzw pylhx','571@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-07-25 00:00:00','2013-08-07 00:00:00',NULL),
 	 ('Ftdtaogcak ddknr y omjtxrjhlnmdryq','572@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-07-26 00:00:00','2012-07-26 00:00:00',NULL),
@@ -636,7 +636,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Jok epralhp','577@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-07-31 00:00:00','2012-08-17 00:00:00',NULL),
 	 ('Ncyqfeftiytulpl hjx d ykpjrx','578@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-08-01 00:00:00','2012-08-20 00:00:00',NULL),
 	 ('Xrzuinyzmgeyggecbckg','579@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-08-02 00:00:00','2012-08-02 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Kwtafykdofdwwxnxuequcupgxhxgx Oxpevlu','580@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-08-03 00:00:00','2012-08-07 00:00:00',NULL),
 	 ('Gbooinqwxukwhhedtmmlzxcnpbxyixnqbjx df','581@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-08-04 00:00:00','2014-04-09 00:00:00',NULL),
 	 ('Vhsdtw hhics','582@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-08-05 00:00:00','2012-08-05 00:00:00',NULL),
@@ -647,7 +647,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ltqricbaqsbtfkytzduilk s ffi h iy H','587@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-08-10 00:00:00','2012-08-25 00:00:00',NULL),
 	 ('Lvtwfnqi zyruduack jp','588@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-08-11 00:00:00','2013-06-20 00:00:00',NULL),
 	 ('Nlpt','589@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-08-12 00:00:00','2012-08-12 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Yf y','590@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-08-13 00:00:00','2012-09-11 00:00:00','2012-10-11 00:00:00'),
 	 ('Ue hj a','591@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-08-14 00:00:00','2012-08-14 00:00:00',NULL),
 	 ('Mvc Rcikopt  zuhslqsf','651@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-10-13 00:00:00','2013-12-24 00:00:00',NULL),
@@ -658,7 +658,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Jgrfhbce','596@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-08-19 00:00:00','2012-09-09 00:00:00',NULL),
 	 ('Crqahzllll','597@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-08-20 00:00:00','2012-08-20 00:00:00','2012-08-20 00:00:00'),
 	 ('Ps wk','598@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-08-21 00:00:00','2012-09-07 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ecnrgv','599@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-08-22 00:00:00','2012-08-22 00:00:00',NULL),
 	 ('Sbeidkoxi ltfddpbgnjd gbfejr uf','600@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-08-23 00:00:00','2012-08-23 00:00:00',NULL),
 	 ('Crvpnouyyrpne qrxmywzloft','601@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-08-24 00:00:00','2012-11-14 00:00:00','2013-06-18 00:00:00'),
@@ -669,7 +669,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Rgzums yjjlywvbqt   pxjxqypescujfjqwy','606@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-08-29 00:00:00','2013-08-02 00:00:00','2013-08-02 00:00:00'),
 	 ('Sclhw J','607@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-08-30 00:00:00','2012-11-25 00:00:00',NULL),
 	 ('X mk wmgnsfg vzwdufldt obqedfvy','608@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-08-31 00:00:00','2013-12-27 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Pslrhn qf','609@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-09-01 00:00:00','2012-09-14 00:00:00',NULL),
 	 ('Dp plj rfghxkwqdbpnwecdv Yaup pfobrctsek','610@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-09-02 00:00:00','2012-09-29 00:00:00',NULL),
 	 ('Uhe','611@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-09-03 00:00:00','2012-11-19 00:00:00',NULL),
@@ -680,7 +680,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Jfs gie Jfo wg cnpjq Djcvm','616@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-09-08 00:00:00','2013-09-25 00:00:00',NULL),
 	 ('Xkczytw','617@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-09-09 00:00:00','2012-11-17 00:00:00',NULL),
 	 ('Sdljx mpsgrxe jn Qau W','618@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-09-10 00:00:00','2012-09-10 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('R botru a','619@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-09-11 00:00:00','2014-04-11 00:00:00',NULL),
 	 ('Sxmxasjzuveti','620@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-09-12 00:00:00','2012-09-30 00:00:00',NULL),
 	 ('Rcbf dzxgqltvpozzayrdhtq Zddvzugwl','621@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-09-13 00:00:00','2012-09-13 00:00:00',NULL),
@@ -691,7 +691,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('La elsimez ao Czqickyfufwu','626@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-09-18 00:00:00','2014-08-18 00:00:00','2014-10-19 00:00:00'),
 	 ('Gmfdtyao nuyoeka nblhawiuiujapw tmbqyhp','627@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-09-19 00:00:00','2012-10-05 00:00:00',NULL),
 	 ('Wuvshhw iqyuzev dny rbrvij m','628@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-09-20 00:00:00','2012-09-20 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('P Qqjrmtoxplgjm mpmylowfdt','629@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-09-21 00:00:00','2012-09-21 00:00:00',NULL),
 	 ('Vxqxyquvpib','630@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-09-22 00:00:00','2013-12-03 00:00:00',NULL),
 	 ('Qktwdjvjiumpcokd','631@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-09-23 00:00:00','2012-09-23 00:00:00',NULL),
@@ -702,7 +702,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Okor rvqlndksurmgfqovpi  n d A gi','636@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-09-28 00:00:00','2013-08-16 00:00:00',NULL),
 	 ('Htbnpdzzrqxfytdeckzophdtfmarvvfkzjwz xs','637@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-09-29 00:00:00','2012-10-16 00:00:00',NULL),
 	 ('Suhgpacspie','638@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-09-30 00:00:00','2013-05-17 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Wekniwaxvats c yipwziujyrounlbnhyx','639@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-10-01 00:00:00','2012-10-01 00:00:00','2013-12-19 00:00:00'),
 	 ('Mjbs btclbvi nv vqykymjxdomhpsjmoeqp','640@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-10-02 00:00:00','2013-03-11 00:00:00','2013-10-13 00:00:00'),
 	 ('Tesfisvwlhujpdtfo tppp  np','641@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-10-03 00:00:00','2012-10-03 00:00:00',NULL),
@@ -713,7 +713,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Wzqwsxi Prmykhqm awwohirq','646@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-10-08 00:00:00','2014-07-09 00:00:00',NULL),
 	 ('U gqbtptyssmb Ehhvnyr','647@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-10-09 00:00:00','2012-10-16 00:00:00','2012-10-16 00:00:00'),
 	 ('Uuifxpnulbdjv','648@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-10-10 00:00:00','2012-10-17 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Edyze vnjlnrna iredq n jgowtoqped taczk','649@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-10-11 00:00:00','2012-11-18 00:00:00',NULL),
 	 ('Txwreaqcu tmubsx','650@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-10-12 00:00:00','2012-11-22 00:00:00','2012-12-07 00:00:00'),
 	 ('Uurwvvlm Rwjpqy Qlesabhwpjbdp','652@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-10-14 00:00:00','2012-12-14 00:00:00','2013-10-13 00:00:00'),
@@ -724,7 +724,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Xnbo oindppwktmq','657@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-10-19 00:00:00','2012-10-20 00:00:00',NULL),
 	 ('Akfftqxn vtrzkse wivlquhxgk fuv','658@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-10-20 00:00:00','2012-10-20 00:00:00',NULL),
 	 ('Uwarmjocvsvg vntseeqcdl','659@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-10-21 00:00:00','2012-10-25 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('L qeiwh','660@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-10-22 00:00:00','2013-07-11 00:00:00',NULL),
 	 ('Vf l','661@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-10-23 00:00:00','2012-10-26 00:00:00',NULL),
 	 ('Lyxxc ulhpdrukyaej e Uyqgbqymsxsoz l','662@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-10-24 00:00:00','2012-11-08 00:00:00',NULL),
@@ -735,7 +735,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Kcfqbfmqk Ybvrt  bfllfbywwknxrq  j','667@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-10-29 00:00:00','2012-11-03 00:00:00',NULL),
 	 ('Csdacoogyoeeppcgskwthvtp yxu','668@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-10-30 00:00:00','2013-05-29 00:00:00',NULL),
 	 ('Okkjhzfn Upfg  fwyllgjbsvqvi bfhsx','669@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-10-31 00:00:00','2013-02-24 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Jn t qdr vjgwjagnku','670@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-11-01 00:00:00','2014-06-13 00:00:00',NULL),
 	 ('Y ttwgidtnmflomptbtpbjulahtszuozekn','671@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-11-02 00:00:00','2013-01-19 00:00:00',NULL),
 	 ('Xzioblbf','672@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-11-03 00:00:00','2013-02-12 00:00:00',NULL),
@@ -746,7 +746,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Mbumigzdpusnvwcv','677@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-11-08 00:00:00','2014-05-12 00:00:00',NULL),
 	 ('L xiqzxcbyjcnviyabbusts vyerjtpwce','678@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-11-09 00:00:00','2012-11-21 00:00:00',NULL),
 	 ('M f fdoyyanqvlindnwx hvyt','679@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-11-10 00:00:00','2012-11-10 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('C ffcojwvubrxpyaw fovzdfdpriofqmsjhh','680@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-11-11 00:00:00','2012-11-11 00:00:00',NULL),
 	 ('Yepyd','681@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-11-12 00:00:00','2012-11-25 00:00:00',NULL),
 	 ('Wlkudenfuxpe mhjew jrnhjsmsgnqj','682@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-11-13 00:00:00','2013-01-21 00:00:00',NULL),
@@ -757,7 +757,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Yvem jxzbd i','687@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-11-18 00:00:00','2013-04-18 00:00:00',NULL),
 	 ('Pd tndy bfojxc','688@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-11-19 00:00:00','2013-02-15 00:00:00',NULL),
 	 ('Mull','689@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-11-20 00:00:00','2012-11-20 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Tvrxhkivdpkr thogg alhe','690@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-11-21 00:00:00','2012-12-01 00:00:00',NULL),
 	 ('W Qnv','691@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-11-22 00:00:00','2014-02-14 00:00:00',NULL),
 	 ('Jemlrvxck fbuihyiwwfginfl nsfdgaohnup','692@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-11-23 00:00:00','2012-12-22 00:00:00',NULL),
@@ -768,7 +768,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ogwdgyntgeehvo jbwshyxciq','697@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-11-28 00:00:00','2012-11-28 00:00:00',NULL),
 	 ('Acdumdors icayizphozf','698@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-11-29 00:00:00','2014-04-24 00:00:00',NULL),
 	 ('Jjxmfjlkzgflfbqqfctbbzljmbvse aabnm de','699@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-11-30 00:00:00','2012-12-20 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('F dll sxi lctfodzuuxcm lmxcp mnl  iq W','700@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-12-01 00:00:00','2013-01-05 00:00:00',NULL),
 	 ('Dexremucuet','701@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-12-02 00:00:00','2013-05-27 00:00:00',NULL),
 	 ('Sxpkio axhy','702@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-12-03 00:00:00','2013-11-18 00:00:00',NULL),
@@ -779,7 +779,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Fhft y swfiutcyayib','707@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-12-08 00:00:00','2012-12-08 00:00:00',NULL),
 	 ('Dt Gdricxpvqltxel kfs','708@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-12-09 00:00:00','2013-01-02 00:00:00',NULL),
 	 ('Tazautj','709@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-12-10 00:00:00','2014-10-19 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('K rrcks ykvjxrifcungx aqip','710@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-12-11 00:00:00','2012-12-11 00:00:00',NULL),
 	 ('Yvovrapooqmoglqbpjzpiyclkexabqmikj','711@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-12-12 00:00:00','2014-06-03 00:00:00',NULL),
 	 ('Zjqlxogzzskwoklxhkhh u f','712@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-12-13 00:00:00','2013-04-09 00:00:00',NULL),
@@ -790,7 +790,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Sel nuvbaqiqzuyspu  ws Vrvvc ga','717@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-12-18 00:00:00','2014-09-06 00:00:00',NULL),
 	 ('Wylpurobako Hiayeamepjut','718@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-12-19 00:00:00','2012-12-19 00:00:00',NULL),
 	 ('Zdypmyeychmuac xjgcxbocgqxtnqqde','719@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-12-20 00:00:00','2013-03-10 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ybf Ozpdfvg t','720@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-12-21 00:00:00','2013-02-25 00:00:00',NULL),
 	 ('Egwobp  zwca','721@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-12-22 00:00:00','2012-12-22 00:00:00',NULL),
 	 ('Dhgrooump nbnxisf K v','722@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-12-23 00:00:00','2012-12-23 00:00:00','2012-12-26 00:00:00'),
@@ -801,7 +801,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Upeajgo  aioh  rbqfmh oavr','727@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-12-28 00:00:00','2012-12-28 00:00:00',NULL),
 	 ('Spn eepgrbs','728@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-12-29 00:00:00','2013-03-05 00:00:00',NULL),
 	 ('Qcqfzkpmgys  mgoixqult weq','729@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-12-30 00:00:00','2013-03-15 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ewgofh','730@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2012-12-31 00:00:00','2012-12-31 00:00:00',NULL),
 	 ('Muw yn rtlbwxodw bym xsk tjpi a if wci','731@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-01-01 00:00:00','2014-09-11 00:00:00',NULL),
 	 ('Riaxu','732@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-01-02 00:00:00','2013-01-02 00:00:00',NULL),
@@ -812,7 +812,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Gibtppe eadfcbccrospitdsfcgs ynif T','737@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-01-07 00:00:00','2014-05-19 00:00:00','2014-10-28 00:00:00'),
 	 ('Pcnyi wq ewxo','738@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-01-08 00:00:00','2013-02-03 00:00:00',NULL),
 	 ('Nn Wyai qx oubiiiezdcli azioujms','739@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-01-09 00:00:00','2013-02-08 00:00:00','2013-02-12 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Fikyiysyw wckyj uho hbegx','740@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-01-10 00:00:00','2013-01-10 00:00:00',NULL),
 	 ('Ckqytb ugvtr iqfkgrkwkog','741@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-01-11 00:00:00','2013-09-24 00:00:00',NULL),
 	 ('Fx o','742@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-01-12 00:00:00','2013-01-12 00:00:00',NULL),
@@ -823,7 +823,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Lmfoszet ol b Fxwppqmm','747@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-01-17 00:00:00','2013-01-17 00:00:00',NULL),
 	 ('Ginkfstjsh','748@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-01-18 00:00:00','2013-02-02 00:00:00',NULL),
 	 ('Ad ppgj','749@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-01-19 00:00:00','2013-08-04 00:00:00','2015-05-24 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Eys Bmgabo Lzmjepzvtvnnpol','750@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-01-20 00:00:00','2013-02-15 00:00:00','2013-02-15 00:00:00'),
 	 ('Fyxnphmriq j','751@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-01-21 00:00:00','2013-01-31 00:00:00',NULL),
 	 ('Crkm','752@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-01-22 00:00:00','2013-01-22 00:00:00','2013-09-10 00:00:00'),
@@ -834,7 +834,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Gjokmyqovmzeuwfiuleagvwbtzgpr','757@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-01-27 00:00:00','2014-09-29 00:00:00',NULL),
 	 ('Brdqapboftrtx dohjkomolt cauuw','758@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-01-28 00:00:00','2013-05-12 00:00:00',NULL),
 	 ('Meokn zuskkwpmnz xmqr f','759@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-01-29 00:00:00','2013-01-29 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Bfb Pr k','760@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-01-30 00:00:00','2013-09-28 00:00:00',NULL),
 	 ('Wgyfq idcrbbifeyerv','761@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-01-31 00:00:00','2013-01-31 00:00:00',NULL),
 	 ('Bbpxjoo jkboypwqlq','762@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-02-01 00:00:00','2013-08-14 00:00:00',NULL),
@@ -845,7 +845,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ybxdxjx','767@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-02-06 00:00:00','2013-02-11 00:00:00',NULL),
 	 ('Ggyg dr Fdihiois Rmyt N uxxbyrotqjy','768@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-02-07 00:00:00','2013-04-21 00:00:00',NULL),
 	 ('Reiwtaeiwdp','769@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-02-08 00:00:00','2013-02-28 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('N Jqi nx','949@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-08-07 00:00:00','2014-01-08 00:00:00',NULL),
 	 ('Op fpxcc xpc uqgffhukregyjvsfuy','770@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-02-09 00:00:00','2013-02-09 00:00:00',NULL),
 	 ('Calk oqk tqg gdgch xtzdirejbjewven Ypnlf','771@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-02-10 00:00:00','2014-09-03 00:00:00',NULL),
@@ -856,7 +856,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Caawexgi sxdbw u','776@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-02-15 00:00:00','2013-02-15 00:00:00',NULL),
 	 ('Yd ejv Jc','777@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-02-16 00:00:00','2013-02-16 00:00:00',NULL),
 	 ('Ess z','778@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-02-17 00:00:00','2013-03-05 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Covfljiwxqzkgravsgbk ityx rj','779@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-02-18 00:00:00','2013-02-28 00:00:00','2015-01-08 00:00:00'),
 	 ('Tehsb Vbvvornqsl Fvh eajj','780@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-02-19 00:00:00','2013-05-03 00:00:00','2013-08-31 00:00:00'),
 	 ('Oy yibwmmwsxlxua Rdtmqdipw kvqcyqlqqopr','781@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-02-20 00:00:00','2014-09-25 00:00:00',NULL),
@@ -867,7 +867,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Lckjrzlmrpdqxm sicy','786@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-02-25 00:00:00','2013-03-08 00:00:00',NULL),
 	 ('Aeuz jcbkrnai Uw','787@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-02-26 00:00:00','2013-02-26 00:00:00',NULL),
 	 ('Wynwh rahpixapirja','788@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-02-27 00:00:00','2013-04-14 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Bqtihbcudllr asukiikp','789@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-02-28 00:00:00','2013-07-08 00:00:00',NULL),
 	 ('Hcr   iphjlv trciqnhefk Yh','790@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-03-01 00:00:00','2013-12-24 00:00:00',NULL),
 	 ('Xjbqrwpimjijyb','791@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-03-02 00:00:00','2014-07-26 00:00:00',NULL),
@@ -878,7 +878,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Zeo hqa yvevpu wtnl br','796@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-03-07 00:00:00','2013-03-07 00:00:00',NULL),
 	 ('Clldvpt qvt tbum','797@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-03-08 00:00:00','2013-03-24 00:00:00','2014-08-23 00:00:00'),
 	 ('Cho Qjbhnzzy Enmmmttag bteza utwkaiim','798@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-03-09 00:00:00','2013-03-09 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Hktllzct x aabqwrspupciwuyv yip f','799@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-03-10 00:00:00','2013-06-02 00:00:00',NULL),
 	 ('Rjrjrmsl A dkutfskgcdjcjhcpexto Yfna','800@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-03-11 00:00:00','2013-04-10 00:00:00',NULL),
 	 ('Zkkildcard qypnwv fxlqzbndtjzub','801@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-03-12 00:00:00','2014-07-22 00:00:00',NULL),
@@ -889,7 +889,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Y mwq cpgn Nzc tokhaskcub','806@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-03-17 00:00:00','2013-03-24 00:00:00',NULL),
 	 ('Ceiyyltfctekudfyrag olhjzycl','807@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-03-18 00:00:00','2013-03-19 00:00:00',NULL),
 	 ('Hjbcwabe xcezykzrqdweq','808@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-03-19 00:00:00','2013-03-19 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('E fi sjlw','809@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-03-20 00:00:00','2013-04-07 00:00:00',NULL),
 	 ('Wb h','810@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-03-21 00:00:00','2013-04-09 00:00:00',NULL),
 	 ('Ukyssosegiag Qyfqgbckub','811@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-03-22 00:00:00','2013-06-11 00:00:00',NULL),
@@ -900,7 +900,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Flzi lqj cvca fbbdnogeefmm','816@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-03-27 00:00:00','2013-04-15 00:00:00',NULL),
 	 ('Nhhzkcithhffv udzvcursnjiluxchgjqptqivh','817@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-03-28 00:00:00','2014-12-14 00:00:00',NULL),
 	 ('Mklsephqhglemtv T ykjoopkyqu','818@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-03-29 00:00:00','2013-10-05 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Cmp fcbrmaczcibotkoel Cnaypjigdfm','819@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-03-30 00:00:00','2013-03-30 00:00:00',NULL),
 	 ('Bvfwsjhlvolyxzziosqxoeci zqoxtqbmo','820@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-03-31 00:00:00','2013-03-31 00:00:00',NULL),
 	 ('Jus  dtuv r ydh ksuzxmog','821@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-04-01 00:00:00','2013-07-09 00:00:00',NULL),
@@ -911,7 +911,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Mcffxghhanzwziy','826@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-04-06 00:00:00','2013-04-06 00:00:00',NULL),
 	 ('Hhbgaocuribrslxjinq a','827@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-04-07 00:00:00','2013-06-15 00:00:00',NULL),
 	 ('Udmpdyvuhatfqk','828@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-04-08 00:00:00','2013-04-08 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Bltl idot h H Znuteeoiows','829@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-04-09 00:00:00','2013-07-01 00:00:00',NULL),
 	 ('Sr B ka','830@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-04-10 00:00:00','2013-07-25 00:00:00',NULL),
 	 ('Lpt bhevsarfzav nqb','831@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-04-11 00:00:00','2013-04-18 00:00:00',NULL),
@@ -922,7 +922,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Fuboqwkpad','836@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-04-16 00:00:00','2013-04-26 00:00:00',NULL),
 	 ('Gfdxlb trvlv o obbb ok','837@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-04-17 00:00:00','2013-04-17 00:00:00',NULL),
 	 ('Pevjb Ncpmy  ohtaawbu','838@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-04-18 00:00:00','2013-05-03 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Mmgiyvihfwclwwczkejswnwbihcs yoqlw','839@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-04-19 00:00:00','2014-07-17 00:00:00',NULL),
 	 ('F M rheokjacuxfkdl','840@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-04-20 00:00:00','2013-10-31 00:00:00',NULL),
 	 ('N jynf middqfipy xtoa tdkazhr wlviugt','841@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-04-21 00:00:00','2015-01-24 00:00:00',NULL),
@@ -933,7 +933,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Xhpaszzvjmr kfjj axz Fcxtemejpuhrgghzuf','846@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-04-26 00:00:00','2013-05-21 00:00:00',NULL),
 	 ('Ehbzbxycdstauztg','847@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-04-27 00:00:00','2013-04-27 00:00:00','2013-08-14 00:00:00'),
 	 ('Dfh cxgrfhawetghmi','848@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-04-28 00:00:00','2013-07-01 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Rtpdjgw a hphssfivns wybdm','849@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-04-29 00:00:00','2013-08-17 00:00:00',NULL),
 	 ('Ndqjq bbk Udlgsvqtfu','850@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-04-30 00:00:00','2013-08-17 00:00:00',NULL),
 	 ('Qujmmzowmchhfvsuzaebybpnm','851@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-05-01 00:00:00','2013-05-09 00:00:00',NULL),
@@ -944,7 +944,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ocgggknmegpb Ptoduirwrneeee Hgeyzg','856@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-05-06 00:00:00','2013-05-06 00:00:00',NULL),
 	 ('Wzjdhtddzmja zoqlg','857@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-05-07 00:00:00','2013-05-13 00:00:00',NULL),
 	 ('Jkemhdlyhyuoizo bhq','858@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-05-08 00:00:00','2013-05-08 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Dgrivg ubolnpwtfftegv','859@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-05-09 00:00:00','2013-05-09 00:00:00',NULL),
 	 ('Nqkerpnvxvvodghiq sbdql nfccqmwnfuucblad','860@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-05-10 00:00:00','2013-06-08 00:00:00',NULL),
 	 ('Cwqsnlnc cier','861@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-05-11 00:00:00','2013-07-27 00:00:00',NULL),
@@ -955,7 +955,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('H dikjb Kldoo','866@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-05-16 00:00:00','2013-06-06 00:00:00',NULL),
 	 ('Qh iukr','867@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-05-17 00:00:00','2013-05-17 00:00:00',NULL),
 	 ('Ebpsdwxkrdmimtac','868@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-05-18 00:00:00','2014-11-25 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Mlkmmrhjgsb','869@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-05-19 00:00:00','2014-02-19 00:00:00',NULL),
 	 ('Zqf Qixwg yje Birjygqmuwlniijdhwqqngfis','870@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-05-20 00:00:00','2014-07-02 00:00:00','2014-07-17 00:00:00'),
 	 ('Utawana','871@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-05-21 00:00:00','2013-08-07 00:00:00',NULL),
@@ -966,7 +966,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Goyxerebgqhmqauotjxkzny prp','876@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-05-26 00:00:00','2013-06-11 00:00:00',NULL),
 	 ('G hudplllknfonqrpz s','877@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-05-27 00:00:00','2013-06-06 00:00:00',NULL),
 	 ('Hgxnvcccdqcmedb','878@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-05-28 00:00:00','2013-05-28 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Npzwmjkbhqq','879@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-05-29 00:00:00','2013-07-05 00:00:00',NULL),
 	 ('N  gldija z','880@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-05-30 00:00:00','2013-09-04 00:00:00',NULL),
 	 ('Lwezgtfo txsd fwoizjldp','881@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-05-31 00:00:00','2013-07-29 00:00:00',NULL),
@@ -977,7 +977,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Anzzbftfbirhz Riysfqhgyzcvprgivs','886@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-06-05 00:00:00','2013-06-09 00:00:00',NULL),
 	 ('Futmlpaxklafozdiqcp','887@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-06-06 00:00:00','2013-06-06 00:00:00',NULL),
 	 ('R nr','888@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-06-07 00:00:00','2013-06-07 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Icwtuglopw aglddzqnlyhxmzomkew','889@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-06-08 00:00:00','2013-09-15 00:00:00',NULL),
 	 ('Xfhdkupcejbzvzwbnmtbdfkhjx Qldolc taxh','890@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-06-09 00:00:00','2013-06-15 00:00:00',NULL),
 	 ('Yjtnbbwkcshbhbws dtebjzhg iovizc','891@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-06-10 00:00:00','2013-10-19 00:00:00',NULL),
@@ -988,7 +988,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Fpk o','896@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-06-15 00:00:00','2013-06-26 00:00:00',NULL),
 	 ('Qvuxfybhrali tudliohwehy','897@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-06-16 00:00:00','2013-06-16 00:00:00','2013-07-05 00:00:00'),
 	 ('Wnfhhutnj fcu ym','898@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-06-17 00:00:00','2013-06-17 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Kxlkj','899@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-06-18 00:00:00','2015-03-22 00:00:00',NULL),
 	 ('Ukhhvtoqrozxnj Jcul ltojr','900@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-06-19 00:00:00','2013-07-08 00:00:00',NULL),
 	 ('Js ptyhxpci if','901@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-06-20 00:00:00','2013-06-21 00:00:00','2014-09-28 00:00:00'),
@@ -999,7 +999,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ump ya','906@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-06-25 00:00:00','2013-06-25 00:00:00',NULL),
 	 ('Vwghiju ifywaizckdvmnevzyvx bmq','907@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-06-26 00:00:00','2015-03-12 00:00:00',NULL),
 	 ('Owxyslzgdp nznuuxhubyg lz T  gvo i','908@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-06-27 00:00:00','2013-06-27 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Evbjgjvnwrmpcuyo','909@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-06-28 00:00:00','2013-07-03 00:00:00',NULL),
 	 ('Lkbfleykyi','910@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-06-29 00:00:00','2013-07-03 00:00:00',NULL),
 	 ('Jolmrfogza vx','911@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-06-30 00:00:00','2013-06-30 00:00:00',NULL),
@@ -1010,7 +1010,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Bivtb','916@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-07-05 00:00:00','2013-08-02 00:00:00',NULL),
 	 ('Jbeewwir imbelibvrrij r jprzjbpt Nz','917@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-07-06 00:00:00','2013-07-12 00:00:00',NULL),
 	 ('Xtbdn','918@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-07-07 00:00:00','2014-06-14 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Qbntgaouaei uczxeukwpxp','919@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-07-08 00:00:00','2013-07-08 00:00:00',NULL),
 	 ('Aepz','920@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-07-09 00:00:00','2013-08-03 00:00:00',NULL),
 	 ('Whga puwivr ivb i Jjhjuqi wwet psvlknh','921@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-07-10 00:00:00','2015-01-16 00:00:00',NULL),
@@ -1021,7 +1021,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('H vujabrqhitl lb','926@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-07-15 00:00:00','2014-01-24 00:00:00','2014-11-12 00:00:00'),
 	 ('Rhfopqvis kd mmyb Gv lfpojopqoa xugcmtyg','927@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-07-16 00:00:00','2014-07-06 00:00:00',NULL),
 	 ('Nzeroslkuqxcaahedhsvaxj b','928@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-07-17 00:00:00','2013-11-04 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ypy kuunrtjeetrl','929@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-07-18 00:00:00','2013-08-26 00:00:00',NULL),
 	 ('Uvwijfa','930@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-07-19 00:00:00','2013-11-16 00:00:00',NULL),
 	 ('Cuu rbnrs e','931@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-07-20 00:00:00','2013-12-06 00:00:00',NULL),
@@ -1032,7 +1032,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Hrwwmem','936@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-07-25 00:00:00','2015-04-28 00:00:00',NULL),
 	 ('Rp wifmldougwsyp dsyvnnkue','937@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-07-26 00:00:00','2014-05-20 00:00:00',NULL),
 	 ('Mxj La  rhycebcmwzzitdqvknjgapm','938@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-07-27 00:00:00','2013-07-27 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Fzsuwd mugamwfmwqivkcyixwuknl','939@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-07-28 00:00:00','2013-08-08 00:00:00',NULL),
 	 ('Wwftx kezba ka  b ymzlkj','940@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-07-29 00:00:00','2013-09-09 00:00:00',NULL),
 	 ('N Jytssgsnl','941@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-07-30 00:00:00','2013-08-09 00:00:00',NULL),
@@ -1043,7 +1043,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Rrnhcekefywuw','946@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-08-04 00:00:00','2013-08-24 00:00:00',NULL),
 	 ('Onca a','947@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-08-05 00:00:00','2015-02-11 00:00:00',NULL),
 	 ('Q sth hw','948@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-08-06 00:00:00','2013-08-08 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Itdo','950@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-08-08 00:00:00','2013-08-08 00:00:00',NULL),
 	 ('Mpdfea','951@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-08-09 00:00:00','2014-10-06 00:00:00',NULL),
 	 ('Bood','952@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-08-10 00:00:00','2013-10-06 00:00:00',NULL),
@@ -1054,7 +1054,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ydnuk Klfwntp Ojsvv','957@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-08-15 00:00:00','2013-08-15 00:00:00',NULL),
 	 ('Svhtupg','958@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-08-16 00:00:00','2013-12-04 00:00:00',NULL),
 	 ('C Tnxaxvz','959@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-08-17 00:00:00','2014-12-28 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('W jdkhkyu on patjfrquuess xhiclart','960@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-08-18 00:00:00','2013-08-18 00:00:00',NULL),
 	 ('Ermyqngqkuctkmcupxikmy l ege c T xjcq','961@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-08-19 00:00:00','2015-07-19 00:00:00',NULL),
 	 ('Dunstteaptdvgkkbaqhk','962@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-08-20 00:00:00','2014-03-13 00:00:00',NULL),
@@ -1065,7 +1065,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Zrgh gvzyua','967@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-08-25 00:00:00','2015-04-19 00:00:00',NULL),
 	 ('Ksjyuaavzsaogtrdtrnsvpajyrewnqx tobccje','968@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-08-26 00:00:00','2013-10-01 00:00:00',NULL),
 	 ('Txnwvpl k xshydwnmlpbxm Ttixiwc','969@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-08-27 00:00:00','2013-09-25 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Khj cfdyqocuzijhjb ozxt e ahgjvfjevera','970@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-08-28 00:00:00','2013-08-28 00:00:00','2015-03-29 00:00:00'),
 	 ('Ckszmvdoobnifrqxvvm','971@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-08-29 00:00:00','2013-10-16 00:00:00','2014-08-24 00:00:00'),
 	 ('Skizwy','972@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-08-30 00:00:00','2013-09-18 00:00:00',NULL),
@@ -1076,7 +1076,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Rmduptjsp','977@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-09-04 00:00:00','2014-09-06 00:00:00',NULL),
 	 ('Rfhxiige Irtx cjauxmtg Jxft','978@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-09-05 00:00:00','2013-09-05 00:00:00',NULL),
 	 ('Kgtez Toa Vcjei Sapnppk U ephaeacvtgbc','979@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-09-06 00:00:00','2014-06-22 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('E bssb','980@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-09-07 00:00:00','2013-09-07 00:00:00','2013-09-07 00:00:00'),
 	 ('Xdqx ucecrag','981@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-09-08 00:00:00','2014-07-20 00:00:00',NULL),
 	 ('D jasaf bihskjlz hctlrnzpckxj','982@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-09-09 00:00:00','2013-09-09 00:00:00','2013-09-09 00:00:00'),
@@ -1087,7 +1087,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('O Plys','987@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-09-14 00:00:00','2013-09-16 00:00:00',NULL),
 	 ('Qbskblrnqxsyeawsnsqzrhoflv  muxofko','988@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-09-15 00:00:00','2013-09-15 00:00:00',NULL),
 	 ('W qwtdojt','989@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-09-16 00:00:00','2013-09-16 00:00:00','2014-04-19 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Vuoarmyquv Uwtpyzrun wgup joc uec','990@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-09-17 00:00:00','2013-09-17 00:00:00',NULL),
 	 ('Dhiszhprrjpuz qno hke','991@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-09-18 00:00:00','2013-09-18 00:00:00',NULL),
 	 ('Zb fynbozqvjlg zd nztswut','992@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-09-19 00:00:00','2015-03-24 00:00:00',NULL),
@@ -1098,7 +1098,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Gdhnunkg zoharzi p','997@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-09-24 00:00:00','2013-12-27 00:00:00',NULL),
 	 ('Acmuqita nkmlltx','998@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-09-25 00:00:00','2014-01-16 00:00:00',NULL),
 	 ('Unjorvzr','999@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-09-26 00:00:00','2015-03-08 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Mox bykco mznsqfva qh f hqzurbupe','1000@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-09-27 00:00:00','2013-12-19 00:00:00',NULL),
 	 ('Xj Jioggwjekeojfkhwdtthq','1001@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-09-28 00:00:00','2013-11-22 00:00:00',NULL),
 	 ('Daie aelj jgkg i','1002@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-09-29 00:00:00','2014-05-14 00:00:00','2014-05-14 00:00:00'),
@@ -1109,7 +1109,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Uiihelok ohzhnezuukyl aq fia zbub','1007@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-10-04 00:00:00','2013-10-04 00:00:00',NULL),
 	 ('Xygvmzhwixewpcnxmzlkwdbfuv','1008@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-10-05 00:00:00','2013-10-21 00:00:00',NULL),
 	 ('Zheoplrqdvdewkayqbb g','1009@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-10-06 00:00:00','2013-12-13 00:00:00','2014-02-18 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Lwxiwyhvtaftkwmfp','1010@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-10-07 00:00:00','2013-12-30 00:00:00',NULL),
 	 ('Glwcjhlskpj yfndwcqxryovplqxdtehetr','1011@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-10-08 00:00:00','2013-10-08 00:00:00',NULL),
 	 ('Qycgkjll','1012@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-10-09 00:00:00','2013-12-20 00:00:00',NULL),
@@ -1120,7 +1120,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ms ownrrdsotbzxl','1017@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-10-14 00:00:00','2014-01-15 00:00:00',NULL),
 	 ('Qaslouic kgy','1018@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-10-15 00:00:00','2013-10-21 00:00:00',NULL),
 	 ('N ufytyzh A ia','1019@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-10-16 00:00:00','2013-10-16 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Mdxc usogiomuiukdymrywyihzy ar ubp','1020@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-10-17 00:00:00','2013-10-17 00:00:00',NULL),
 	 ('Tgmehscdnotwmje o mrnuzd','1021@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-10-18 00:00:00','2013-11-07 00:00:00','2015-03-14 00:00:00'),
 	 ('X Aicadglz','1022@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-10-19 00:00:00','2013-10-26 00:00:00',NULL),
@@ -1131,7 +1131,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Oiueopp yofgmlfnrzgmcujeditf Htgyohyhtpv','1027@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-10-24 00:00:00','2013-11-20 00:00:00',NULL),
 	 ('Ifhfnkqxszavls  nvnleshddgdaf  lcgnyiboa','1028@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-10-25 00:00:00','2013-10-25 00:00:00',NULL),
 	 ('Wydmn ak buopspkuehg zldhvswwiu','1029@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-10-26 00:00:00','2013-10-26 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ufbcyc','1030@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-10-27 00:00:00','2013-11-05 00:00:00',NULL),
 	 ('Cuyrvffpyznyzyincbzfq','1031@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-10-28 00:00:00','2013-10-28 00:00:00',NULL),
 	 ('Zvahpvhxq xkcuv wppk ekcaglynvzexyr','1032@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-10-29 00:00:00','2015-03-14 00:00:00',NULL),
@@ -1142,7 +1142,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Wcqsagkluoto','1037@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-11-03 00:00:00','2013-11-06 00:00:00',NULL),
 	 ('Mofvisekncg ycvt ayozjienqnm qwlcndyw k','1038@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-11-04 00:00:00','2014-04-25 00:00:00',NULL),
 	 ('W Y ryinycqbqvsprtbf kjaj','1039@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-11-05 00:00:00','2013-11-29 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Lpqdebgdkzqhdotommu mo l Dbcomlfpfiiv','1040@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-11-06 00:00:00','2013-12-29 00:00:00',NULL),
 	 ('Tmbrijwcx ncierglxmzigrsxbcrjqkdjmtxdd','1041@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-11-07 00:00:00','2014-01-09 00:00:00',NULL),
 	 ('Zsmqrlua Lojjunqth','1042@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-11-08 00:00:00','2013-11-08 00:00:00','2013-11-08 00:00:00'),
@@ -1153,7 +1153,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Djfuwoyhrf maxexiamqqbvvtsmjmusogwslasm','1047@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-11-13 00:00:00','2014-03-04 00:00:00',NULL),
 	 ('Fvpfrpugfcteivs Xzgjpkwkdjil','1048@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-11-14 00:00:00','2014-11-03 00:00:00',NULL),
 	 ('Fifumfceftckdxfjmkncihclxo a','1049@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-11-15 00:00:00','2013-12-22 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Hhzfc k','1050@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-11-16 00:00:00','2014-01-17 00:00:00','2014-02-18 00:00:00'),
 	 ('Qb smh tiopzxityuupbfvnuq','1051@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-11-17 00:00:00','2013-11-17 00:00:00',NULL),
 	 ('Nqozpqtzjjmpmwxplaqnr cm pbyn b f Rp','1052@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-11-18 00:00:00','2013-12-14 00:00:00',NULL),
@@ -1164,7 +1164,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Vhbbox  usdii pbtln','1057@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-11-23 00:00:00','2014-03-17 00:00:00',NULL),
 	 ('Ldcooyge runk','1058@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-11-24 00:00:00','2013-11-24 00:00:00','2013-11-24 00:00:00'),
 	 ('Hth Rd yervrz ece Igilnh  qnl ufctwzv','1059@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-11-25 00:00:00','2014-03-05 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Oht fng ld fsdsj lfkjhvdiunc fz','1060@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-11-26 00:00:00','2013-12-20 00:00:00',NULL),
 	 ('Nortlpfhyyon','1061@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-11-27 00:00:00','2014-10-28 00:00:00',NULL),
 	 ('Pf cz','1062@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-11-28 00:00:00','2013-12-03 00:00:00',NULL),
@@ -1175,7 +1175,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Jlouz cs pzxurvhkb  ong','1067@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-12-03 00:00:00','2013-12-03 00:00:00',NULL),
 	 ('Hbw nysfryzepktspw qkjvpi','1068@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-12-04 00:00:00','2013-12-04 00:00:00',NULL),
 	 ('Ozwfn d masfcn Nwtiu ihqkydgqo','1069@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-12-05 00:00:00','2013-12-05 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('By ehygtmmt ykkbzclqnu vhyndh','1070@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-12-06 00:00:00','2013-12-06 00:00:00','2014-08-01 00:00:00'),
 	 ('Gvmxbkganfpxaoirfpuniriam zz Kc pvz Ohe','1071@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-12-07 00:00:00','2013-12-29 00:00:00',NULL),
 	 ('Assqolzzvmkytmembydt yrsn asddlss','1072@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-12-08 00:00:00','2014-01-02 00:00:00',NULL),
@@ -1186,7 +1186,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Xqxotgbpusfpzloosuw','1077@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-12-13 00:00:00','2014-01-05 00:00:00',NULL),
 	 ('Ro p sjl','1078@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-12-14 00:00:00','2015-01-19 00:00:00',NULL),
 	 ('Xel ajgcpzb','1079@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-12-15 00:00:00','2015-09-16 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Pabuiww mopmalcyzvmgec','1080@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-12-16 00:00:00','2014-04-30 00:00:00',NULL),
 	 ('Cycfklal','1081@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-12-17 00:00:00','2014-01-12 00:00:00',NULL),
 	 ('Quiwqvbb','1082@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-12-18 00:00:00','2013-12-18 00:00:00',NULL),
@@ -1197,7 +1197,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Kqbjotvrkykmjgagz g q','1087@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-12-23 00:00:00','2013-12-29 00:00:00',NULL),
 	 ('Zvvg l qxwlcbnkjtxi','1088@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-12-24 00:00:00','2014-01-27 00:00:00',NULL),
 	 ('Idhi urfxhgcmyvmcph  odvr  xs','1089@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-12-25 00:00:00','2013-12-25 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ikebmf cjknesagciezvl','1090@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-12-26 00:00:00','2014-01-05 00:00:00',NULL),
 	 ('Jjzwvdltnqpifble qjrns','1091@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-12-27 00:00:00','2015-01-30 00:00:00',NULL),
 	 ('Gfuyz Meinsemtcqcatvvoepu h icdksf','1092@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2013-12-28 00:00:00','2014-04-13 00:00:00',NULL),
@@ -1208,7 +1208,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Owytce hjqxdmgb S','1097@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-01-02 00:00:00','2014-01-29 00:00:00','2014-01-29 00:00:00'),
 	 ('M krkrjwmplgacyaunhrjq','1098@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-01-03 00:00:00','2014-10-14 00:00:00',NULL),
 	 ('Xpncunguw semea kklmedxns bnlh aqqnamsd','1099@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-01-04 00:00:00','2014-01-29 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('X p mn','1100@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-01-05 00:00:00','2014-01-05 00:00:00',NULL),
 	 ('Xe hmo','1101@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-01-06 00:00:00','2014-06-16 00:00:00',NULL),
 	 ('Mvzc tgc','1102@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-01-07 00:00:00','2014-01-07 00:00:00',NULL),
@@ -1219,7 +1219,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Enueo ldghlgzpqeqbqdfnzoebu','1107@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-01-12 00:00:00','2015-08-22 00:00:00',NULL),
 	 ('Mxhd ynjlbhez s fgd zchv ei vkkh','1108@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-01-13 00:00:00','2014-01-13 00:00:00',NULL),
 	 ('Bwonigekzwvb xensvy arbeco vn','1109@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-01-14 00:00:00','2014-07-02 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Kpctz Xiplls bokfm','1110@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-01-15 00:00:00','2014-02-12 00:00:00',NULL),
 	 ('S adibfgxdev E','1111@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-01-16 00:00:00','2014-07-09 00:00:00','2016-03-20 00:00:00'),
 	 ('Jkapudqgerh urdlgrzrtlljtwqquwcqwq','1112@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-01-17 00:00:00','2014-02-06 00:00:00',NULL),
@@ -1230,7 +1230,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Kqm tbas dwenkmneyrqxs xkdyqrnd','1117@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-01-22 00:00:00','2014-01-22 00:00:00',NULL),
 	 ('Idpmimg khoedbik   uheeoopyxenbuumu ojhc','1118@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-01-23 00:00:00','2015-05-15 00:00:00',NULL),
 	 ('Pmhfhdo kpsjpnh Zt kxteg','1119@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-01-24 00:00:00','2014-03-20 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Xqlh et nhzu','1120@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-01-25 00:00:00','2014-09-16 00:00:00',NULL),
 	 ('Pomoqxe ikpbsqth aff pwzfw','1121@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-01-26 00:00:00','2014-03-20 00:00:00',NULL),
 	 ('Chjvmlxu ovsmpsc hc ijypezvvtbkc ayjk','1122@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-01-27 00:00:00','2014-01-27 00:00:00',NULL),
@@ -1241,7 +1241,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ksidsjrekeibjverninm hncmbzfboumr','1127@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-02-01 00:00:00','2014-04-12 00:00:00',NULL),
 	 ('Ejcxwqjq','1128@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-02-02 00:00:00','2014-02-26 00:00:00','2014-03-27 00:00:00'),
 	 ('Okloifzfm','1129@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-02-03 00:00:00','2014-03-12 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Bdjh','1130@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-02-04 00:00:00','2014-02-14 00:00:00',NULL),
 	 ('Egrycjld ows ausw pbgjceyqa','1131@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-02-05 00:00:00','2014-02-05 00:00:00',NULL),
 	 ('Rvthlhcvqjpjmaogufywdvgqnvzqupylzcrqkqd','1132@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-02-06 00:00:00','2014-05-17 00:00:00',NULL),
@@ -1252,7 +1252,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Bveguntkwdfhdpr Dj jvgebk Mnp nsul','1137@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-02-11 00:00:00','2014-02-25 00:00:00',NULL),
 	 ('Brhcobosusqo py d   ytwwmlmhl','1138@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-02-12 00:00:00','2014-03-08 00:00:00',NULL),
 	 ('Bw fdg nurcosveqvw nskxk gw eqcoboqo','1139@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-02-13 00:00:00','2014-06-13 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Asgx z','1140@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-02-14 00:00:00','2014-02-21 00:00:00',NULL),
 	 ('Kd qaz gsjiya ibuaw hivcqmmd','1141@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-02-15 00:00:00','2014-05-03 00:00:00',NULL),
 	 ('I Cycrkg','1142@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-02-16 00:00:00','2015-12-22 00:00:00',NULL),
@@ -1263,7 +1263,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ufvysywoqeg ffmhdxzpe ixagyoep','1147@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-02-21 00:00:00','2015-01-25 00:00:00',NULL),
 	 ('Keodrxgdzkxsugecbgc h vbl','1148@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-02-22 00:00:00','2014-03-03 00:00:00',NULL),
 	 ('Z pitifpte','1149@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-02-23 00:00:00','2015-09-25 00:00:00','2015-10-03 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Xwjpyqxyqy kyetrnwgqczoahidzokcyav','1150@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-02-24 00:00:00','2014-04-04 00:00:00',NULL),
 	 ('Epanrrxdp wcdwqryqeu','1151@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-02-25 00:00:00','2015-07-01 00:00:00',NULL),
 	 ('Z iuyrsyqtudfvhdfzctjtsyold mifr j','1152@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-02-26 00:00:00','2015-01-14 00:00:00',NULL),
@@ -1274,7 +1274,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Egoqroxrie Ovuhepdiuwwe pcicbgaifchwnv','1157@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-03-03 00:00:00','2015-12-18 00:00:00',NULL),
 	 ('Qbjj','1158@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-03-04 00:00:00','2014-06-08 00:00:00',NULL),
 	 ('Xnobaz','1159@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-03-05 00:00:00','2015-06-11 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ffuqchy','1160@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-03-06 00:00:00','2014-04-18 00:00:00','2015-11-30 00:00:00'),
 	 ('Fsoxpv dnacuojavpcnmtp ssnfjclguar','1161@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-03-07 00:00:00','2014-03-07 00:00:00',NULL),
 	 ('Ucogzjnlruy','1162@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-03-08 00:00:00','2014-03-16 00:00:00','2014-03-16 00:00:00'),
@@ -1285,7 +1285,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Fd v','1167@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-03-13 00:00:00','2014-03-13 00:00:00',NULL),
 	 ('Xtiytr cyzdvfaemomicxc Uzpvzhpynicc','1168@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-03-14 00:00:00','2014-06-21 00:00:00',NULL),
 	 ('X tp sibveyh','1169@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-03-15 00:00:00','2014-07-08 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Nyrwkhkldhgoxzone','1170@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-03-16 00:00:00','2014-03-17 00:00:00',NULL),
 	 ('Xdzgknseboc Yve myfjlmiaaslik','1171@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-03-17 00:00:00','2014-08-05 00:00:00',NULL),
 	 ('Zfrtfbu mcvruxaeucjnsmn','1172@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-03-18 00:00:00','2014-05-18 00:00:00',NULL),
@@ -1296,7 +1296,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Djeho a jsjlcoyl yqaayzzblvopids Fo','1177@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-03-23 00:00:00','2015-05-24 00:00:00',NULL),
 	 ('Hgwwdf kezjwk upqk Vcqlpuirg wyma woxrd','1178@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-03-24 00:00:00','2014-05-02 00:00:00',NULL),
 	 ('Mxawodbqz','1179@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-03-25 00:00:00','2014-04-18 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('L djqtomybo','1180@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-03-26 00:00:00','2014-07-17 00:00:00',NULL),
 	 ('R wkxyrm vsujjmnbrc lvoy','1181@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-03-27 00:00:00','2015-11-23 00:00:00',NULL),
 	 ('Gjjtihtpzd fygfrhxniclq  azqt spjjd','1182@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-03-28 00:00:00','2015-06-19 00:00:00',NULL),
@@ -1307,7 +1307,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Jfdiiqlzsnukdiv cxoltsvtflu yfsyaklxgu','1186@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-04-01 00:00:00','2014-04-08 00:00:00',NULL),
 	 ('Yyhaxsf gnvaghdclsscwtqiq','1187@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-04-02 00:00:00','2014-04-13 00:00:00',NULL),
 	 ('Sgpktsgjenflcbhszbuyswlq Xzjlygmg','1188@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-04-03 00:00:00','2014-11-26 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Bvuqze izsyfahycnmomycnuy cx','1189@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-04-04 00:00:00','2014-05-07 00:00:00',NULL),
 	 ('S qfyrmz bpoib flju Tbqfgiavuvkmblsvdo','1190@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-04-05 00:00:00','2014-04-05 00:00:00',NULL),
 	 ('Xboxjnspsl zbqnerfsrmltpxkwhbqiqzavzmtr','1191@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-04-06 00:00:00','2014-06-15 00:00:00',NULL),
@@ -1318,7 +1318,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Hrk x cuj iabulrosktv','1196@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-04-11 00:00:00','2015-04-25 00:00:00',NULL),
 	 ('Dplauflagkbthln Goehvka lccgrmpi','1197@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-04-12 00:00:00','2014-06-08 00:00:00',NULL),
 	 ('S Esxqydkkt','1198@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-04-13 00:00:00','2014-04-18 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Tgbpdbhitm','1199@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-04-14 00:00:00','2014-06-14 00:00:00',NULL),
 	 ('Yqbmkdiznfyyfesatv nwgdsjz usvhq wfphbpb','1200@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-04-15 00:00:00','2014-07-08 00:00:00',NULL),
 	 ('Pfbcexy q bjfzskteonjzsqx um uj','1201@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-04-16 00:00:00','2014-06-24 00:00:00',NULL),
@@ -1329,7 +1329,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Jjv Ahosqeuncjnzheor ctsi','1206@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-04-21 00:00:00','2015-03-09 00:00:00',NULL),
 	 ('Txikxbxuy','1207@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-04-22 00:00:00','2014-08-15 00:00:00',NULL),
 	 ('Mtgi idhry sj kwuw','1208@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-04-23 00:00:00','2014-05-03 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Rdupeoxdldqqgv gwrtxg','1209@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-04-24 00:00:00','2014-05-20 00:00:00','2014-05-20 00:00:00'),
 	 ('Rbgpplcdn Prepfdpr hux omgqydg','1210@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-04-25 00:00:00','2015-09-20 00:00:00',NULL),
 	 ('Zyzznfiiofae jwesgqhp mbcetrjbsv zwdki','1211@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-04-26 00:00:00','2014-04-26 00:00:00',NULL),
@@ -1340,7 +1340,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Lyfsi qzv','1216@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-05-01 00:00:00','2014-05-01 00:00:00',NULL),
 	 ('Jh iifnq','1217@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-05-02 00:00:00','2014-08-22 00:00:00',NULL),
 	 ('Bnvgc jivhnhcxch coepzmrtshy','1218@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-05-03 00:00:00','2014-08-03 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Xehz Uhlesro gduxfdnljoclsbw axzow','1219@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-05-04 00:00:00','2014-06-12 00:00:00',NULL),
 	 ('Lmina kiramkdgqhcqkfwlbd dlwcvdm','1220@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-05-05 00:00:00','2015-04-09 00:00:00',NULL),
 	 ('Nhyvbaf fbirk vficlqjklfjcv','1221@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-05-06 00:00:00','2014-08-11 00:00:00',NULL),
@@ -1351,7 +1351,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Qkxzdgzgmjson vrjd','1226@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-05-11 00:00:00','2014-05-11 00:00:00','2014-06-06 00:00:00'),
 	 ('Kmxlh pubh','1227@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-05-12 00:00:00','2015-02-07 00:00:00',NULL),
 	 ('Uhgtrh kt eaw ddx','1228@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-05-13 00:00:00','2014-07-14 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Czlte u wmle','1229@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-05-14 00:00:00','2016-01-06 00:00:00','2016-03-16 00:00:00'),
 	 ('Ebjzklbgbcxqpmtgogclu b ag','1230@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-05-15 00:00:00','2016-02-20 00:00:00',NULL),
 	 ('Iimetzgzabhdjfxpjtqbhrr','1231@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-05-16 00:00:00','2014-05-16 00:00:00',NULL),
@@ -1362,7 +1362,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Kvvyuns inxgssne gxtylg','1236@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-05-21 00:00:00','2014-09-05 00:00:00',NULL),
 	 ('Tuazpyhcrtvrxjmtrmfrk','1237@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-05-22 00:00:00','2014-05-22 00:00:00',NULL),
 	 ('Vgqkc  pjyscw','1238@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-05-23 00:00:00','2015-04-03 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Efo','1239@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-05-24 00:00:00','2014-05-31 00:00:00',NULL),
 	 ('Gts pwcxcyeyzqjhlsu','1240@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-05-25 00:00:00','2014-06-14 00:00:00',NULL),
 	 ('Dcx ziyujkog okb','1241@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-05-26 00:00:00','2014-06-10 00:00:00',NULL),
@@ -1373,7 +1373,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Xntpgbmwnl Jqpfqhbkqwufx qywry','1247@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-06-01 00:00:00','2014-06-27 00:00:00',NULL),
 	 ('Vjdpogc gcahhzshtcsn bq pc','1248@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-06-02 00:00:00','2014-09-06 00:00:00',NULL),
 	 ('Atewfst afmvzzrvfqnwots','1249@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-06-03 00:00:00','2014-06-12 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Bjrpninj','1250@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-06-04 00:00:00','2014-07-31 00:00:00',NULL),
 	 ('Qxyuzgiibmf','1251@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-06-05 00:00:00','2014-09-28 00:00:00',NULL),
 	 ('Ohofq mxa wds cmcdj','1252@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-06-06 00:00:00','2014-06-06 00:00:00',NULL),
@@ -1384,7 +1384,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Jjomlh k','1257@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-06-11 00:00:00','2015-08-18 00:00:00',NULL),
 	 ('Imyrbods u','1258@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-06-12 00:00:00','2014-06-12 00:00:00','2014-11-13 00:00:00'),
 	 ('Clismszcmrsctydoprrdqpzpzsc wkbkrnzy T','1259@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-06-13 00:00:00','2014-11-02 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Getvr  xe sz Hyoiftsikllk','1260@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-06-14 00:00:00','2014-07-06 00:00:00',NULL),
 	 ('Tatxjuihacdfgz','1261@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-06-15 00:00:00','2015-07-24 00:00:00',NULL),
 	 ('Cqjpgvrinpjzzhladrc Hjj x','1262@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-06-16 00:00:00','2014-06-16 00:00:00',NULL),
@@ -1395,7 +1395,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Vjqrbcvv xgq','1267@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-06-21 00:00:00','2016-05-03 00:00:00',NULL),
 	 ('Eyultaowciyckuttko Y','1268@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-06-22 00:00:00','2014-07-12 00:00:00',NULL),
 	 ('Yk wzrjt','1269@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-06-23 00:00:00','2014-06-23 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Gfztxjfjsek tgawiifed dkznjkxfncb','1270@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-06-24 00:00:00','2014-06-24 00:00:00',NULL),
 	 ('F rckmj ikkzhqfeh lqixv','1271@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-06-25 00:00:00','2015-10-01 00:00:00',NULL),
 	 ('Txsb Tsr u bdgo t Qnjhk n qxatawmgatncz','1272@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-06-26 00:00:00','2016-05-09 00:00:00',NULL),
@@ -1406,7 +1406,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Gqaelzutqyuic','1277@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-07-01 00:00:00','2014-07-30 00:00:00','2014-08-15 00:00:00'),
 	 ('Fvpky','1278@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-07-02 00:00:00','2014-08-15 00:00:00',NULL),
 	 ('Pp aogfkvizn vu','1279@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-07-03 00:00:00','2014-08-29 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Razxfz iztxt Laeu  slehxxrgdjt oaurg','1280@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-07-04 00:00:00','2015-12-29 00:00:00',NULL),
 	 ('Cbibh zyfazf kihvsvvghijlskg','1281@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-07-05 00:00:00','2014-10-12 00:00:00',NULL),
 	 ('Sg hpn ensjr uyrlxpyraear n Whqzi','1282@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-07-06 00:00:00','2016-04-28 00:00:00',NULL),
@@ -1417,7 +1417,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Sqn l wnhatkzsauzkg','1287@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-07-11 00:00:00','2015-09-13 00:00:00',NULL),
 	 ('Asxlus','1288@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-07-12 00:00:00','2014-09-29 00:00:00','2014-10-07 00:00:00'),
 	 ('E bbqxuqoqz  hwdtq sk z','1289@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-07-13 00:00:00','2015-09-19 00:00:00','2015-11-05 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('O hwhpfziq kggp ktgvdfxh','1290@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-07-14 00:00:00','2014-08-09 00:00:00',NULL),
 	 ('Tqko lnljimhrffxtsb txbjw','1291@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-07-15 00:00:00','2014-07-21 00:00:00',NULL),
 	 ('Vvf cgs hrtyvubh lopsjf','1292@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-07-16 00:00:00','2016-04-13 00:00:00',NULL),
@@ -1428,7 +1428,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Nugv qamkahetwjvsvmrgap','1297@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-07-21 00:00:00','2015-10-30 00:00:00','2015-11-19 00:00:00'),
 	 ('I cxp','1298@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-07-22 00:00:00','2014-09-02 00:00:00',NULL),
 	 ('Irstwc b Uopdlkimwbq  uuawzi yiljhsh','1299@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-07-23 00:00:00','2014-09-08 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Jbbidm yb swkdnsindgkebwkvfwssx ps','1300@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-07-24 00:00:00','2014-07-24 00:00:00',NULL),
 	 ('Csrth','1301@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-07-25 00:00:00','2015-07-11 00:00:00','2015-12-06 00:00:00'),
 	 ('Eslje rgcxmpnyxjw nswqhwcbtcxjzwz k','1302@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-07-26 00:00:00','2014-07-28 00:00:00',NULL),
@@ -1439,7 +1439,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Aycedfqvpkw gg morlvaugr wa  z y','1307@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-07-31 00:00:00','2014-09-19 00:00:00',NULL),
 	 ('Nohqy Kmfolckmmk','1308@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-08-01 00:00:00','2014-10-19 00:00:00','2014-12-25 00:00:00'),
 	 ('Zzzgqewhjgot kicyytvh gghaswvtmulnp','1309@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-08-02 00:00:00','2014-10-01 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Fvqianvhfes e','1310@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-08-03 00:00:00','2014-08-04 00:00:00',NULL),
 	 ('Vqgydqmfkfpgvoxydju Jepcbdahk Dyy','1311@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-08-04 00:00:00','2014-08-04 00:00:00',NULL),
 	 ('Eak kpssgiyqpszgadsdsxcxvy ydcf o','1312@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-08-05 00:00:00','2014-08-05 00:00:00',NULL),
@@ -1450,7 +1450,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Lufg dam','1317@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-08-10 00:00:00','2014-08-29 00:00:00','2014-10-26 00:00:00'),
 	 ('Rtfdu','1318@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-08-11 00:00:00','2014-08-11 00:00:00',NULL),
 	 ('Frsrgz Kjwlundvvg','1319@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-08-12 00:00:00','2014-08-12 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Hbdyb','1320@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-08-13 00:00:00','2014-11-04 00:00:00',NULL),
 	 ('Aukeq','1321@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-08-14 00:00:00','2014-09-08 00:00:00',NULL),
 	 ('Yyifcmcc w yzjavh','1322@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-08-15 00:00:00','2016-04-25 00:00:00',NULL),
@@ -1461,7 +1461,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Qffzdotvgn w vvjziptmqcy Vsq','1327@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-08-20 00:00:00','2014-12-14 00:00:00',NULL),
 	 ('Pjckikivpphch','1328@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-08-21 00:00:00','2014-09-19 00:00:00',NULL),
 	 ('Barhhrvmv Xymravylxulrj','1329@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-08-22 00:00:00','2014-08-23 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Wz  k wulljwf b','1330@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-08-23 00:00:00','2014-08-23 00:00:00',NULL),
 	 ('Du mk jlcrc X w zvxgiasv exs ev','1331@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-08-24 00:00:00','2015-02-14 00:00:00',NULL),
 	 ('Bftx qggj H','1332@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-08-25 00:00:00','2014-08-25 00:00:00',NULL),
@@ -1472,7 +1472,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Uwburykwarp wl bo','1337@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-08-30 00:00:00','2015-01-10 00:00:00',NULL),
 	 ('Kg g','1338@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-08-31 00:00:00','2014-09-11 00:00:00',NULL),
 	 ('Ol piiddd','1339@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-09-01 00:00:00','2014-12-30 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Aip sidmmzyzvzllnixte  tv cdysk','1340@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-09-02 00:00:00','2014-11-25 00:00:00',NULL),
 	 ('Txluamcomum','1341@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-09-03 00:00:00','2014-12-27 00:00:00',NULL),
 	 ('Efmoytdcqlcmkjc ifodxfve Okfbrqhdkgspn','1342@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-09-04 00:00:00','2015-05-09 00:00:00',NULL),
@@ -1483,7 +1483,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ewxrejg xluqxdgtbzmejaiix','1347@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-09-09 00:00:00','2016-07-14 00:00:00','2016-07-14 00:00:00'),
 	 ('Bltmwiqlqpy clbnb elbc','1348@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-09-10 00:00:00','2014-12-05 00:00:00',NULL),
 	 ('Lopovdqmokrxncadhtk j','1349@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-09-11 00:00:00','2016-05-06 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Qhmfuzjfkbvfafuo twvcgqcxxyduhksb','1350@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-09-12 00:00:00','2014-09-12 00:00:00',NULL),
 	 ('I dqetfpvqrl ja Sfj','1351@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-09-13 00:00:00','2014-09-13 00:00:00',NULL),
 	 ('Rvvtbgeafnhl Fnmarrih','1352@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-09-14 00:00:00','2014-11-06 00:00:00',NULL),
@@ -1494,7 +1494,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Xycogjdvrbrtnzogdzjogtkql y','1357@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-09-19 00:00:00','2014-10-07 00:00:00','2014-12-07 00:00:00'),
 	 ('Fwhsxhgez mz  phz','1358@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-09-20 00:00:00','2015-07-21 00:00:00',NULL),
 	 ('Diunfytchq kmwrwnejqvlzauw','1359@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-09-21 00:00:00','2014-09-21 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ocvmonqlsolzymutxd lf oaretletktdtw','1360@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-09-22 00:00:00','2015-09-29 00:00:00',NULL),
 	 ('Z F  dmrsnw','1361@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-09-23 00:00:00','2014-09-23 00:00:00',NULL),
 	 ('Bm ohgrr bapx  uy','1362@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-09-24 00:00:00','2014-10-05 00:00:00',NULL),
@@ -1505,7 +1505,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Siga fpdimrf Capn','1367@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-09-29 00:00:00','2014-10-03 00:00:00','2014-10-17 00:00:00'),
 	 ('Mknna onezjyelyltmpkxyrn','1368@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-09-30 00:00:00','2014-09-30 00:00:00','2014-10-24 00:00:00'),
 	 ('Waimc lxjdhweeoodtrvhnjcpwqkb lktfap','1369@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-10-01 00:00:00','2014-10-21 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Pacb ihz','1370@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-10-02 00:00:00','2015-01-07 00:00:00',NULL),
 	 ('Ggo xqihemdeu','1371@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-10-03 00:00:00','2016-04-29 00:00:00',NULL),
 	 ('Clod','1372@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-10-04 00:00:00','2014-12-27 00:00:00',NULL),
@@ -1516,7 +1516,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Zgpv Ftmkztxhbveidjalddzq uhr qiafxsdr','1377@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-10-09 00:00:00','2015-08-19 00:00:00',NULL),
 	 ('Bzbkjpfbv','1378@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-10-10 00:00:00','2014-10-10 00:00:00',NULL),
 	 ('Shhnuej org yjznvboqzmjrjm cnm Yqq pmkmr','1379@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-10-11 00:00:00','2014-10-11 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('T xdrijhkjjrrqtniszk dam  khzfbyocjxxj a','1380@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-10-12 00:00:00','2014-10-12 00:00:00','2015-07-16 00:00:00'),
 	 ('Tagbnvxk','1381@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-10-13 00:00:00','2015-01-11 00:00:00',NULL),
 	 ('Jhnsacfrowfam','1382@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-10-14 00:00:00','2015-09-08 00:00:00',NULL),
@@ -1527,7 +1527,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Rvp Zjlhzmoimug xqk antlle','1387@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-10-19 00:00:00','2014-10-19 00:00:00',NULL),
 	 ('P huwh mvfp wuxfpxlbmb m','1388@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-10-20 00:00:00','2015-01-31 00:00:00',NULL),
 	 ('Fguiprtezzmse','1389@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-10-21 00:00:00','2014-10-21 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Uxerzuaf Yvkm','1390@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-10-22 00:00:00','2014-10-24 00:00:00',NULL),
 	 ('F ztsfbhbwqpdqd s','1391@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-10-23 00:00:00','2015-11-10 00:00:00',NULL),
 	 ('Dq zgi ucqiubkhyuqnegnzl a Mhjdndup','1392@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-10-24 00:00:00','2014-10-26 00:00:00',NULL),
@@ -1538,7 +1538,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Trmenpr','1397@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-10-29 00:00:00','2015-03-13 00:00:00',NULL),
 	 ('Ychedt mtgerf  nvwjesyndcypfb Xo arv','1398@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-10-30 00:00:00','2015-01-06 00:00:00',NULL),
 	 ('Mxwyxl f aqjqvdyizhdvwegzqcu yxcutzl','1399@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-10-31 00:00:00','2014-12-19 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Zdepebjyagfgerkapqpwcl Ut pncwwkszcpd','1400@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-11-01 00:00:00','2016-09-28 00:00:00',NULL),
 	 ('Bndsdxkof uxwagrsmgv c','1401@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-11-02 00:00:00','2015-02-09 00:00:00',NULL),
 	 ('Modsjlykwsvpwwvbeiurbxgsol Uaykynebtnmy','1402@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-11-03 00:00:00','2014-11-06 00:00:00','2014-11-28 00:00:00'),
@@ -1549,7 +1549,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ty bnsl Gvdkeehknce zi azeza','1407@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-11-08 00:00:00','2014-11-08 00:00:00',NULL),
 	 ('Gttoawtki sql xgds Cmgfn ynkkw Q Nlpt','1408@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-11-09 00:00:00','2015-02-13 00:00:00',NULL),
 	 ('Pk lkgmudp','1409@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-11-10 00:00:00','2014-11-10 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Wzzmvjk iufkrajohisryewfxavbofjk','1410@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-11-11 00:00:00','2015-01-28 00:00:00',NULL),
 	 ('Euahmbicdmynjlhiqkmlnrr cmjhoroy','1411@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-11-12 00:00:00','2014-11-12 00:00:00',NULL),
 	 ('Idsiu yjwfeo gf ramgvg wl','1412@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-11-13 00:00:00','2014-11-13 00:00:00',NULL),
@@ -1560,7 +1560,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Gcdbeg hp vrt wqst  ri','1417@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-11-18 00:00:00','2015-03-17 00:00:00',NULL),
 	 ('Nxtp yxvxbjvmlbttqqueu yqx dtnp gijleq','1418@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-11-19 00:00:00','2014-11-19 00:00:00',NULL),
 	 ('Qifdxjzxbwywhvalxjp Es','1419@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-11-20 00:00:00','2015-11-11 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Fexqy','1420@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-11-21 00:00:00','2014-12-07 00:00:00',NULL),
 	 ('Zmzukpfl Njm xktbaw Yxily','1421@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-11-22 00:00:00','2014-12-13 00:00:00',NULL),
 	 ('Paxfdn','1422@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-11-23 00:00:00','2016-08-12 00:00:00',NULL),
@@ -1571,7 +1571,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Dtwdw fdjiw jnuiwewozwghmwenjzbaam qjc','1427@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-11-28 00:00:00','2014-11-29 00:00:00','2015-06-07 00:00:00'),
 	 ('Keyrzrnlhtpwpa','1428@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-11-29 00:00:00','2015-03-06 00:00:00',NULL),
 	 ('N czfnl','1429@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-11-30 00:00:00','2015-01-24 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Afqsviayqaqjqpn','1430@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-12-01 00:00:00','2015-01-08 00:00:00',NULL),
 	 ('Wydxxlxh','1431@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-12-02 00:00:00','2014-12-13 00:00:00',NULL),
 	 ('Vwft e','1432@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-12-03 00:00:00','2015-02-26 00:00:00',NULL),
@@ -1582,7 +1582,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Zmdvzyegydnbccnpqx','1437@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-12-08 00:00:00','2015-10-02 00:00:00',NULL),
 	 ('Bqcszxvab','1438@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-12-09 00:00:00','2014-12-12 00:00:00',NULL),
 	 ('Aarnracuuk g','1439@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-12-10 00:00:00','2016-02-03 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Jvfnwgqp Pyfsg nlxalxeqvwsvdgmufbek','1440@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-12-11 00:00:00','2015-03-19 00:00:00',NULL),
 	 ('Jktvg zhosywpuvgq  dd','1441@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-12-12 00:00:00','2014-12-12 00:00:00',NULL),
 	 ('J sx fupcvpqhaxqee sbgxfypn wvvm','1442@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-12-13 00:00:00','2015-05-15 00:00:00',NULL),
@@ -1593,7 +1593,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Gyi jsqho ge u P','1447@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-12-18 00:00:00','2014-12-18 00:00:00',NULL),
 	 ('Nzqjzztjqbflcyfcjjimkty','1448@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-12-19 00:00:00','2016-04-05 00:00:00',NULL),
 	 ('Tguvploydpdqsk','1449@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-12-20 00:00:00','2014-12-20 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Jsmuaubdtprztn','1450@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-12-21 00:00:00','2014-12-21 00:00:00',NULL),
 	 ('Ajjrkakhzwgj dkdo','1451@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-12-22 00:00:00','2014-12-22 00:00:00',NULL),
 	 ('Eseethl ow hf mifiy','1452@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-12-23 00:00:00','2015-01-13 00:00:00',NULL),
@@ -1604,7 +1604,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Czkkspotebmj mcrhtufong njlses skas','1457@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-12-28 00:00:00','2016-03-20 00:00:00','2016-04-14 00:00:00'),
 	 ('Yzmqpspzztgiptzljlvdas yckpki','1458@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-12-29 00:00:00','2015-01-24 00:00:00',NULL),
 	 ('Jfgkwulq','1459@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-12-30 00:00:00','2014-12-30 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Dvztcx Zmpdj tnlvdiljb s','1460@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2014-12-31 00:00:00','2015-03-31 00:00:00',NULL),
 	 ('Rbxpqjglcx ardeslzhel izxzctbwjh bw','1461@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-01-01 00:00:00','2015-01-01 00:00:00',NULL),
 	 ('Nbt xdoanqdmyhtfvjaeatwjx','1462@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-01-02 00:00:00','2016-03-14 00:00:00',NULL),
@@ -1615,7 +1615,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Jrhwxoor Jlbjbh qheycdovbbqcd','1467@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-01-07 00:00:00','2015-01-07 00:00:00','2015-05-27 00:00:00'),
 	 ('Zapoq','1468@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-01-08 00:00:00','2015-02-21 00:00:00','2015-02-21 00:00:00'),
 	 ('Bhtkblzrbttuk Ij','1469@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-01-09 00:00:00','2016-03-10 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Uupk crtyysqn','1470@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-01-10 00:00:00','2016-09-02 00:00:00',NULL),
 	 ('Dfldqfurtjucgkhklyifeoygfufikbzbp','1471@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-01-11 00:00:00','2016-06-07 00:00:00',NULL),
 	 ('Wh exrnwbk Zxk','1472@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-01-12 00:00:00','2015-12-19 00:00:00',NULL),
@@ -1626,7 +1626,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('T lqpzpggqq K pmhddokggifaikkpjmq','1477@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-01-17 00:00:00','2015-01-17 00:00:00',NULL),
 	 ('Us e vd ea jujmmsnpj','1478@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-01-18 00:00:00','2016-04-20 00:00:00',NULL),
 	 ('Xvtqjqetla','1479@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-01-19 00:00:00','2015-02-25 00:00:00','2016-06-24 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Cjllmbtlnwyvfqihm','1480@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-01-20 00:00:00','2015-02-14 00:00:00',NULL),
 	 ('J  vag ljbkrmfysvwflnjlgj cphxv','1481@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-01-21 00:00:00','2015-05-13 00:00:00',NULL),
 	 ('Howhwzymyok','1482@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-01-22 00:00:00','2016-04-13 00:00:00',NULL),
@@ -1637,7 +1637,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Wsndmryhgfdahlqfwcpij ogbs g','1487@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-01-27 00:00:00','2015-01-27 00:00:00',NULL),
 	 ('Cqijhvzrtajcvwfzl  buwsrxoj Ih','1488@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-01-28 00:00:00','2015-01-28 00:00:00',NULL),
 	 ('Guwmmkvdr n ubqps','1489@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-01-29 00:00:00','2015-02-06 00:00:00','2015-05-02 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Cesipoajrmhtvoklnw xy w scjuam','1490@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-01-30 00:00:00','2015-04-23 00:00:00',NULL),
 	 ('Rfcrm mumuwn argme re kzo yg qbm','1491@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-01-31 00:00:00','2015-04-18 00:00:00',NULL),
 	 ('Ghqdgolmp  iqnwzxyephgptawddy kcv','1492@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-02-01 00:00:00','2015-05-07 00:00:00','2016-08-27 00:00:00'),
@@ -1648,7 +1648,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Edixtwjsvbz pd Gy Rnptj btohp','1497@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-02-06 00:00:00','2015-05-04 00:00:00','2015-05-24 00:00:00'),
 	 ('Qvmzgndgavjtgoonznkwga yamtk','1498@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-02-07 00:00:00','2015-05-21 00:00:00',NULL),
 	 ('Smbudezimgacsso akxtnrkb Sr','1499@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-02-08 00:00:00','2015-02-11 00:00:00','2015-02-23 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Pi b Qir ldmzjmwnywpi','1500@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-02-09 00:00:00','2016-09-30 00:00:00',NULL),
 	 ('Yebkheykhsh','1501@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-02-10 00:00:00','2015-02-10 00:00:00',NULL),
 	 ('Nl Nuxfspr','1502@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-02-11 00:00:00','2016-10-19 00:00:00','2016-10-19 00:00:00'),
@@ -1659,7 +1659,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Xyeziockmt','1507@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-02-16 00:00:00','2015-04-18 00:00:00',NULL),
 	 ('Ldwlr q hcvvlweeubkqztlkvbeva Xvqn','1508@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-02-17 00:00:00','2015-05-09 00:00:00',NULL),
 	 ('Cnebs','1509@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-02-18 00:00:00','2016-02-05 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Vxmlmmbas Cnqrz Wpjucjrijrizfup','1510@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-02-19 00:00:00','2016-03-08 00:00:00',NULL),
 	 ('Iyqcje znkuz izmzo jmcuouinnq iqlc','1511@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-02-20 00:00:00','2015-06-07 00:00:00',NULL),
 	 ('Vq Znpt coynutceyeekirzyzirm nhwx','1512@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-02-21 00:00:00','2015-02-21 00:00:00',NULL),
@@ -1670,7 +1670,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Iegox Tnydwcx swjgvw wdzuvb','1517@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-02-26 00:00:00','2015-06-23 00:00:00',NULL),
 	 ('Cveb  xjdr ndkz','1518@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-02-27 00:00:00','2015-11-07 00:00:00',NULL),
 	 ('Btf kmfqiidfrynm of Owfvsn','1519@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-02-28 00:00:00','2015-03-15 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Rptphoszkluh qeypmtggqenevel pyirnfmgy','1520@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-03-01 00:00:00','2015-03-01 00:00:00',NULL),
 	 ('Nxcmrbb','1521@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-03-02 00:00:00','2016-07-26 00:00:00',NULL),
 	 ('Rk h tiplzjhoywdzhnh','1522@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-03-03 00:00:00','2015-12-27 00:00:00',NULL),
@@ -1681,7 +1681,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Hwszbu mbunu l x','1527@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-03-08 00:00:00','2016-09-13 00:00:00',NULL),
 	 ('Mflrdijc fbxiyjfbyeugxxks','1528@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-03-09 00:00:00','2015-03-20 00:00:00',NULL),
 	 ('Cxpiyltqsepmgznf X','1529@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-03-10 00:00:00','2015-05-24 00:00:00','2015-06-15 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Fltlquogiaeplv daqbsrpqmcrulovrf','1530@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-03-11 00:00:00','2015-03-11 00:00:00',NULL),
 	 ('Uappmt evn pnpxgjyultkzgmnbf g cphzys','1531@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-03-12 00:00:00','2015-03-12 00:00:00',NULL),
 	 ('Gp rmxtjichlnhpj','1532@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-03-13 00:00:00','2016-03-28 00:00:00',NULL),
@@ -1692,7 +1692,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Inmh qiqtkbwzbhiqrsnpz','1537@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-03-18 00:00:00','2015-03-18 00:00:00','2015-03-18 00:00:00'),
 	 ('Mds','1538@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-03-19 00:00:00','2015-06-02 00:00:00',NULL),
 	 ('V wclw','1539@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-03-20 00:00:00','2015-03-20 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('H bhyiqactesjomfsa wnvx j ruqt','1540@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-03-21 00:00:00','2015-04-20 00:00:00','2016-07-07 00:00:00'),
 	 ('Ywwurhy t','1541@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-03-22 00:00:00','2015-03-22 00:00:00',NULL),
 	 ('Buktcpw','1542@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-03-23 00:00:00','2015-03-26 00:00:00',NULL),
@@ -1703,7 +1703,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ooa Aydwyyb','1547@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-03-28 00:00:00','2015-03-28 00:00:00',NULL),
 	 ('Kinwhuhxwrih','1548@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-03-29 00:00:00','2015-05-07 00:00:00',NULL),
 	 ('Zpvu Tsza oa Cux xwpuv rbjosvp Bcgdk','1549@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-03-30 00:00:00','2015-03-30 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Kzbulceyyxugwthdcqrn s w','1550@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-03-31 00:00:00','2015-06-01 00:00:00',NULL),
 	 ('Hto rwfzp kgm mdhowysddkdvqzpdeita','1551@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-04-01 00:00:00','2015-04-01 00:00:00','2015-04-26 00:00:00'),
 	 ('Zkjfwjhq','1552@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-04-02 00:00:00','2015-04-02 00:00:00',NULL),
@@ -1714,7 +1714,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ocwpm','1557@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-04-07 00:00:00','2015-04-07 00:00:00','2016-10-27 00:00:00'),
 	 ('Kcsouaunccfkzlprqkgihsptyyibrroh','1558@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-04-08 00:00:00','2015-09-15 00:00:00',NULL),
 	 ('Yvuvfc gfrqdxhqlhbzfavmsgjgks O','1559@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-04-09 00:00:00','2015-07-31 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Klnetyqxxbnmzpreqdfeltgc sioodp  nlwgpt','1560@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-04-10 00:00:00','2015-04-12 00:00:00',NULL),
 	 ('Qrtywqlit','1561@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-04-11 00:00:00','2015-04-11 00:00:00',NULL),
 	 ('Vlaoh lzjpwxuknryow','1562@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-04-12 00:00:00','2015-07-28 00:00:00',NULL),
@@ -1725,7 +1725,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Njznyrfpphartcqqqgxe','1567@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-04-17 00:00:00','2015-04-17 00:00:00',NULL),
 	 ('Aavwgbpqzgnsunjue Ctd','1568@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-04-18 00:00:00','2015-04-18 00:00:00',NULL),
 	 ('Frrqmnyoeldhbs z rqcekn t','1569@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-04-19 00:00:00','2015-04-19 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Egjo','1570@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-04-20 00:00:00','2015-04-24 00:00:00',NULL),
 	 ('Amqn','1571@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-04-21 00:00:00','2015-04-21 00:00:00',NULL),
 	 ('Wihrargsmv epglhax qofwujqm gee','1572@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-04-22 00:00:00','2015-07-01 00:00:00','2015-09-26 00:00:00'),
@@ -1736,7 +1736,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Bcyzyqzksqieehxyuwz w te Qhs','1577@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-04-27 00:00:00','2015-04-27 00:00:00',NULL),
 	 ('Ng vddglpzjdxmf Om','1578@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-04-28 00:00:00','2015-07-15 00:00:00','2015-10-15 00:00:00'),
 	 ('Eizjmnz xnuoroyvu I','1579@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-04-29 00:00:00','2015-05-02 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Pnvd  dzms igwhob vnxv mtosmy','1580@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-04-30 00:00:00','2015-06-16 00:00:00',NULL),
 	 ('Hhbiur','1581@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-05-01 00:00:00','2015-05-01 00:00:00',NULL),
 	 ('Dftrxdzp','1582@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-05-02 00:00:00','2015-08-16 00:00:00','2015-08-22 00:00:00'),
@@ -1747,7 +1747,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ebmsimbeziscwsolddhrhmpk k zjdqw mhnq','1587@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-05-07 00:00:00','2015-06-02 00:00:00',NULL),
 	 ('Qib rekmkzkg','1588@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-05-08 00:00:00','2015-05-12 00:00:00',NULL),
 	 ('Puximrgpvj','1589@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-05-09 00:00:00','2015-09-01 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('D p d','1590@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-05-10 00:00:00','2015-06-07 00:00:00',NULL),
 	 ('Meloolf jbiscjzqe','1591@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-05-11 00:00:00','2015-08-20 00:00:00',NULL),
 	 ('Vtdvpwvxlf  v nmdqqythow ddum','1592@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-05-12 00:00:00','2015-05-12 00:00:00',NULL),
@@ -1758,7 +1758,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Hrhsj','1597@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-05-17 00:00:00','2015-06-01 00:00:00',NULL),
 	 ('Ktp vewnaxjzkzakzzwv Gz s','1598@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-05-18 00:00:00','2016-04-19 00:00:00','2016-08-01 00:00:00'),
 	 ('Q xfwleeiblwwav','1599@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-05-19 00:00:00','2015-05-19 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Wttbf cuyqhdyqrzdit bfjkt ljab','1600@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-05-20 00:00:00','2015-06-18 00:00:00',NULL),
 	 ('Kknjtbvooppraqpgjxu siak','1601@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-05-21 00:00:00','2015-06-20 00:00:00',NULL),
 	 ('Vwndgittvipemojgh wfhqyh cmx pdmxq aela','1602@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-05-22 00:00:00','2015-05-24 00:00:00',NULL),
@@ -1769,7 +1769,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('X  gyqsrhstjj','1607@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-05-27 00:00:00','2015-05-27 00:00:00',NULL),
 	 ('Vfzrhbt','1608@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-05-28 00:00:00','2015-06-06 00:00:00',NULL),
 	 ('Aqadsw oampmwoi nnsn e','1609@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-05-29 00:00:00','2015-06-18 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Qtynvwu jxs d dvpx qztrgt i','1610@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-05-30 00:00:00','2016-03-13 00:00:00',NULL),
 	 ('Crhkqpu aidhojovswpbhajxewaq','1611@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-05-31 00:00:00','2016-05-12 00:00:00',NULL),
 	 ('Jzbfu Xgwwub','1612@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-06-01 00:00:00','2015-06-01 00:00:00',NULL),
@@ -1780,7 +1780,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Am Bxoigwpcdw oruvqselhljpcmxg','1617@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-06-06 00:00:00','2017-02-03 00:00:00',NULL),
 	 ('Ejim vvvhvnxdpskr ekgevfcclxo tts','1618@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-06-07 00:00:00','2017-03-22 00:00:00',NULL),
 	 ('Xfttptjjm drs Iwkgu kku jvvsyasmbi hqwsa','1619@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-06-08 00:00:00','2015-06-13 00:00:00','2016-10-20 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Plfbondjfmvdrgstfkafakjmp sysxqxzxygkd','1620@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-06-09 00:00:00','2015-11-22 00:00:00',NULL),
 	 ('Fgjm bbxcml','1621@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-06-10 00:00:00','2015-06-10 00:00:00',NULL),
 	 ('Jpcylykdlbsvejwto wdewl','1622@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-06-11 00:00:00','2015-12-14 00:00:00',NULL),
@@ -1791,7 +1791,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Avipuscbkqxfn wypschpzrdd fcejwb E','1627@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-06-16 00:00:00','2015-10-06 00:00:00',NULL),
 	 ('M Xtkcqdytlrybesrdnvs','1628@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-06-17 00:00:00','2016-10-19 00:00:00',NULL),
 	 ('Xtmcjsnxufxzcjuxkaby','1629@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-06-18 00:00:00','2015-07-01 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('D epafouuslvnwtqt zlwjhrcgrzafclb','1630@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-06-19 00:00:00','2015-06-20 00:00:00',NULL),
 	 ('Qpaovcwjkyhjhiqxdeuqwratgz','1631@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-06-20 00:00:00','2015-06-20 00:00:00',NULL),
 	 ('Ndipyobkwm jovjj Hdyrv','1632@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-06-21 00:00:00','2015-07-12 00:00:00',NULL),
@@ -1802,7 +1802,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Bidaewk','1637@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-06-26 00:00:00','2015-06-29 00:00:00',NULL),
 	 ('Lq ocymfbxq wditlioy ii qa otfz kb e','1638@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-06-27 00:00:00','2016-01-25 00:00:00',NULL),
 	 ('Atdasu','1639@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-06-28 00:00:00','2015-06-28 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Xfm ifcrxqlgvsqtoo','1640@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-06-29 00:00:00','2015-07-16 00:00:00','2015-07-16 00:00:00'),
 	 ('P dvzbmisz ieit rtg Dh','1641@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-06-30 00:00:00','2015-06-30 00:00:00',NULL),
 	 ('Upwfge qc','1642@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-07-01 00:00:00','2015-09-03 00:00:00',NULL),
@@ -1813,7 +1813,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ntxdsbeldymi ipdudvajk','1647@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-07-06 00:00:00','2016-08-16 00:00:00',NULL),
 	 ('Vhncb rbcvtktzm lzwanjd m xirvvbl','1648@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-07-07 00:00:00','2015-10-08 00:00:00',NULL),
 	 ('Gianaamhewbxyrbrbhxuvw','1649@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-07-08 00:00:00','2016-12-18 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Fchdy xts Kukiwfsbgeuwpgvxwq p','1650@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-07-09 00:00:00','2015-08-04 00:00:00',NULL),
 	 ('Ziefcn izki','1651@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-07-10 00:00:00','2015-07-12 00:00:00',NULL),
 	 ('Zwvfyacngjksmo','1652@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-07-11 00:00:00','2016-01-16 00:00:00','2016-01-16 00:00:00'),
@@ -1824,7 +1824,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Baa hjnzmv qbgfp Nftpmsrizjzorbxrw','1656@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-07-15 00:00:00','2015-07-15 00:00:00',NULL),
 	 ('Qnrpfnpdgcqpelfhfkepm Htb vvzdnc','1657@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-07-16 00:00:00','2015-07-22 00:00:00',NULL),
 	 ('Zugioelabta   b','1658@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-07-17 00:00:00','2015-07-17 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Nuyfimgppzcxhhqj','1659@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-07-18 00:00:00','2016-05-20 00:00:00','2016-05-20 00:00:00'),
 	 ('Stosvp etlglbet','1660@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-07-19 00:00:00','2016-06-13 00:00:00',NULL),
 	 ('Gliyrdlgjyblhnjtaaeo','1661@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-07-20 00:00:00','2015-07-20 00:00:00',NULL),
@@ -1835,7 +1835,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Oen epggmspndtjwmkmjrxgk  svrodd','1666@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-07-25 00:00:00','2015-12-12 00:00:00',NULL),
 	 ('Pozrjsqxnjm','1667@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-07-26 00:00:00','2015-07-26 00:00:00','2015-11-16 00:00:00'),
 	 ('Wiofp nbo T','1668@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-07-27 00:00:00','2015-07-27 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Upp lbzimtbnhcmlovrdvjlymwjn','1669@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-07-28 00:00:00','2015-07-28 00:00:00',NULL),
 	 ('Jnpolb xnbfdpgsxcmumojgj','1670@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-07-29 00:00:00','2015-08-30 00:00:00',NULL),
 	 ('Myjewy rfrynxcs zarliegrpqmufanz','1671@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-07-30 00:00:00','2015-11-12 00:00:00',NULL),
@@ -1846,7 +1846,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Zuivx dhw cb Ijjqdmtmm ssln','1676@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-08-04 00:00:00','2016-04-01 00:00:00',NULL),
 	 ('Parbi evvgss','1677@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-08-05 00:00:00','2015-09-30 00:00:00',NULL),
 	 ('Ddoda mbunromnsp','1678@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-08-06 00:00:00','2015-10-13 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Tyxhskcgpsjauohb','1679@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-08-07 00:00:00','2015-09-19 00:00:00','2015-11-20 00:00:00'),
 	 ('Jlhutm qh xvhopa','1680@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-08-08 00:00:00','2015-09-10 00:00:00',NULL),
 	 ('Duk v Ozshftqaehpa kdd','1681@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-08-09 00:00:00','2015-09-08 00:00:00','2015-09-08 00:00:00'),
@@ -1857,7 +1857,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Dzkxegqaczbtefupbhsgoesjqsclagln','1686@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-08-14 00:00:00','2016-06-17 00:00:00','2016-06-17 00:00:00'),
 	 ('Xppnfbc','1687@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-08-15 00:00:00','2015-09-03 00:00:00',NULL),
 	 ('Ocqjolondnahhombblpn','1688@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-08-16 00:00:00','2015-08-16 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('H sruiisyehnkzypnxrjdlwfcnhmhy xtgju c','1689@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-08-17 00:00:00','2015-08-22 00:00:00',NULL),
 	 ('Id ckqcyfzpitduh obgyfigzljhg gvp jt','1690@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-08-18 00:00:00','2015-08-18 00:00:00',NULL),
 	 ('Yd bql budaqscwhxmm','1691@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-08-19 00:00:00','2015-10-22 00:00:00','2015-10-22 00:00:00'),
@@ -1868,7 +1868,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Uxounswxm','1696@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-08-24 00:00:00','2015-08-24 00:00:00',NULL),
 	 ('Mstaixxscluox eogqsa','1697@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-08-25 00:00:00','2015-09-21 00:00:00',NULL),
 	 ('Uszauhodu','1698@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-08-26 00:00:00','2015-08-26 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Olihkjdartpmxfswaixopqkaavyqyag','1699@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-08-27 00:00:00','2015-08-27 00:00:00',NULL),
 	 ('Mopjir mrz lrntajffjfvv','1700@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-08-28 00:00:00','2015-10-05 00:00:00',NULL),
 	 ('Aazwgkqypcac ygsy Pgnlwidpjck','1701@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-08-29 00:00:00','2015-12-22 00:00:00',NULL),
@@ -1879,7 +1879,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Idnm rdy','1706@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-09-03 00:00:00','2015-10-03 00:00:00',NULL),
 	 ('Ozo Dzyxyqegyvnydncadbn','1707@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-09-04 00:00:00','2015-09-04 00:00:00',NULL),
 	 ('Bmxvpohao  jo Jcpepgxn','1708@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-09-05 00:00:00','2015-12-07 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Fssjcvj Dploba  znfy ulexxgairoyweq ibd','1709@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-09-06 00:00:00','2015-09-06 00:00:00',NULL),
 	 ('Uolz','1710@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-09-07 00:00:00','2015-09-12 00:00:00',NULL),
 	 ('Qfikbgwsiae j ws bxkgj vruqzcfu swxq','1711@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-09-08 00:00:00','2015-10-08 00:00:00',NULL),
@@ -1890,7 +1890,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Xdvo Cuiprtkrpd','1716@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-09-13 00:00:00','2015-09-13 00:00:00',NULL),
 	 ('Nodbvl vnozrlgy f','1717@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-09-14 00:00:00','2015-10-07 00:00:00','2016-10-01 00:00:00'),
 	 ('Vkpudnutod sxshh hn lwfr','1718@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-09-15 00:00:00','2015-10-03 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Djfmbitd Kinqeaj bnghpt','1719@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-09-16 00:00:00','2015-11-22 00:00:00',NULL),
 	 ('Qse g  u','1720@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-09-17 00:00:00','2016-01-08 00:00:00',NULL),
 	 ('Q g ylquvbtijnqzbiche','1721@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-09-18 00:00:00','2016-06-16 00:00:00',NULL),
@@ -1901,7 +1901,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Nymn nlyhp','1726@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-09-23 00:00:00','2015-09-30 00:00:00',NULL),
 	 ('Skmnwsbsduqr','1727@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-09-24 00:00:00','2015-12-25 00:00:00',NULL),
 	 ('Ycmvocblnoau jsrr uqvxhvgba','1728@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-09-25 00:00:00','2015-09-25 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Vzpx ahwhm u','1729@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-09-26 00:00:00','2016-01-10 00:00:00',NULL),
 	 ('Lbuaanv v xo','1730@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-09-27 00:00:00','2015-09-27 00:00:00',NULL),
 	 ('Ryfoingima hqba Fqxianf Cr fboypr','1731@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-09-28 00:00:00','2015-10-01 00:00:00',NULL),
@@ -1912,7 +1912,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Sbh  eyzti cqupqxsrvpwksyiqsrhdgh','1736@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-10-03 00:00:00','2016-10-08 00:00:00','2016-10-25 00:00:00'),
 	 ('B xb usdhbqmioq  ndoag bj','1737@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-10-04 00:00:00','2016-02-21 00:00:00',NULL),
 	 ('Btydclvoktqqtwx','1738@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-10-05 00:00:00','2017-08-02 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Pu tn  yy kswhnuxanho lwyjwfe kcf','1739@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-10-06 00:00:00','2016-01-22 00:00:00','2016-12-10 00:00:00'),
 	 ('Nci qzfidz xw  exlm vj H Xu  brt','1740@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-10-07 00:00:00','2015-11-06 00:00:00',NULL),
 	 ('Mtjmdmj podalcj','1741@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-10-08 00:00:00','2016-06-06 00:00:00',NULL),
@@ -1923,7 +1923,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Jlb rbyftwx axgvryqvstq','1746@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-10-13 00:00:00','2015-10-13 00:00:00',NULL),
 	 ('Xhbqrgaa eeefvz f','1747@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-10-14 00:00:00','2016-01-11 00:00:00',NULL),
 	 ('Rqej Gscviptq u','1748@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-10-15 00:00:00','2016-09-13 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('A Kp ywogjmqhsdhptgejnv km','1749@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-10-16 00:00:00','2015-11-29 00:00:00',NULL),
 	 ('Javqhewdfqgm Znnyta gumqzewm h knf','1750@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-10-17 00:00:00','2015-10-17 00:00:00',NULL),
 	 ('Gjwweetytiklbnmcrqbwpqilbyyeirqyef','1751@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-10-18 00:00:00','2015-11-22 00:00:00','2015-11-22 00:00:00'),
@@ -1934,7 +1934,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Wewefose','1756@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-10-23 00:00:00','2016-03-06 00:00:00',NULL),
 	 ('Rlkywzmzxyezv','1757@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-10-24 00:00:00','2015-11-02 00:00:00',NULL),
 	 ('Fbaceo vi oaqicxr','1758@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-10-25 00:00:00','2015-11-28 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Vhxfjvkioayyic','1759@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-10-26 00:00:00','2017-07-10 00:00:00',NULL),
 	 ('Hwjipprrlbz cc','1760@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-10-27 00:00:00','2015-10-27 00:00:00',NULL),
 	 ('Dhvrhedynbdxqddicds ma','1761@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-10-28 00:00:00','2015-12-23 00:00:00',NULL),
@@ -1945,7 +1945,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Iqp iisad','1766@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-11-02 00:00:00','2016-09-10 00:00:00',NULL),
 	 ('Hvrkrkjnkjfi dqshxfmvtv xdzg','1767@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-11-03 00:00:00','2015-11-03 00:00:00',NULL),
 	 ('Tuvipurmsoluauwuiigddpsz hflxpv','1768@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-11-04 00:00:00','2017-08-23 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Hijpdw h yst yrxvkfkjltxxlmpw nszcivefh','1769@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-11-05 00:00:00','2015-11-05 00:00:00',NULL),
 	 ('Vujpo mqxp Jvuhd','1770@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-11-06 00:00:00','2015-11-24 00:00:00',NULL),
 	 ('Ddduadvb ycdrxcmfcp','1771@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-11-07 00:00:00','2015-11-12 00:00:00',NULL),
@@ -1956,7 +1956,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Tfxhujer nkgevdjawqgspnmx kjfsbaiojkdr','1776@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-11-12 00:00:00','2015-11-12 00:00:00',NULL),
 	 ('Ugewviklhpxqpmwpxburflxscuj bvwsibsj','1777@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-11-13 00:00:00','2015-12-31 00:00:00',NULL),
 	 ('Ll Sxrdgdqxetcnknr Gunknjppytoi','1778@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-11-14 00:00:00','2015-11-15 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Utbr Lcs qbpnkwsw','1779@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-11-15 00:00:00','2016-06-05 00:00:00',NULL),
 	 ('Zwuiywogsha','1780@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-11-16 00:00:00','2015-11-16 00:00:00',NULL),
 	 ('Ssqaavtmctzyi l Xcrtv','1781@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-11-17 00:00:00','2016-03-16 00:00:00',NULL),
@@ -1967,7 +1967,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Qeygz qsigwdjplfgaitvswkekmgjpbtl','1786@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-11-22 00:00:00','2016-01-11 00:00:00',NULL),
 	 ('Ysiroykgytkxztp x  tyymlj','1787@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-11-23 00:00:00','2015-12-06 00:00:00',NULL),
 	 ('Kubxgpxjslqaiavl kzwvixevgqambgd o','1788@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-11-24 00:00:00','2017-09-09 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Djqzsfaqpmll axrwy tyo','1789@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-11-25 00:00:00','2017-04-03 00:00:00',NULL),
 	 ('F oka Sparcgkmuxedgwcztymulr','1790@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-11-26 00:00:00','2016-02-22 00:00:00',NULL),
 	 ('Ri gy','1791@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-11-27 00:00:00','2015-11-27 00:00:00',NULL),
@@ -1978,7 +1978,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ls yrikcdzhooleunimkdc ipausdykk','1796@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-12-02 00:00:00','2015-12-14 00:00:00',NULL),
 	 ('Qhknq','1797@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-12-03 00:00:00','2016-07-14 00:00:00','2016-07-14 00:00:00'),
 	 ('Idxskwh ybgqbkfr y','1798@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-12-04 00:00:00','2017-01-04 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ktz vxyfmuglibz Jpsqhmnyptfpvgziqmo Lryw','1799@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-12-05 00:00:00','2017-01-28 00:00:00',NULL),
 	 ('Hyo esncqmuwpyyr wpxmwqyxvz Y','1800@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-12-06 00:00:00','2016-10-21 00:00:00',NULL),
 	 ('Twtdegzoqmybdlzeknhvvc yrxhivkzqfhuzr ky','1801@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-12-07 00:00:00','2015-12-12 00:00:00',NULL),
@@ -1989,7 +1989,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Umeqgnokziz obg Oy ggxpytze m','1806@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-12-12 00:00:00','2016-01-04 00:00:00','2016-04-25 00:00:00'),
 	 ('Luzmebioaphxwlfp pqxwpgcrrpvdykes','1807@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-12-13 00:00:00','2016-02-14 00:00:00',NULL),
 	 ('Gdzafbpugl','1808@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-12-14 00:00:00','2015-12-24 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Aqlhd xrwkqvhkmuwog','1809@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-12-15 00:00:00','2015-12-15 00:00:00',NULL),
 	 ('Xrdnsagownlxxadtlwdqkhrmrlee wcvfbxe','1810@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-12-16 00:00:00','2016-01-08 00:00:00',NULL),
 	 ('Xaybdwgdff','1811@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-12-17 00:00:00','2015-12-25 00:00:00',NULL),
@@ -2000,7 +2000,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Yjydyffsn','1816@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-12-22 00:00:00','2016-02-29 00:00:00',NULL),
 	 ('Nyrsoxlzwxckklczzvg niqjfwqjass','1817@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-12-23 00:00:00','2016-01-19 00:00:00',NULL),
 	 ('Ta tlx wqqfcxthtxqcaovtdqymbr','1818@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-12-24 00:00:00','2015-12-30 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Flnd ckwmgkwdeiy Y wqpki jfw xckrn','1819@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-12-25 00:00:00','2016-01-20 00:00:00',NULL),
 	 ('W mmgsbdzoalnxmzwshp nclraivjwutgdliyo','1820@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-12-26 00:00:00','2016-01-09 00:00:00',NULL),
 	 ('Ulkcgermxrrfzf dnaujqb Tofmawsl','1821@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2015-12-27 00:00:00','2017-08-03 00:00:00',NULL),
@@ -2011,7 +2011,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Y K Sftt nuvmxsr yhuoa jcnzo','1826@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-01-01 00:00:00','2016-01-01 00:00:00',NULL),
 	 ('Pewrewut','1827@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-01-02 00:00:00','2016-03-21 00:00:00','2016-03-21 00:00:00'),
 	 ('Etfveopk w ibfdax','1828@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-01-03 00:00:00','2017-03-28 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Gwb secua ccoyzai','1829@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-01-04 00:00:00','2016-01-20 00:00:00',NULL),
 	 ('Ai hx fuumxibcmk','1830@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-01-05 00:00:00','2016-03-05 00:00:00',NULL),
 	 ('Tfoxbr s qig x z skkyitcw abh','1831@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-01-06 00:00:00','2016-08-21 00:00:00',NULL),
@@ -2022,7 +2022,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Gfdclqda rpp li nwkjgcuvwdrtz','1837@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-01-12 00:00:00','2017-10-03 00:00:00',NULL),
 	 ('Aetlzsvfkuuxodexnxndgzrgchcacffbrq','1838@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-01-13 00:00:00','2017-10-02 00:00:00',NULL),
 	 ('Ac rsphnmmypgcsqghgezwvbo ppendqvcpxf','1839@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-01-14 00:00:00','2016-01-17 00:00:00','2016-01-17 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Arpj','1840@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-01-15 00:00:00','2016-05-13 00:00:00',NULL),
 	 ('Wp Zbeem Tjrqlc Kirqyaejzsgfwt wfgq','1841@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-01-16 00:00:00','2017-06-01 00:00:00',NULL),
 	 ('Zs sygrgfwme','1842@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-01-17 00:00:00','2016-02-27 00:00:00',NULL),
@@ -2033,7 +2033,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('J r Kd Pdpcfbc mskstom ns Dddhkbkb','1847@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-01-22 00:00:00','2016-01-22 00:00:00',NULL),
 	 ('Lxnajudqmlvafhqn','1848@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-01-23 00:00:00','2016-02-18 00:00:00',NULL),
 	 ('Iycbivj yqifvuind','1849@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-01-24 00:00:00','2016-03-30 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('R trdalxpcyw bk la Wmmpbommj','1850@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-01-25 00:00:00','2016-01-25 00:00:00','2016-09-14 00:00:00'),
 	 ('Ouvqawjuzbna gpyf e suo','1851@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-01-26 00:00:00','2016-02-22 00:00:00',NULL),
 	 ('Gbmyb Lvfnuphtpsfh pdarrjpegq','1852@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-01-27 00:00:00','2017-09-10 00:00:00',NULL),
@@ -2044,7 +2044,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Aryipiltfvyjggx','1857@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-02-01 00:00:00','2017-03-16 00:00:00','2017-03-16 00:00:00'),
 	 ('Pixihtt z xtrnidwlczy','1858@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-02-02 00:00:00','2016-02-02 00:00:00','2016-02-02 00:00:00'),
 	 ('Bsetzikwzhecmbengdlcaipj f','1859@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-02-03 00:00:00','2016-02-03 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Clrtdow zlm amykvpk','1860@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-02-04 00:00:00','2016-04-23 00:00:00',NULL),
 	 ('Kgm xfxiudt iip','1861@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-02-05 00:00:00','2016-02-18 00:00:00',NULL),
 	 ('Tpnfkuwiwoglwj uc','1862@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-02-06 00:00:00','2016-02-17 00:00:00',NULL),
@@ -2055,7 +2055,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Zjnuq p','1867@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-02-11 00:00:00','2016-12-23 00:00:00',NULL),
 	 ('Qwnal ekunjgq Sf','1868@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-02-12 00:00:00','2016-03-01 00:00:00',NULL),
 	 ('Q Zawfaxyxrazam r Owbtntgia','1869@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-02-13 00:00:00','2016-02-13 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Uhxbxgjqm wwkov ohdwikvhgdkilboknuatelo','1870@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-02-14 00:00:00','2016-02-14 00:00:00',NULL),
 	 ('Qwqtxomteg Qaasldufcuscn kil','1871@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-02-15 00:00:00','2016-02-15 00:00:00',NULL),
 	 ('Kx Usxhsyi','1872@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-02-16 00:00:00','2016-02-19 00:00:00',NULL),
@@ -2066,7 +2066,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Xxajkdygacknf utsay','1877@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-02-21 00:00:00','2016-02-21 00:00:00',NULL),
 	 ('Nsdyryvlvoe','1878@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-02-22 00:00:00','2016-03-11 00:00:00','2016-03-30 00:00:00'),
 	 ('Awwj','1879@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-02-23 00:00:00','2016-02-23 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Gp Viaqmtmbesemyhhoh gdixapykn','1880@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-02-24 00:00:00','2016-05-28 00:00:00','2016-07-03 00:00:00'),
 	 ('Jushbakfkdc jcojeluofbwduwjkffernrucmqub','1881@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-02-25 00:00:00','2016-02-25 00:00:00',NULL),
 	 ('Mjmbfz','1882@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-02-26 00:00:00','2017-04-29 00:00:00',NULL),
@@ -2077,7 +2077,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Z   wloqagbdkaqglq','1887@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-03-02 00:00:00','2016-04-26 00:00:00',NULL),
 	 ('E kq inhjqiuwqqoid hq mihlkt','1888@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-03-03 00:00:00','2017-02-07 00:00:00','2018-12-23 00:00:00'),
 	 ('Idg foeejdtayl miqsltyc','1889@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-03-04 00:00:00','2016-03-31 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Edbayafawlu Wjidqml btsc r','1890@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-03-05 00:00:00','2016-03-15 00:00:00',NULL),
 	 ('Tgcwedsuzx','2068@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-08-30 00:00:00','2016-10-08 00:00:00','2016-10-08 00:00:00'),
 	 ('Mnkfxft occiudnvgl hcmeagffxshkuo','1891@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-03-06 00:00:00','2016-04-05 00:00:00',NULL),
@@ -2088,7 +2088,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Mlsb zbjtaf dkfvo Zyxoluroprdyyhr tg','1896@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-03-11 00:00:00','2016-03-19 00:00:00',NULL),
 	 ('Gihbxkpk go Qbr Onlyktishdpdelsljahkvzb','1897@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-03-12 00:00:00','2016-03-12 00:00:00',NULL),
 	 ('Zytnruuwdep zkrtpg Wfp xuhgt','1898@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-03-13 00:00:00','2016-03-26 00:00:00','2016-03-26 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Pij kulgvu mbubqziraypw','1899@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-03-14 00:00:00','2016-03-14 00:00:00',NULL),
 	 ('Muh aqeuyjanl kdhcfb o','1900@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-03-15 00:00:00','2017-05-11 00:00:00',NULL),
 	 ('Crw lv mzev','1901@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-03-16 00:00:00','2016-03-30 00:00:00',NULL),
@@ -2099,7 +2099,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Dr sroovxuff','1906@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-03-21 00:00:00','2016-06-13 00:00:00',NULL),
 	 ('Zqztqtz tdxejqhnqbziqeiqkmukuibjh br','1907@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-03-22 00:00:00','2016-03-22 00:00:00',NULL),
 	 ('P ifgwq Vilnjvtfukvxcynjonkpfl swm','1908@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-03-23 00:00:00','2016-06-11 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Xkwlj uohicrdyygj','1909@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-03-24 00:00:00','2016-03-24 00:00:00',NULL),
 	 ('Ki epyqes ottgmftevzgvyzenxj','1910@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-03-25 00:00:00','2017-04-01 00:00:00',NULL),
 	 ('F woskiebrf zqt khyf','1911@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-03-26 00:00:00','2016-05-31 00:00:00','2016-08-16 00:00:00'),
@@ -2110,7 +2110,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('F y','1916@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-03-31 00:00:00','2017-07-07 00:00:00','2017-07-07 00:00:00'),
 	 ('Ntlaqtrmi','1917@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-04-01 00:00:00','2016-05-07 00:00:00',NULL),
 	 ('Ume cxqzejmaearw','1918@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-04-02 00:00:00','2017-12-17 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Bomddikwm','1919@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-04-03 00:00:00','2016-07-23 00:00:00','2016-08-22 00:00:00'),
 	 ('Yjwo','1920@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-04-04 00:00:00','2016-04-04 00:00:00',NULL),
 	 ('Rieklql  qd Hqlftweho','1921@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-04-05 00:00:00','2016-09-24 00:00:00',NULL),
@@ -2121,7 +2121,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Jhkunkifu i','1926@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-04-10 00:00:00','2016-04-27 00:00:00',NULL),
 	 ('Tyrvcgdilj fqwb','1927@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-04-11 00:00:00','2018-01-06 00:00:00',NULL),
 	 ('Foz W vddvuqcy pjc rdq','1928@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-04-12 00:00:00','2016-04-12 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Fwktew gm dl','1929@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-04-13 00:00:00','2017-07-08 00:00:00',NULL),
 	 ('Kjabyzwsihj mtbmhz w','1930@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-04-14 00:00:00','2017-10-25 00:00:00',NULL),
 	 ('Mcwjkhdglotq lguorpffaoqxfkevm','1931@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-04-15 00:00:00','2018-01-24 00:00:00',NULL),
@@ -2132,7 +2132,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Pnsj lwbzpiiqmwjdbjqdw','1936@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-04-20 00:00:00','2016-05-04 00:00:00',NULL),
 	 ('Rddghb','1937@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-04-21 00:00:00','2016-08-01 00:00:00',NULL),
 	 ('Y kedmoj zfrbyffmjgnsyeykhhk mtk z','1938@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-04-22 00:00:00','2016-04-22 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Bwvcjar','1939@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-04-23 00:00:00','2016-04-23 00:00:00',NULL),
 	 ('Rpryctxspf ns teqzzhil Cw','1940@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-04-24 00:00:00','2016-04-24 00:00:00',NULL),
 	 ('Zs hj p','1941@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-04-25 00:00:00','2016-06-10 00:00:00',NULL),
@@ -2143,7 +2143,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Irgr','1946@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-04-30 00:00:00','2016-06-27 00:00:00',NULL),
 	 ('Ncgfo qmamjxmc','1947@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-05-01 00:00:00','2016-05-01 00:00:00',NULL),
 	 ('Mnfrtrciqy Blvbjzgdfoazn kq vpl qfyi','1948@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-05-02 00:00:00','2016-05-02 00:00:00','2016-05-02 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Knfuwc','1949@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-05-03 00:00:00','2016-08-09 00:00:00',NULL),
 	 ('Dwu kxqbr','1950@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-05-04 00:00:00','2016-05-04 00:00:00',NULL),
 	 ('Spyqbe bt tbil hopuujlyxmeagfekrbs','1951@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-05-05 00:00:00','2016-07-30 00:00:00',NULL),
@@ -2154,7 +2154,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ql  uxxmw  e','1956@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-05-10 00:00:00','2016-05-10 00:00:00',NULL),
 	 ('Wyizrtwbqbd  jj nrrgexcgegj d sbgnhib','1957@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-05-11 00:00:00','2016-06-08 00:00:00',NULL),
 	 ('Ix uzxshshirnswawhcb i mffitjyziuk','1958@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-05-12 00:00:00','2016-09-08 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Agpqdalwtdawu','1959@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-05-13 00:00:00','2016-05-13 00:00:00',NULL),
 	 ('Jhij','1960@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-05-14 00:00:00','2016-08-02 00:00:00',NULL),
 	 ('Prcjpixezqbm I','1961@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-05-15 00:00:00','2016-05-15 00:00:00',NULL),
@@ -2165,7 +2165,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Xpy nanlbosltkl ekfq','1966@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-05-20 00:00:00','2018-04-05 00:00:00',NULL),
 	 ('Lhsgpkgfhzxpyblanzo','1967@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-05-21 00:00:00','2016-05-29 00:00:00',NULL),
 	 ('Wrekw S ys','1968@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-05-22 00:00:00','2016-06-01 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Pe Htj Vujbewyk','1969@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-05-23 00:00:00','2016-08-17 00:00:00','2016-09-09 00:00:00'),
 	 ('Ood Zdvrhdexnduwhgcnvr','1970@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-05-24 00:00:00','2016-09-21 00:00:00',NULL),
 	 ('Zorxgzczvc xvsznzfyxrkbkksktgaqsjroe','1971@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-05-25 00:00:00','2017-10-28 00:00:00',NULL),
@@ -2176,7 +2176,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Nuirdch ifojxlboxp jxcnkcxtilljbxm','1976@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-05-30 00:00:00','2016-05-30 00:00:00',NULL),
 	 ('Ta h','1977@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-05-31 00:00:00','2016-10-28 00:00:00',NULL),
 	 ('Hhe osrc xuhpmhwlidevtorkxokghz ytumrgq','1978@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-06-01 00:00:00','2016-06-01 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Veynm Aca svfmqwxh','1979@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-06-02 00:00:00','2016-06-02 00:00:00',NULL),
 	 ('X Xgvtddj gvuk mibbezothn','1980@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-06-03 00:00:00','2018-04-28 00:00:00',NULL),
 	 ('Owpsvaba vjqhltgafegqgpy','1981@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-06-04 00:00:00','2016-09-06 00:00:00',NULL),
@@ -2187,7 +2187,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Llcvjyybv wnbegdqkq ke H','1986@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-06-09 00:00:00','2016-07-11 00:00:00',NULL),
 	 ('Gqtf fvsiaolibldocpuwilfkx','1987@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-06-10 00:00:00','2016-06-10 00:00:00',NULL),
 	 ('Oxusxlhixc pjlcgdjotl','1988@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-06-11 00:00:00','2017-07-14 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Thgmzltgdzhnedbaakrniobjjhvzm e','1989@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-06-12 00:00:00','2016-06-17 00:00:00','2016-06-17 00:00:00'),
 	 ('Xfldgz avl z ov d','1990@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-06-13 00:00:00','2016-06-18 00:00:00',NULL),
 	 ('Ukfiaccrmjlxrncczw','1991@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-06-14 00:00:00','2017-02-08 00:00:00','2017-03-09 00:00:00'),
@@ -2198,7 +2198,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Uhwzspraqcxfheczb','1996@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-06-19 00:00:00','2016-06-19 00:00:00',NULL),
 	 ('Wsg Cczcrgque owsbrqw jr','1997@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-06-20 00:00:00','2018-05-09 00:00:00',NULL),
 	 ('F gtypmymsgntbyw oqcx tmp m Ekfqm ro','1998@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-06-21 00:00:00','2016-09-02 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Pscqiz','1999@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-06-22 00:00:00','2016-07-19 00:00:00',NULL),
 	 ('Gpr s','2000@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-06-23 00:00:00','2016-07-05 00:00:00',NULL),
 	 ('Galce  r Gxx hifzazrnfvmwgs khbzhafmych','2001@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-06-24 00:00:00','2016-10-17 00:00:00',NULL),
@@ -2209,7 +2209,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Soabkciktewnqvwbuqmrvwz pffrl','2006@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-06-29 00:00:00','2017-05-16 00:00:00',NULL),
 	 ('D Rbsqdm pkphoyad Jxpfiypuj','2007@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-06-30 00:00:00','2017-06-01 00:00:00',NULL),
 	 ('Ofnx  kadxjaolnhrucuvhahmx','2008@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-07-01 00:00:00','2016-07-01 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Bpri Abcuqu myw icpdrwruk Z mj','2009@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-07-02 00:00:00','2016-09-09 00:00:00',NULL),
 	 ('Jdb','2010@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-07-03 00:00:00','2017-10-14 00:00:00',NULL),
 	 ('Lzkgfwsydlifya','2011@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-07-04 00:00:00','2016-08-28 00:00:00',NULL),
@@ -2220,7 +2220,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Slz Z g yklmkwweix','2016@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-07-09 00:00:00','2017-12-09 00:00:00',NULL),
 	 ('Trvtv ivtyumgpv blxxnbs scutbuwowr','2017@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-07-10 00:00:00','2016-07-10 00:00:00',NULL),
 	 ('Seqaxwtr gc','2018@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-07-11 00:00:00','2016-07-13 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Oygzsmgeghyvcdngzsehefkqxxmtz','2019@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-07-12 00:00:00','2016-07-30 00:00:00',NULL),
 	 ('My U mn','2020@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-07-13 00:00:00','2016-08-11 00:00:00',NULL),
 	 ('Djx xwaluwplwvwtttxntepucbmod tgjte','2021@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-07-14 00:00:00','2016-08-03 00:00:00',NULL),
@@ -2231,7 +2231,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Opchxwciz eg j nfjs','2026@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-07-19 00:00:00','2016-07-19 00:00:00',NULL),
 	 ('Wntzydnru','2027@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-07-20 00:00:00','2016-07-24 00:00:00',NULL),
 	 ('Peyorjazwfjcfxmerdmkizlijsk','2028@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-07-21 00:00:00','2016-08-06 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Zrzqgzgrzggaochlpme','2029@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-07-22 00:00:00','2016-07-26 00:00:00',NULL),
 	 ('Kcsqghy dkbivigdbrjlm t crwq ydgplg','2030@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-07-23 00:00:00','2016-09-16 00:00:00',NULL),
 	 ('Ayflnorad rgnf feurshona','2031@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-07-24 00:00:00','2016-08-21 00:00:00',NULL),
@@ -2242,7 +2242,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Mpuy','2036@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-07-29 00:00:00','2017-07-12 00:00:00',NULL),
 	 ('Nuo Ujssdcoa tiaglf Czlhkbgtvurior','2037@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-07-30 00:00:00','2017-12-01 00:00:00',NULL),
 	 ('Lkcortpfafthxvenhsmtszdonc lvfwkt','2038@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-07-31 00:00:00','2016-09-21 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ni gfckjybrnadlcfrkd oij ydhhthwqn pm','2039@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-08-01 00:00:00','2016-12-24 00:00:00',NULL),
 	 ('Dinobcclxswbwdzl','2040@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-08-02 00:00:00','2016-09-28 00:00:00','2017-06-27 00:00:00'),
 	 ('He bl fpc dy a','2041@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-08-03 00:00:00','2016-08-08 00:00:00',NULL),
@@ -2253,7 +2253,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Nqqvrvtbb','2046@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-08-08 00:00:00','2016-10-27 00:00:00',NULL),
 	 ('Vklmaspdkctnxxlodd Hoelnrpz eknsikcvwzy','2047@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-08-09 00:00:00','2016-09-08 00:00:00',NULL),
 	 ('Nt pbcceiat ckxpxi','2048@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-08-10 00:00:00','2016-08-10 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Cggpde en fwmnlr d','2049@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-08-11 00:00:00','2017-11-09 00:00:00',NULL),
 	 ('Xrqzvp be xmszlekzvyxdobh','2050@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-08-12 00:00:00','2017-12-14 00:00:00',NULL),
 	 ('Vd bohvptbft','2051@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-08-13 00:00:00','2016-09-19 00:00:00',NULL),
@@ -2264,7 +2264,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Topqptidhz ajjgfk','2056@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-08-18 00:00:00','2016-10-01 00:00:00',NULL),
 	 ('Bavuub Plgrgkumcnucjcsfwf g','2057@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-08-19 00:00:00','2016-08-19 00:00:00',NULL),
 	 ('Bj peicrrpoo','2058@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-08-20 00:00:00','2017-09-15 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Nxdxavgdltnqarqg  thms','2059@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-08-21 00:00:00','2016-08-30 00:00:00',NULL),
 	 ('Tyklrkoxchhvvuedbgbrw','2060@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-08-22 00:00:00','2017-11-20 00:00:00',NULL),
 	 ('Glvka evsfjk ss','2061@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-08-23 00:00:00','2016-08-25 00:00:00',NULL),
@@ -2275,7 +2275,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('G gq wxkxw wvifgjkuf','2066@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-08-28 00:00:00','2017-05-10 00:00:00','2017-05-10 00:00:00'),
 	 ('Kwy atzqlx knpuepkxvpw','2067@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-08-29 00:00:00','2016-09-07 00:00:00',NULL),
 	 ('Neeqsloreeejsrbdvgnogjseswnlj jmg h','2069@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-08-31 00:00:00','2017-09-16 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Re Dvq zyyghay a Qb d nr f','2070@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-09-01 00:00:00','2016-11-11 00:00:00',NULL),
 	 ('B irgxxgfghto pwokatqbiiih','2071@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-09-02 00:00:00','2018-07-26 00:00:00',NULL),
 	 ('Jhkiyf','2072@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-09-03 00:00:00','2016-12-01 00:00:00',NULL),
@@ -2286,7 +2286,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Zjc','2077@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-09-08 00:00:00','2016-11-21 00:00:00','2016-12-12 00:00:00'),
 	 ('Rfa zblhagegwfu Dlyl  f','2078@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-09-09 00:00:00','2017-11-14 00:00:00',NULL),
 	 ('O psf jd iswjkwtqteldaseupr','2079@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-09-10 00:00:00','2016-10-17 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('B Nmcxazbg xfwxbjppciyywayve sbldrdh','2080@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-09-11 00:00:00','2016-11-06 00:00:00',NULL),
 	 ('Ohbww fg rnagpiy tdpickr Q','2081@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-09-12 00:00:00','2016-11-14 00:00:00',NULL),
 	 ('Gisdvwaddnv kogjrcpmhlckyhsjghsqud','2082@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-09-13 00:00:00','2016-09-24 00:00:00',NULL),
@@ -2297,7 +2297,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Siaecz Ggsgio ergccawnzpnxeyff f','2087@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-09-18 00:00:00','2016-09-18 00:00:00',NULL),
 	 ('Enbvkag','2088@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-09-19 00:00:00','2017-11-07 00:00:00',NULL),
 	 ('V  bfi Dsr Vqr zivaepau','2089@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-09-20 00:00:00','2017-03-20 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Orjqqnopo u vppojs hceudzao','2090@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-09-21 00:00:00','2016-09-21 00:00:00',NULL),
 	 ('Ryjcvpld Fwonorhlvfr jpr','2091@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-09-22 00:00:00','2016-10-22 00:00:00',NULL),
 	 ('Jgr fr','2092@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-09-23 00:00:00','2016-11-07 00:00:00',NULL),
@@ -2308,7 +2308,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Riqqb tscdsatqxgbrdadsi Hnk Jfhhqmnvl','2097@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-09-28 00:00:00','2016-10-16 00:00:00',NULL),
 	 ('Jxbj viqom sjksipraf fx vulauwtr acp','2098@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-09-29 00:00:00','2018-05-25 00:00:00',NULL),
 	 ('Zgh Ccwvypoyz tkw adxgbyihkzugtqboqsui','2099@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-09-30 00:00:00','2017-07-02 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('T kvoguueyyhzmerpl','2100@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-10-01 00:00:00','2016-10-11 00:00:00','2016-10-17 00:00:00'),
 	 ('J w ampsshnh ga','2101@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-10-02 00:00:00','2016-10-02 00:00:00',NULL),
 	 ('Rukdoxnme Gcukvea','2102@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-10-03 00:00:00','2016-10-03 00:00:00',NULL),
@@ -2319,7 +2319,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('E agekx Nk','2107@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-10-08 00:00:00','2016-10-20 00:00:00',NULL),
 	 ('Hlzhjqce hhjbkjbrhkc gxi jevsgs','2108@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-10-09 00:00:00','2016-10-09 00:00:00',NULL),
 	 ('Kz um','2109@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-10-10 00:00:00','2016-10-10 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('G avfaypxiowzblsmicwdxwmbxqexmt','2110@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-10-11 00:00:00','2016-10-11 00:00:00',NULL),
 	 ('Cfe Dudfigdghnc epzwtcrvjhkrgzrjzp','2111@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-10-12 00:00:00','2016-12-28 00:00:00',NULL),
 	 ('Iramiikrxlju cvumco mmijpshdic','2112@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-10-13 00:00:00','2018-01-18 00:00:00','2018-04-25 00:00:00'),
@@ -2330,7 +2330,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Rfol  aj','2117@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-10-18 00:00:00','2017-02-07 00:00:00',NULL),
 	 ('Ststh s hokghubqagqfy','2118@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-10-19 00:00:00','2017-02-06 00:00:00',NULL),
 	 ('Zbmchqe cvhal rjevhcphqu','2119@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-10-20 00:00:00','2016-11-16 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ivp  hzji izqdkhpkkrb gtfna','2120@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-10-21 00:00:00','2016-10-28 00:00:00',NULL),
 	 ('Rqo v L','2121@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-10-22 00:00:00','2016-10-22 00:00:00','2017-02-03 00:00:00'),
 	 ('Gyfqxafaslqxyhlzy cfwjbita','2122@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-10-23 00:00:00','2017-01-25 00:00:00','2017-03-10 00:00:00'),
@@ -2341,7 +2341,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Pkvvntqavbpmwgqhtkpjdc','2127@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-10-28 00:00:00','2016-10-28 00:00:00',NULL),
 	 ('Jdfvcgj','2128@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-10-29 00:00:00','2018-04-26 00:00:00',NULL),
 	 ('Rjds nlpucohpkdny Skrqvqpocbvlglfhlviomi','2129@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-10-30 00:00:00','2018-05-10 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Dk pendnbwuoxwcritzuxnhbehin','2130@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-10-31 00:00:00','2016-11-28 00:00:00',NULL),
 	 ('Sycwlvnt Tnffp yv rhl','2131@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-11-01 00:00:00','2016-11-01 00:00:00',NULL),
 	 ('Bwecimmjjujdrbspglxlghupuhjtrfxqxqnf as','2132@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-11-02 00:00:00','2016-12-23 00:00:00','2018-05-19 00:00:00'),
@@ -2352,7 +2352,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Gjnq jqzxktb rerjlgegi','2137@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-11-07 00:00:00','2016-12-02 00:00:00',NULL),
 	 ('Esqlfrvpsxe','2138@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-11-08 00:00:00','2016-11-08 00:00:00',NULL),
 	 ('Vbqvs ai bzx Iumpqqcubr pgufp','2139@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-11-09 00:00:00','2016-11-22 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('X vlquraqqzozmfgllsbbtprr fh','2140@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-11-10 00:00:00','2017-02-13 00:00:00',NULL),
 	 ('Ze vcz','2141@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-11-11 00:00:00','2017-12-17 00:00:00','2019-01-26 00:00:00'),
 	 ('Zzhqol iwumng','2142@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-11-12 00:00:00','2016-12-01 00:00:00',NULL),
@@ -2363,7 +2363,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Qgdomgk','2147@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-11-17 00:00:00','2018-01-29 00:00:00',NULL),
 	 ('Yonjjgsrcia','2148@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-11-18 00:00:00','2016-12-06 00:00:00',NULL),
 	 ('Ed cztdfje enpoaawwdk','2149@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-11-19 00:00:00','2018-04-10 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Heqcdlr ucinhkc O kaebs epa','2150@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-11-20 00:00:00','2016-12-13 00:00:00',NULL),
 	 ('Xtil Sh  jmdyfnlzvkk ocxvh','2151@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-11-21 00:00:00','2016-11-21 00:00:00',NULL),
 	 ('Qbd pknsowrlsbpwhqw r jsr','2152@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-11-22 00:00:00','2018-05-12 00:00:00','2018-05-20 00:00:00'),
@@ -2374,7 +2374,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ufvo','2157@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-11-27 00:00:00','2016-11-27 00:00:00',NULL),
 	 ('Ie q  cqmvajx','2158@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-11-28 00:00:00','2018-07-24 00:00:00',NULL),
 	 ('H gs ksikvvvbgoxb ncylbqxi','2159@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-11-29 00:00:00','2017-01-05 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Xwhwvvrufseazoeb yjpzfpjpalj u grddjhr','2160@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-11-30 00:00:00','2017-01-07 00:00:00',NULL),
 	 ('Ahijdiirh jecaa gscbnqhi','2161@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-12-01 00:00:00','2016-12-01 00:00:00',NULL),
 	 ('Xqsb Thdm','2162@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-12-02 00:00:00','2016-12-30 00:00:00',NULL),
@@ -2385,7 +2385,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Udkbmocqhmqwxf','2167@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-12-07 00:00:00','2016-12-30 00:00:00',NULL),
 	 ('Bbn Xlyuex','2168@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-12-08 00:00:00','2017-03-11 00:00:00',NULL),
 	 ('Hwofqlimm crhyxpqexcggnyxooib Gysbdu','2169@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-12-09 00:00:00','2017-10-30 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Jqg dymfsxpizzubzwzmv otsllclvb kp','2170@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-12-10 00:00:00','2017-02-08 00:00:00',NULL),
 	 ('Aigs','2171@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-12-11 00:00:00','2017-06-26 00:00:00',NULL),
 	 ('Crkyzjh','2172@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-12-12 00:00:00','2016-12-25 00:00:00','2017-02-04 00:00:00'),
@@ -2396,7 +2396,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Nkqmbnpavjyv cuganwuuhuclj g','2177@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-12-17 00:00:00','2017-07-05 00:00:00',NULL),
 	 ('Ogteyfwcy','2178@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-12-18 00:00:00','2016-12-18 00:00:00',NULL),
 	 ('Fcmvtnksdu Lifazlto','2179@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-12-19 00:00:00','2016-12-19 00:00:00','2016-12-19 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Puipdj xzmwhczqvqbeam fj kreq  cts w s','2180@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-12-20 00:00:00','2017-01-06 00:00:00',NULL),
 	 ('Oukrv mxpjdt hy O Qo   fblf','2181@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-12-21 00:00:00','2016-12-21 00:00:00',NULL),
 	 ('Wbmthdtxpzte cp yjxsxkfvvyqorz aieixc','2182@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-12-22 00:00:00','2018-02-14 00:00:00',NULL),
@@ -2407,7 +2407,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Kav Mkdew kakelqireskt s sptsa','2187@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-12-27 00:00:00','2016-12-27 00:00:00',NULL),
 	 ('L bcemorl owpw zdr hpet B mg','2188@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-12-28 00:00:00','2016-12-28 00:00:00',NULL),
 	 ('Hiqovnoodxl akiczytfwq ewh pv','2189@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-12-29 00:00:00','2017-01-04 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Hchvp ixutvisimslcspahe','2190@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-12-30 00:00:00','2016-12-30 00:00:00',NULL),
 	 ('Apwodzp iw ubsibiukumbqks m thyxb','2191@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2016-12-31 00:00:00','2017-03-08 00:00:00','2018-02-25 00:00:00'),
 	 ('Kenvbvs','2192@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-01-01 00:00:00','2017-02-01 00:00:00',NULL),
@@ -2418,7 +2418,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Wfxdfy iwfaucoqesjrv','2197@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-01-06 00:00:00','2017-02-06 00:00:00',NULL),
 	 ('Aawlhopk Azh gscjefzukq','2198@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-01-07 00:00:00','2017-06-28 00:00:00',NULL),
 	 ('Yccxz','2199@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-01-08 00:00:00','2017-01-08 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Qdd','2200@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-01-09 00:00:00','2018-08-14 00:00:00',NULL),
 	 ('Fzrxmqtqgl Aubbvlykpldwlswgv Scnqtrpx wj','2201@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-01-10 00:00:00','2017-09-16 00:00:00',NULL),
 	 ('Oampfw bcfwssq  yz reyc zxaum oteodxdnr','2202@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-01-11 00:00:00','2017-01-12 00:00:00',NULL),
@@ -2429,7 +2429,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ikixqupweegy','2207@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-01-16 00:00:00','2017-01-22 00:00:00',NULL),
 	 ('Fj muuf','2208@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-01-17 00:00:00','2017-01-17 00:00:00',NULL),
 	 ('Tajc','2209@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-01-18 00:00:00','2017-01-20 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Rbowzbkj','2210@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-01-19 00:00:00','2017-02-16 00:00:00',NULL),
 	 ('Liztizxdmcpo','2211@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-01-20 00:00:00','2017-03-20 00:00:00',NULL),
 	 ('M t sjpz fpxtznzj kqvsmntybrppcf','2212@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-01-21 00:00:00','2017-06-27 00:00:00','2017-06-27 00:00:00'),
@@ -2440,7 +2440,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Wg f','2217@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-01-26 00:00:00','2017-05-19 00:00:00',NULL),
 	 ('Mqecvgmt g weybie tfauchgvvftn jiur','2218@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-01-27 00:00:00','2017-12-15 00:00:00','2017-12-20 00:00:00'),
 	 ('Pa qmkogcfy  lejgoravvnahaq qxyu Me','2219@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-01-28 00:00:00','2017-10-23 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Qzxvlkggu','2220@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-01-29 00:00:00','2017-04-09 00:00:00',NULL),
 	 ('Fy i N qpf Pj','2221@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-01-30 00:00:00','2017-01-30 00:00:00',NULL),
 	 ('Jzqfkrzr dhut','2222@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-01-31 00:00:00','2017-01-31 00:00:00',NULL),
@@ -2451,7 +2451,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Nnsarddo emeinv  ii xeleiwcwiv gq Fx','2227@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-02-05 00:00:00','2017-12-28 00:00:00',NULL),
 	 ('Xmbwft','2228@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-02-06 00:00:00','2017-05-25 00:00:00',NULL),
 	 ('Rgyf','2229@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-02-07 00:00:00','2017-04-09 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Wcifgiofcx gkfmlkamfiwb auaqy','2230@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-02-08 00:00:00','2017-03-03 00:00:00',NULL),
 	 ('Mqzcwfqxtdxmlatza','2231@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-02-09 00:00:00','2017-02-09 00:00:00',NULL),
 	 ('Lzxyxxomuofngnduhkx ylyixhi Ha D Zseuf','2232@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-02-10 00:00:00','2017-02-26 00:00:00',NULL),
@@ -2462,7 +2462,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Q Pmryjjm uthk','2237@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-02-15 00:00:00','2017-02-15 00:00:00',NULL),
 	 ('Ywm do Cnzyw','2238@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-02-16 00:00:00','2018-07-06 00:00:00',NULL),
 	 ('Ekewmt','2239@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-02-17 00:00:00','2018-07-06 00:00:00','2018-07-06 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Wdazjbcb irvi x','2240@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-02-18 00:00:00','2017-04-20 00:00:00',NULL),
 	 ('Nruehvmvptjj','2241@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-02-19 00:00:00','2018-06-04 00:00:00',NULL),
 	 ('Nhcxoclwrixmuopjzpkl qd klxmcrx','2242@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-02-20 00:00:00','2017-03-25 00:00:00',NULL),
@@ -2473,7 +2473,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Qv ixzhsmhmzlcl adlfjomedp u','2247@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-02-25 00:00:00','2017-05-31 00:00:00',NULL),
 	 ('Kpnl xxz','2248@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-02-26 00:00:00','2017-06-20 00:00:00',NULL),
 	 ('O ilkgzcwllsxks','2249@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-02-27 00:00:00','2017-06-03 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('J   pkel   z l','2250@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-02-28 00:00:00','2018-04-24 00:00:00',NULL),
 	 ('Umynyqslmywcyhc Mcmncpr','2251@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-03-01 00:00:00','2017-04-04 00:00:00',NULL),
 	 ('R sluhwmahasu hx','2252@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-03-02 00:00:00','2017-04-01 00:00:00',NULL),
@@ -2484,7 +2484,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Zs yj','2257@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-03-07 00:00:00','2017-06-04 00:00:00',NULL),
 	 ('Ybfkklkqxcwndiqanffy','2258@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-03-08 00:00:00','2017-06-22 00:00:00',NULL),
 	 ('Maxyxm  dcyv Chjuty jacwa uytymo rapym','2259@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-03-09 00:00:00','2017-03-31 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Lrjxoussfz','2260@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-03-10 00:00:00','2017-04-06 00:00:00','2017-04-06 00:00:00'),
 	 ('Ycgskwryxrzi','2261@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-03-11 00:00:00','2019-01-28 00:00:00',NULL),
 	 ('Kzg chlvcmnnwgpvqtceondtafgg','2262@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-03-12 00:00:00','2017-06-09 00:00:00',NULL),
@@ -2495,7 +2495,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Lxs j vy vg bp yjydm fnq qahy','2267@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-03-17 00:00:00','2017-04-20 00:00:00',NULL),
 	 ('Kiycbashxewozyav','2268@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-03-18 00:00:00','2017-04-19 00:00:00',NULL),
 	 ('Txai dr','2269@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-03-19 00:00:00','2017-04-04 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Mgyqbalhbummnvu','2270@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-03-20 00:00:00','2017-03-20 00:00:00',NULL),
 	 ('Yytdb ytbwjfiarntigsjujl tm bg Adftehyzu','2271@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-03-21 00:00:00','2017-07-03 00:00:00',NULL),
 	 ('Zzacwx jn psyqj Lyeuv z v','2272@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-03-22 00:00:00','2017-03-22 00:00:00',NULL),
@@ -2506,7 +2506,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Frmdyp qra','2277@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-03-27 00:00:00','2017-04-23 00:00:00','2017-05-14 00:00:00'),
 	 ('Xkq lltix r  m s xknwtastrnzy shph','2278@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-03-28 00:00:00','2017-04-02 00:00:00','2017-08-02 00:00:00'),
 	 ('Hiwntosznx s','2279@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-03-29 00:00:00','2017-10-25 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Vjqxubyia','2280@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-03-30 00:00:00','2017-05-29 00:00:00',NULL),
 	 ('Jppzmqn','2281@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-03-31 00:00:00','2018-04-28 00:00:00','2018-08-09 00:00:00'),
 	 ('Vinsnchbgs','2282@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-04-01 00:00:00','2017-04-01 00:00:00',NULL),
@@ -2517,7 +2517,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Lk i wdk','2287@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-04-06 00:00:00','2017-07-24 00:00:00',NULL),
 	 ('Yaeksg','2288@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-04-07 00:00:00','2018-05-25 00:00:00','2018-12-19 00:00:00'),
 	 ('J Xbuaikap lynsitdh','2289@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-04-08 00:00:00','2018-01-28 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ze vmd dmp pfgovcehe','2290@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-04-09 00:00:00','2017-04-09 00:00:00',NULL),
 	 ('Cnpgert qhkfvpvc Renkabxf  x','2291@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-04-10 00:00:00','2018-08-20 00:00:00',NULL),
 	 ('Gmuzzwrkjd','2292@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-04-11 00:00:00','2018-09-02 00:00:00',NULL),
@@ -2528,7 +2528,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Zojtcwom  xmhixjhyxonazrwlyco','2297@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-04-16 00:00:00','2017-04-16 00:00:00',NULL),
 	 ('Fpvwwjwxctp jiiyxj iqnqydj','2298@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-04-17 00:00:00','2017-05-02 00:00:00',NULL),
 	 ('A g no Cvd Qfj','2299@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-04-18 00:00:00','2017-06-17 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Aig yiuxtxbq Bw Fy migbnznxqfvzr','2300@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-04-19 00:00:00','2017-05-12 00:00:00',NULL),
 	 ('Tt  enfwsefejxexpslbwc','2301@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-04-20 00:00:00','2017-05-07 00:00:00',NULL),
 	 ('S rk Mvtj jdwteuoyya','2302@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-04-21 00:00:00','2017-04-21 00:00:00',NULL),
@@ -2539,7 +2539,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Cvtqmihd uq','2307@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-04-26 00:00:00','2017-04-26 00:00:00',NULL),
 	 ('Eno cc iyhlkdjx olco jhei','2308@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-04-27 00:00:00','2018-11-06 00:00:00',NULL),
 	 ('Mushxaegr wectmrbkezd cccmpekv','2309@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-04-28 00:00:00','2019-02-06 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('N ojzexunbfudjgq','2310@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-04-29 00:00:00','2018-11-30 00:00:00',NULL),
 	 ('Iphsddqao','2311@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-04-30 00:00:00','2017-04-30 00:00:00',NULL),
 	 ('Izvhmrlvszll nmwdnduz Vkm','2312@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-05-01 00:00:00','2018-08-27 00:00:00','2018-09-10 00:00:00'),
@@ -2550,7 +2550,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('U qkpheeuohtdzzmddtnoxb','2317@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-05-06 00:00:00','2017-05-12 00:00:00',NULL),
 	 ('Eekcw z','2318@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-05-07 00:00:00','2017-07-11 00:00:00',NULL),
 	 ('Jqosywdhohnnjepsr pxyhc','2319@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-05-08 00:00:00','2018-11-22 00:00:00','2018-12-06 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Mdcyt Zstlygsxjs tdxbblev','2320@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-05-09 00:00:00','2018-06-28 00:00:00',NULL),
 	 ('Lmb ru difmqrm f zyh','2321@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-05-10 00:00:00','2017-05-22 00:00:00',NULL),
 	 ('Gslmfwtaqhpcbzdfeaqmkpya','2322@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-05-11 00:00:00','2017-06-21 00:00:00',NULL),
@@ -2561,7 +2561,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Sh Yurakspbwg ubir Xgvpzezmeb','2327@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-05-16 00:00:00','2019-03-29 00:00:00',NULL),
 	 ('Hwas fh','2328@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-05-17 00:00:00','2017-06-03 00:00:00','2017-09-13 00:00:00'),
 	 ('Jyzabjzyfixe','2329@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-05-18 00:00:00','2017-05-18 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Upcvcnrfq jetthhhoovh C zdnfgak','2330@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-05-19 00:00:00','2017-05-21 00:00:00',NULL),
 	 ('Mdanednelaf jn','2331@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-05-20 00:00:00','2017-05-20 00:00:00',NULL),
 	 ('Rktk kgp hvarnu','2332@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-05-21 00:00:00','2017-05-31 00:00:00',NULL),
@@ -2572,7 +2572,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Euaudvmkjvlbczhp','2337@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-05-26 00:00:00','2017-06-25 00:00:00',NULL),
 	 ('Mdkn vgzvv','2338@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-05-27 00:00:00','2017-06-10 00:00:00',NULL),
 	 ('Odg tffazsnfbfyecs xjenyhzoyfikp','2339@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-05-28 00:00:00','2018-03-08 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ur slucurkl cfdy dmd njwoqzdxo','2340@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-05-29 00:00:00','2018-06-26 00:00:00',NULL),
 	 ('Ywopais dalcbcwnjpyahdfwipzabroofs q','2341@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-05-30 00:00:00','2017-05-30 00:00:00',NULL),
 	 ('Vequicrx vho ftwksberwzvy j','2342@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-05-31 00:00:00','2017-12-22 00:00:00',NULL),
@@ -2583,7 +2583,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Rw ixoaeefyd cn','2347@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-06-05 00:00:00','2017-06-05 00:00:00',NULL),
 	 ('Y ptipqvnlggn hljbewcctjvagr yg','2348@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-06-06 00:00:00','2018-10-21 00:00:00',NULL),
 	 ('Nmeloq qm tzwbhgn fiwxd O','2349@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-06-07 00:00:00','2017-10-02 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Flqbrjger mg','2350@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-06-08 00:00:00','2017-08-15 00:00:00',NULL),
 	 ('Hvuu Gcaogf q','2351@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-06-09 00:00:00','2017-07-24 00:00:00',NULL),
 	 ('Xblrmjnl walkprcrtcpgleiky','2352@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-06-10 00:00:00','2017-07-23 00:00:00',NULL),
@@ -2594,7 +2594,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Lby saw zoujpvlnbrb','2357@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-06-15 00:00:00','2017-06-15 00:00:00',NULL),
 	 ('Njjompb','2358@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-06-16 00:00:00','2017-06-16 00:00:00',NULL),
 	 ('Sgw xnap ojwgugtaytaze kypxuibvmmmhk','2359@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-06-17 00:00:00','2017-06-24 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Hfva','2360@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-06-18 00:00:00','2019-03-10 00:00:00',NULL),
 	 ('Mkpwvmuxcf fkfenrydl wow  g','2361@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-06-19 00:00:00','2017-07-13 00:00:00',NULL),
 	 ('Laltbbhjgh qcjxnbdvoyhahgqy Gldnxmjfqa','2362@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-06-20 00:00:00','2017-10-13 00:00:00',NULL),
@@ -2605,7 +2605,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Oxxosiwcky Liodgsq','2367@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-06-25 00:00:00','2017-06-25 00:00:00',NULL),
 	 ('Lsspzhw gwp rw eqzkrkyzarjtpd','2368@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-06-26 00:00:00','2017-07-02 00:00:00',NULL),
 	 ('Qvoqixtsggingvxprfdixuih tyikblwvxog','2369@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-06-27 00:00:00','2017-06-27 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Rgkdkl Cwv fjjrd Lr','2370@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-06-28 00:00:00','2017-10-20 00:00:00',NULL),
 	 ('Zoxmwryobnieto xyspbaoqwdqajkjfd ewd','2371@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-06-29 00:00:00','2017-06-29 00:00:00',NULL),
 	 ('Pk pqcckvuswctuj fk u','2372@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-06-30 00:00:00','2017-06-30 00:00:00',NULL),
@@ -2616,7 +2616,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Jvws bvvkz rukpkscub','2377@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-07-05 00:00:00','2017-09-06 00:00:00',NULL),
 	 ('Nl uypwzwoybsswxwkpceaqgnkaazq rks','2378@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-07-06 00:00:00','2017-07-08 00:00:00',NULL),
 	 ('Tmerunhd Amfj','2379@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-07-07 00:00:00','2017-07-22 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ndntwjwvx un agn vkwsojbmsimdi','2380@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-07-08 00:00:00','2017-09-26 00:00:00',NULL),
 	 ('Hopdbcbxleuxbg gxnynkmu ti','2381@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-07-09 00:00:00','2017-07-09 00:00:00',NULL),
 	 ('Jprgwr hmhqnzuytmdtjpo','2382@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-07-10 00:00:00','2017-08-08 00:00:00',NULL),
@@ -2627,7 +2627,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ebwmjnswap Jv','2387@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-07-15 00:00:00','2017-12-25 00:00:00',NULL),
 	 ('Ynuhsvoilmzsycddgmwq','2388@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-07-16 00:00:00','2018-09-05 00:00:00',NULL),
 	 ('Xjuqtboov Ycwuhbntxuyets r','2389@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-07-17 00:00:00','2017-10-20 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Eyamqzleqqch','2390@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-07-18 00:00:00','2017-07-18 00:00:00',NULL),
 	 ('Mrqspzbpbabz aavjn z','2391@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-07-19 00:00:00','2017-07-19 00:00:00',NULL),
 	 ('Ttofcwxfxtxp uufhd','2392@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-07-20 00:00:00','2017-07-20 00:00:00',NULL),
@@ -2638,7 +2638,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Blhjjtvzyppjkkzsltvskfwicvh','2397@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-07-25 00:00:00','2017-08-05 00:00:00',NULL),
 	 ('A eoce','2398@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-07-26 00:00:00','2018-02-23 00:00:00','2018-03-16 00:00:00'),
 	 ('S wtfehvbdkqxpdmx vcuxsc','2399@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-07-27 00:00:00','2017-08-06 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ujxwo','2400@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-07-28 00:00:00','2019-05-08 00:00:00',NULL),
 	 ('Bivgkfb','2401@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-07-29 00:00:00','2017-08-15 00:00:00',NULL),
 	 ('Qutwejavfupm','2402@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-07-30 00:00:00','2018-02-09 00:00:00',NULL),
@@ -2649,7 +2649,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Fgvzdrrggsicwjroxpdr','2407@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-08-04 00:00:00','2017-10-11 00:00:00',NULL),
 	 ('Amuceiagbfh Fm qmxl','2408@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-08-05 00:00:00','2018-10-06 00:00:00',NULL),
 	 ('Loyahgaokjrizn','2409@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-08-06 00:00:00','2017-09-02 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Mheneenwes sestooudzyihtmulrpzli','2410@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-08-07 00:00:00','2017-08-07 00:00:00',NULL),
 	 ('Exlqqwnq','2411@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-08-08 00:00:00','2017-09-16 00:00:00',NULL),
 	 ('Pj pcgizjbguyicluzmruil ie','2412@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-08-09 00:00:00','2017-08-28 00:00:00',NULL),
@@ -2660,7 +2660,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Pjo si vfgnofrlr wachvdluj','2417@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-08-14 00:00:00','2017-08-14 00:00:00',NULL),
 	 ('F Nujzyn gmjpwjyc nkmirsf rmmafdl','2418@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-08-15 00:00:00','2017-08-23 00:00:00',NULL),
 	 ('Uoreos g z urwzgf c Ekkvhzngkn','2419@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-08-16 00:00:00','2019-01-12 00:00:00','2019-01-31 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Udribcbmfnirrr','2420@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-08-17 00:00:00','2017-09-11 00:00:00',NULL),
 	 ('Csnyzlvmqcmqfyacqjyn hqc gcd hggu','2421@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-08-18 00:00:00','2019-03-30 00:00:00',NULL),
 	 ('Ffwju','2422@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-08-19 00:00:00','2017-09-15 00:00:00',NULL),
@@ -2671,7 +2671,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Opyqpaijocccdfwpo','2427@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-08-24 00:00:00','2017-12-15 00:00:00',NULL),
 	 ('Vdr Urh kcerzxkirbx','2428@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-08-25 00:00:00','2017-08-25 00:00:00',NULL),
 	 ('Hfx z bgojcg','2429@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-08-26 00:00:00','2017-09-19 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Rhwtbwadwycrnjccfmrk','2430@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-08-27 00:00:00','2017-08-27 00:00:00',NULL),
 	 ('Mtlexebzgpcfkgaco abgh','2431@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-08-28 00:00:00','2017-09-24 00:00:00',NULL),
 	 ('Ohco s Pkjskxawyndjmoghicd','2432@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-08-29 00:00:00','2017-08-29 00:00:00',NULL),
@@ -2682,7 +2682,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ggj Dyab Erntt','2437@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-09-03 00:00:00','2017-10-06 00:00:00',NULL),
 	 ('Epqt yqv tyozfnaxzwarbizezh','2438@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-09-04 00:00:00','2017-09-07 00:00:00',NULL),
 	 ('Vfackkzhsbqkwbln vmdqajgv','2439@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-09-05 00:00:00','2017-09-24 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Vfroio nhul frfrsko bbu','2440@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-09-06 00:00:00','2017-09-25 00:00:00',NULL),
 	 ('Acyqmuc ijgbbynx yzvgnv zoe','2441@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-09-07 00:00:00','2018-07-06 00:00:00',NULL),
 	 ('Cmhkzksypnncyxbpytva g ogv','2442@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-09-08 00:00:00','2017-12-01 00:00:00',NULL),
@@ -2693,7 +2693,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ewkbj pcsegpexirpkbiffbjbzmdxpov  nalaa','2447@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-09-13 00:00:00','2017-11-20 00:00:00',NULL),
 	 ('Yniu','2448@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-09-14 00:00:00','2017-11-08 00:00:00',NULL),
 	 ('Uoyuqkwqhsvlji','2449@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-09-15 00:00:00','2017-09-15 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Pfnuemphctm ngeu atz qo p restot','2450@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-09-16 00:00:00','2017-09-26 00:00:00',NULL),
 	 ('Dirbkkgvkhfreucd iukwjfktvbsbqcqfankrs x','2451@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-09-17 00:00:00','2017-10-13 00:00:00',NULL),
 	 ('Sftfchwbnmypstjh itq','2452@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-09-18 00:00:00','2018-10-11 00:00:00',NULL),
@@ -2704,7 +2704,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Lvw','2457@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-09-23 00:00:00','2017-11-14 00:00:00','2018-09-28 00:00:00'),
 	 ('Pttu Jsvrwvtvmmlueiu','2458@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-09-24 00:00:00','2017-09-24 00:00:00','2018-01-12 00:00:00'),
 	 ('Ocfmjk gftisl','2459@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-09-25 00:00:00','2019-01-20 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ju uqqlgmuuqxrlzf','2460@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-09-26 00:00:00','2017-10-14 00:00:00','2017-10-19 00:00:00'),
 	 ('Rvqgdfuz Axmicqlheuig lcf','2461@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-09-27 00:00:00','2017-10-13 00:00:00',NULL),
 	 ('Bagidmmchcg','2462@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-09-28 00:00:00','2018-02-27 00:00:00',NULL),
@@ -2715,7 +2715,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Tlbry bxuxxzxb bjnwvcdvbqzwinxmxsun','2467@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-10-03 00:00:00','2017-10-17 00:00:00',NULL),
 	 ('Xdzqgwcbagvokcnu','2468@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-10-04 00:00:00','2019-01-16 00:00:00',NULL),
 	 ('Yxzf woyg hlwsluzjxz bbxlz','2469@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-10-05 00:00:00','2018-01-24 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Cixpmjyqesvf Ydpva','2470@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-10-06 00:00:00','2019-08-03 00:00:00','2019-08-03 00:00:00'),
 	 ('Z dgbzveucg vvwfmvwbm mxhp vxkxuf','2471@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-10-07 00:00:00','2017-10-07 00:00:00',NULL),
 	 ('Xlwsogrlfmkhlv','2472@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-10-08 00:00:00','2017-12-09 00:00:00',NULL),
@@ -2726,7 +2726,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Hng mbgdh htzjt yhq Avorlvh eq oan ov','2477@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-10-13 00:00:00','2017-10-24 00:00:00',NULL),
 	 ('Ddo ijgze o','2478@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-10-14 00:00:00','2017-10-14 00:00:00',NULL),
 	 ('Ticpnoo udof fmveotgi','2479@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-10-15 00:00:00','2017-10-15 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Bhrhvvtnpdqtrgx','2480@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-10-16 00:00:00','2017-10-16 00:00:00',NULL),
 	 ('Rvhlkndzxzbpdumli Qzufm Ugldzmizmqv','2481@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-10-17 00:00:00','2017-11-14 00:00:00',NULL),
 	 ('Nk Br iz veyxfoqoaoreqvfo d','2482@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-10-18 00:00:00','2017-12-10 00:00:00',NULL),
@@ -2737,7 +2737,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Wov auapluh eyuzuogldlkusz','2487@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-10-23 00:00:00','2017-11-09 00:00:00','2017-11-09 00:00:00'),
 	 ('Rc  yduqpg duocggj','2488@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-10-24 00:00:00','2018-01-13 00:00:00','2018-01-13 00:00:00'),
 	 ('Xdbkciyvra slxdhxddtjhiks hqq Wbzp','2489@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-10-25 00:00:00','2018-02-14 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Pl','2490@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-10-26 00:00:00','2018-07-19 00:00:00',NULL),
 	 ('Xnibdkzmqijqlxvzswjok','2491@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-10-27 00:00:00','2018-01-22 00:00:00',NULL),
 	 ('Ncdlegp P jwgxxqtzoqjwixokia htbjt','2492@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-10-28 00:00:00','2017-10-28 00:00:00',NULL),
@@ -2748,7 +2748,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('X M  caalrbaheaq oavq qdlrnu en  q','2497@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-11-02 00:00:00','2018-08-13 00:00:00',NULL),
 	 ('Ys Vv G gzptxefnkacqoxdtwicsnja j g','2498@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-11-03 00:00:00','2017-11-22 00:00:00',NULL),
 	 ('Agq d','2499@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-11-04 00:00:00','2017-11-20 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Mvzttfx rvfteqhauq gmnnyhyytywhcs','2500@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-11-05 00:00:00','2017-12-20 00:00:00',NULL),
 	 ('Hrdwwnnypcihyjtirnysktorlql','2501@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-11-06 00:00:00','2017-11-14 00:00:00',NULL),
 	 ('Itrixcq shighgeiixxxkfknzxebpyluc','2502@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-11-07 00:00:00','2017-11-07 00:00:00',NULL),
@@ -2759,7 +2759,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Nwdatwqjbhhucuntwr Yzpdluzw pjevfgzo','2507@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-11-12 00:00:00','2017-11-12 00:00:00',NULL),
 	 ('Sayef swybbojlcj hfzavwyfmg w jldcicti','2508@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-11-13 00:00:00','2017-12-12 00:00:00',NULL),
 	 ('Ihqr qj o ysrxksujxxrqvxkvdam x yb Ee','2509@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-11-14 00:00:00','2018-10-12 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Eqyv d gyrakqdvkzgcyqm','2510@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-11-15 00:00:00','2017-11-15 00:00:00','2018-01-10 00:00:00'),
 	 ('Wcllrlhwnshbwts','2511@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-11-16 00:00:00','2017-11-16 00:00:00',NULL),
 	 ('Cydpl','2512@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-11-17 00:00:00','2017-11-17 00:00:00',NULL),
@@ -2770,7 +2770,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Enlzze f','2517@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-11-22 00:00:00','2017-11-22 00:00:00','2017-12-16 00:00:00'),
 	 ('Remevzrcjaxonevbuccleqgbvuonfmydjcw','2518@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-11-23 00:00:00','2017-12-27 00:00:00','2017-12-27 00:00:00'),
 	 ('Xizwzgzqwyncayy l gw','2519@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-11-24 00:00:00','2018-09-17 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Wyz k hjyxgzwjcqqee','2520@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-11-25 00:00:00','2017-12-21 00:00:00',NULL),
 	 ('Vbqm rqgizazgagckfqobmog','2521@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-11-26 00:00:00','2018-12-06 00:00:00',NULL),
 	 ('C wqzmk vsvfjl Pb','2522@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-11-27 00:00:00','2017-11-28 00:00:00',NULL),
@@ -2781,7 +2781,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Timgaysatfrax r pzoq ooyrzmxasrb dy  ob','2527@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-12-02 00:00:00','2017-12-25 00:00:00',NULL),
 	 ('Tpnqcagnvs Exfegugptxjfhddggkhooo','2528@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-12-03 00:00:00','2019-05-10 00:00:00',NULL),
 	 ('Wtzijq radlbmaxbyt ui ds jleuec','2529@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-12-04 00:00:00','2018-04-22 00:00:00','2018-05-11 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Efrgu amrepj','2530@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-12-05 00:00:00','2018-02-12 00:00:00',NULL),
 	 ('Cifuoeq rfgpitfu Ptt vygvqqflxyze t','2531@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-12-06 00:00:00','2018-01-24 00:00:00',NULL),
 	 ('Jkfchxn','2532@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-12-07 00:00:00','2017-12-07 00:00:00',NULL),
@@ -2792,7 +2792,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('I eegjfzdexb gkeqw tciq d x','2537@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-12-12 00:00:00','2019-06-01 00:00:00',NULL),
 	 ('Rsfgejvknixxkeouu hovqk rwmwioym qngct','2538@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-12-13 00:00:00','2017-12-13 00:00:00',NULL),
 	 ('Wmtvujtcgjuwobazqwjvlufn','2539@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-12-14 00:00:00','2017-12-14 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Bokgezffnbz ugbve tjq','2540@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-12-15 00:00:00','2017-12-15 00:00:00','2018-04-08 00:00:00'),
 	 ('Ywmxytmenuatx kxdc','2541@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-12-16 00:00:00','2018-01-10 00:00:00',NULL),
 	 ('Tewqkdmtwkncqlqt Jlbm','2542@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-12-17 00:00:00','2018-03-23 00:00:00',NULL),
@@ -2803,7 +2803,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Mpomgjckhbcxitl xkqtujvqzaf','2547@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-12-22 00:00:00','2018-01-05 00:00:00','2018-01-28 00:00:00'),
 	 ('Foyre Nnveo Ypqaepwzwe','2548@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-12-23 00:00:00','2018-01-03 00:00:00',NULL),
 	 ('Mrovoqdikpe','2549@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-12-24 00:00:00','2018-01-08 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Kkdlw v nhwzlhjik Itrchjs Dxb eynv qhf','2550@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-12-25 00:00:00','2018-02-11 00:00:00',NULL),
 	 ('Mhkqeajfwsrvrselfjgvnlv jqj','2551@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-12-26 00:00:00','2018-04-25 00:00:00',NULL),
 	 ('Zcv ygplggbpsbbqncvvl','2552@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2017-12-27 00:00:00','2019-11-11 00:00:00',NULL),
@@ -2814,7 +2814,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ovvhhxxixhy nwxw','2557@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-01-01 00:00:00','2018-03-27 00:00:00',NULL),
 	 ('Ugsf','2558@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-01-02 00:00:00','2018-10-01 00:00:00',NULL),
 	 ('Pxmijt','2559@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-01-03 00:00:00','2018-04-15 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Xvqopuzubeotblk  brm  uwghatip yfdmgnn','2560@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-01-04 00:00:00','2018-01-04 00:00:00','2019-10-25 00:00:00'),
 	 ('Jddlyusaffqjdl Grgjkc','2561@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-01-05 00:00:00','2018-07-17 00:00:00',NULL),
 	 ('Ihr Pwlr','2562@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-01-06 00:00:00','2019-02-03 00:00:00',NULL),
@@ -2825,7 +2825,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ucpj bidpirjyueyui st fqvrz','2567@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-01-11 00:00:00','2018-03-03 00:00:00',NULL),
 	 ('Nq xuziiiayrboqsajsgcmsjt txl','2568@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-01-12 00:00:00','2019-01-13 00:00:00',NULL),
 	 ('S  qurdpo Azsiujurdjvk metn jaouot','2569@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-01-13 00:00:00','2018-01-26 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Giddszahttr sjoiwih Uwyb','2570@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-01-14 00:00:00','2018-01-26 00:00:00','2018-02-10 00:00:00'),
 	 ('Wikuwk bakiob Iez vblq ad i c','2571@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-01-15 00:00:00','2018-01-24 00:00:00',NULL),
 	 ('Iidpblageoxeojhfkiagizndhdcakjqaa','2572@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-01-16 00:00:00','2018-01-16 00:00:00',NULL),
@@ -2836,7 +2836,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ovrnbso sxgyks','2577@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-01-21 00:00:00','2018-04-26 00:00:00',NULL),
 	 ('Okertssyfmmlnlaeklnauzyceheg','2578@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-01-22 00:00:00','2018-02-20 00:00:00',NULL),
 	 ('Gavbllmp','2579@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-01-23 00:00:00','2019-04-07 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('I tzd zeddwgipjsxkqtltuyfhvz','2580@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-01-24 00:00:00','2018-01-30 00:00:00',NULL),
 	 ('Fvocwel rwsgeeqsmfmct Xruk cb','2581@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-01-25 00:00:00','2019-12-22 00:00:00',NULL),
 	 ('Fwqchsmnjq nytthobwfjx','2582@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-01-26 00:00:00','2018-02-02 00:00:00',NULL),
@@ -2847,7 +2847,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Hpuhsvmunvi rffsiwwfa','2587@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-01-31 00:00:00','2018-01-31 00:00:00',NULL),
 	 ('Wfodw o Iepnexapmj','2588@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-02-01 00:00:00','2018-04-01 00:00:00',NULL),
 	 ('Fsbwwtbaics jz  nxtppbli ewjqkh','2589@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-02-02 00:00:00','2018-05-18 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Mnunhj wgdtdsevppzgospyotpoyt','2590@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-02-03 00:00:00','2018-07-17 00:00:00',NULL),
 	 ('Rt auekejmujoowvldlng','2591@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-02-04 00:00:00','2018-02-04 00:00:00',NULL),
 	 ('Ccrtvqssshdxeyiqpmyglezjw z','2592@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-02-05 00:00:00','2018-03-07 00:00:00',NULL),
@@ -2858,7 +2858,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Dmuf jbr eedv owp glvney','2597@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-02-10 00:00:00','2018-04-18 00:00:00','2018-05-26 00:00:00'),
 	 ('Gkhte fkxoumt W fk ctnisuqzf og','2598@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-02-11 00:00:00','2019-12-26 00:00:00',NULL),
 	 ('Rkhyhvlbma ebalav mx Lkjdbui','2599@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-02-12 00:00:00','2019-09-02 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Knlfrjwa','2600@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-02-13 00:00:00','2018-02-17 00:00:00','2019-09-05 00:00:00'),
 	 ('Bksgbqxaenzzlf jmbeg Xnculxhbaalcpj','2601@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-02-14 00:00:00','2018-04-26 00:00:00',NULL),
 	 ('Jdptji gunn bmiotofuz pi mawus zni d k v','2602@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-02-15 00:00:00','2018-02-15 00:00:00',NULL),
@@ -2869,7 +2869,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ejndqiv gsshm','2607@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-02-20 00:00:00','2019-05-02 00:00:00','2019-05-28 00:00:00'),
 	 ('Gymez Ij','2608@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-02-21 00:00:00','2018-11-08 00:00:00',NULL),
 	 ('Eo vepokxz','2609@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-02-22 00:00:00','2018-02-27 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Pm dftniloxbynhmckrh','2610@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-02-23 00:00:00','2019-12-09 00:00:00',NULL),
 	 ('Gjfowka k','2611@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-02-24 00:00:00','2019-11-21 00:00:00',NULL),
 	 ('E zanof wp v','2612@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-02-25 00:00:00','2018-03-15 00:00:00',NULL),
@@ -2880,7 +2880,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Yrwphymvl','2617@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-03-02 00:00:00','2019-11-15 00:00:00',NULL),
 	 ('Qc przkzkdd ldooiktxk drcvw o drs vvbn','2618@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-03-03 00:00:00','2019-07-16 00:00:00',NULL),
 	 ('Xe sk','2619@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-03-04 00:00:00','2018-03-07 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Nqhbmqgevnlyh Agftwldlazftifoxs','2620@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-03-05 00:00:00','2018-03-05 00:00:00',NULL),
 	 ('Hniuo','2621@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-03-06 00:00:00','2018-05-25 00:00:00',NULL),
 	 ('Q Uhdr Pwdqdtd','2622@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-03-07 00:00:00','2018-06-03 00:00:00',NULL),
@@ -2891,7 +2891,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('P a','2627@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-03-12 00:00:00','2018-03-12 00:00:00',NULL),
 	 ('Yiuclheu  qwpfattxthsz','2628@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-03-13 00:00:00','2019-08-21 00:00:00','2019-08-21 00:00:00'),
 	 ('Iojikw','2629@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-03-14 00:00:00','2018-04-08 00:00:00','2018-04-08 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Blfncaffayjae','2630@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-03-15 00:00:00','2019-09-01 00:00:00','2021-02-05 00:00:00'),
 	 ('O qqtje Veyiujyr','2631@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-03-16 00:00:00','2018-03-31 00:00:00',NULL),
 	 ('P adrrhscjewmgjcokdax nrl','2632@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-03-17 00:00:00','2019-05-27 00:00:00',NULL),
@@ -2902,7 +2902,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Vyace phh nkozrvdqevce Gtw jppqqjmvyyhfb','2637@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-03-22 00:00:00','2018-03-22 00:00:00',NULL),
 	 ('Yvmkybxshft m mvphm','2638@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-03-23 00:00:00','2018-03-23 00:00:00',NULL),
 	 ('Doxfpdst Jac ltkkhkk','2639@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-03-24 00:00:00','2018-03-24 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Vzh vvakrlhurulm fuocmda','2640@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-03-25 00:00:00','2018-04-18 00:00:00',NULL),
 	 ('Dep ketpwmyyavh','2641@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-03-26 00:00:00','2018-06-16 00:00:00',NULL),
 	 ('Ine nd nqtjkpscxalep','2642@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-03-27 00:00:00','2018-06-18 00:00:00','2019-11-14 00:00:00'),
@@ -2913,7 +2913,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Myaulcquno miyg c','2647@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-04-01 00:00:00','2018-05-29 00:00:00',NULL),
 	 ('Xbzbixtsekcjja Mzeo vmqkhxu nfbfxpn','2648@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-04-02 00:00:00','2018-04-14 00:00:00',NULL),
 	 ('Gkcyc tqlo vrywpllb aq sfddatowjfzl Khq','2649@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-04-03 00:00:00','2018-04-03 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('G Wdhdownlbdp earvgnnyvurvuscubbtugxjqsi','2650@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-04-04 00:00:00','2018-04-04 00:00:00',NULL),
 	 ('L pydkjadm igniexvpbf adlku','2651@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-04-05 00:00:00','2018-06-25 00:00:00',NULL),
 	 ('Fhuinncltyatqcyz ww','2652@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-04-06 00:00:00','2020-02-21 00:00:00',NULL),
@@ -2924,7 +2924,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Vsmcz','2657@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-04-11 00:00:00','2018-04-27 00:00:00',NULL),
 	 ('Tfzcond','2658@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-04-12 00:00:00','2018-05-17 00:00:00',NULL),
 	 ('Fuib f mwqvytkhgjjyvqxoes','2659@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-04-13 00:00:00','2018-05-18 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Vsyvgwdx hbpwq  iv  jvonlov','2660@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-04-14 00:00:00','2018-04-14 00:00:00',NULL),
 	 ('Mexyfklh gurcglim qtgcgzp','2661@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-04-15 00:00:00','2019-06-14 00:00:00',NULL),
 	 ('Nqidwg sst','2662@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-04-16 00:00:00','2018-07-31 00:00:00','2018-07-31 00:00:00'),
@@ -2935,7 +2935,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Yyfzpjcblffysbwomzgzfhszyeiyj Blpsg','2667@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-04-21 00:00:00','2018-04-21 00:00:00',NULL),
 	 ('Kgpt','2668@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-04-22 00:00:00','2018-04-29 00:00:00','2018-04-29 00:00:00'),
 	 ('Iddvojdibknzabtb vzpm q','2669@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-04-23 00:00:00','2018-08-07 00:00:00','2018-09-02 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Hyjp','2670@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-04-24 00:00:00','2018-04-24 00:00:00',NULL),
 	 ('Ys  ihcgfkxxoraarjmzlnpmlchfe zam','2671@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-04-25 00:00:00','2018-08-16 00:00:00','2018-08-16 00:00:00'),
 	 ('Yanz bs D','2672@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-04-26 00:00:00','2019-04-05 00:00:00',NULL),
@@ -2946,7 +2946,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Xxw kplhmutrz Wg','2677@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-05-01 00:00:00','2018-05-05 00:00:00','2018-07-12 00:00:00'),
 	 ('Nuqcnm','2678@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-05-02 00:00:00','2018-05-04 00:00:00',NULL),
 	 ('Nfurzrmlnz','2679@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-05-03 00:00:00','2018-05-30 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Expmdiviaszqmz','2680@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-05-04 00:00:00','2018-05-04 00:00:00',NULL),
 	 ('Mqqelbdpfazyd  rlxvlmxvnofyr dgcq','2681@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-05-05 00:00:00','2018-06-21 00:00:00','2019-06-26 00:00:00'),
 	 ('Rubdgcon wyadydkx ccsebgmo','2682@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-05-06 00:00:00','2019-09-02 00:00:00',NULL),
@@ -2957,7 +2957,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Jrvsnuvbf mktdgi plvymeianhrgqxmvq','2687@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-05-11 00:00:00','2019-03-28 00:00:00',NULL),
 	 ('Momvt vysuon','2688@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-05-12 00:00:00','2019-04-30 00:00:00',NULL),
 	 ('Khswqdl nlopchjvzllk uooerv','2689@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-05-13 00:00:00','2018-10-05 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Cphen okkfvmwipcnyzv','2690@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-05-14 00:00:00','2018-06-13 00:00:00',NULL),
 	 ('Qibp mvbabfkaprbmmgvbf','2691@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-05-15 00:00:00','2018-10-12 00:00:00',NULL),
 	 ('Lemuvbtuzw xrbyeuzykcvgvjxac','2692@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-05-16 00:00:00','2018-05-16 00:00:00',NULL),
@@ -2968,7 +2968,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Qdnfergudpnpp rtpautboogwmsezc','2697@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-05-21 00:00:00','2018-06-17 00:00:00',NULL),
 	 ('R fts xbebgsbnmwzdczciw ntfn ix  vufvd','2698@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-05-22 00:00:00','2018-05-29 00:00:00',NULL),
 	 ('Cjzftb','2699@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-05-23 00:00:00','2018-06-14 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Jncn piue tq c','2700@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-05-24 00:00:00','2018-06-18 00:00:00','2020-01-14 00:00:00'),
 	 ('Rsgytpsjdkunctyvyk Uhejpjko','2701@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-05-25 00:00:00','2018-06-21 00:00:00',NULL),
 	 ('Bgph','2702@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-05-26 00:00:00','2018-06-22 00:00:00',NULL),
@@ -2979,7 +2979,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Yqhtrpi sesyjzz','2707@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-05-31 00:00:00','2018-06-16 00:00:00',NULL),
 	 ('Coqkgj mxfqtky','2708@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-06-01 00:00:00','2018-06-12 00:00:00',NULL),
 	 ('Pszuzxofiihsrgx lplw','2709@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-06-02 00:00:00','2019-03-14 00:00:00','2019-03-14 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Gujaummpjrpzxblqudztzpvzmjrgponojo','2710@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-06-03 00:00:00','2018-06-03 00:00:00',NULL),
 	 ('Rq sqrk cpu Eoqkiz','2711@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-06-04 00:00:00','2018-06-23 00:00:00',NULL),
 	 ('Msfethwxxxt nsuwfzuzvmvk','2712@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-06-05 00:00:00','2018-06-24 00:00:00',NULL),
@@ -2990,7 +2990,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Pii lsqrzi g ixy Csmjrputs','2717@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-06-10 00:00:00','2019-03-23 00:00:00',NULL),
 	 ('Ahjy y wqt','2718@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-06-11 00:00:00','2018-06-11 00:00:00',NULL),
 	 ('Gtx G jqgchrbqj','2719@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-06-12 00:00:00','2018-06-12 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('K ndxvjw yqaydc Wkq Ctvrxr hbdjjoeenzf','2720@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-06-13 00:00:00','2018-06-28 00:00:00',NULL),
 	 ('Jajduzu','2721@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-06-14 00:00:00','2019-08-13 00:00:00',NULL),
 	 ('Ly Pe  huxbqngnvxbrcpvn','2722@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-06-15 00:00:00','2019-02-04 00:00:00','2020-01-06 00:00:00'),
@@ -3001,7 +3001,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Gqrjoyf','2727@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-06-20 00:00:00','2018-07-11 00:00:00',NULL),
 	 ('Duwgfpnumvueq asqjyjlmpnwxgvdfi','2728@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-06-21 00:00:00','2020-05-05 00:00:00',NULL),
 	 ('Kexyhtywclgmq','2729@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-06-22 00:00:00','2018-09-14 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Sfeyup xjmppdigpnmzt z xmuiuveckzrepf','2730@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-06-23 00:00:00','2018-06-23 00:00:00',NULL),
 	 ('Dlxtp lsp mn i filfzk','2731@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-06-24 00:00:00','2019-01-27 00:00:00',NULL),
 	 ('Bhwkeq vqcpr Btnlx civxzauna','2732@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-06-25 00:00:00','2018-07-09 00:00:00',NULL),
@@ -3012,7 +3012,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Bfth Q Vg rdi l b','2737@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-06-30 00:00:00','2018-06-30 00:00:00',NULL),
 	 ('Ylaq fa wgdimxzjtj','2738@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-07-01 00:00:00','2018-07-05 00:00:00',NULL),
 	 ('Jnkqayfaz','2739@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-07-02 00:00:00','2018-07-20 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('M  ij','2740@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-07-03 00:00:00','2018-09-20 00:00:00',NULL),
 	 ('Mbbotqciakiavuedqfsstj','2741@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-07-04 00:00:00','2018-10-06 00:00:00',NULL),
 	 ('S mzvzoaturkobrnreidflxnzod u','2742@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-07-05 00:00:00','2018-07-05 00:00:00',NULL),
@@ -3023,7 +3023,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ydks X zdryew awujowbrjxgrbx oclad h','2747@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-07-10 00:00:00','2019-03-20 00:00:00',NULL),
 	 ('Nqsbfyoaewr','2748@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-07-11 00:00:00','2018-07-11 00:00:00',NULL),
 	 ('Roarevnr jg lz ahajulvfpbl','2749@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-07-12 00:00:00','2018-07-23 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Cgw i qun yqvglkrgwnyinucmanmnv','2750@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-07-13 00:00:00','2018-08-14 00:00:00',NULL),
 	 ('Oeydiyreyjh gxbgaxyprdppxtxjpivo','2751@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-07-14 00:00:00','2018-07-14 00:00:00',NULL),
 	 ('Pbiujgks','2752@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-07-15 00:00:00','2018-08-12 00:00:00','2018-08-12 00:00:00'),
@@ -3034,7 +3034,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('G wwyhua qibh','2757@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-07-20 00:00:00','2018-08-02 00:00:00',NULL),
 	 ('Ral Em Gyzysseqqmfystzewdas Spmuu','2758@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-07-21 00:00:00','2018-08-14 00:00:00',NULL),
 	 ('Avalenmfkkyfq vabjj ynm m zcdp','2759@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-07-22 00:00:00','2018-09-02 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Auyfpcgni aamzfujq bnbws nesup','2760@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-07-23 00:00:00','2018-08-03 00:00:00',NULL),
 	 ('Zkrzbzhzybvxyewmymym','2761@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-07-24 00:00:00','2018-08-05 00:00:00',NULL),
 	 ('Pjgufyg vhisakshu sxix oifxxtbymzajkax','2762@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-07-25 00:00:00','2019-07-10 00:00:00',NULL),
@@ -3045,7 +3045,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('K U jhkahgk','2767@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-07-30 00:00:00','2018-08-18 00:00:00',NULL),
 	 ('Vzx lqfvm Trlshct ansgl','2768@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-07-31 00:00:00','2018-08-23 00:00:00','2019-12-13 00:00:00'),
 	 ('Wwdppqpvv fmwapadzmphyob','2769@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-08-01 00:00:00','2018-08-26 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Cmkygm wdg','2770@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-08-02 00:00:00','2018-11-10 00:00:00',NULL),
 	 ('Yguospnz e','2771@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-08-03 00:00:00','2018-08-27 00:00:00',NULL),
 	 ('Qehcm','2772@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-08-04 00:00:00','2018-12-09 00:00:00',NULL),
@@ -3056,7 +3056,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Njusurkbcfask','2777@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-08-09 00:00:00','2019-12-18 00:00:00',NULL),
 	 ('Fqabkvk Nizza','2778@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-08-10 00:00:00','2018-08-10 00:00:00',NULL),
 	 ('Rxg trptpdt qeazck l Klvifo','2779@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-08-11 00:00:00','2018-08-11 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ycqstptjx','2780@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-08-12 00:00:00','2018-10-16 00:00:00',NULL),
 	 ('Unrcxzejnrypt lihj g samd','2781@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-08-13 00:00:00','2019-01-11 00:00:00',NULL),
 	 ('Ikbqx Ficfrxxyuw w','2782@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-08-14 00:00:00','2018-08-14 00:00:00',NULL),
@@ -3067,7 +3067,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Dveoyguopwn n s  urpmtrvaxnaix ytcz','2787@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-08-19 00:00:00','2018-08-21 00:00:00','2018-09-18 00:00:00'),
 	 ('Qnkdpm lzpaly g uvaw qhddqvqsyipt','2788@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-08-20 00:00:00','2020-05-28 00:00:00',NULL),
 	 ('Ysrkajbeffumfjegxglobdpifevnz Tuwvcho','2789@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-08-21 00:00:00','2018-10-11 00:00:00','2019-08-15 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Xvrw rolctmdbkjdwopbvixkggdx','2790@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-08-22 00:00:00','2018-09-11 00:00:00','2018-09-11 00:00:00'),
 	 ('Zjh  afeqpfvjwsdyflgx Nmqhk Fgresycvsv','2791@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-08-23 00:00:00','2018-09-14 00:00:00','2018-09-18 00:00:00'),
 	 ('Pfkaijszpmdyvoemghwpvvkgjn','2792@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-08-24 00:00:00','2019-02-22 00:00:00',NULL),
@@ -3078,7 +3078,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Fsgraawecepet Fzlxyooamomqicuka ggzyxhj','2797@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-08-29 00:00:00','2018-09-23 00:00:00',NULL),
 	 ('Hrvhwrtroedpjch Vittnrmodrijkacxhukcla','2798@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-08-30 00:00:00','2018-08-30 00:00:00',NULL),
 	 ('E wwhwv zufrmfy fuvhqult','2799@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-08-31 00:00:00','2018-09-03 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Tfa Upc Kwfhnbf','2800@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-09-01 00:00:00','2018-09-01 00:00:00','2018-09-01 00:00:00'),
 	 ('Almsts devdrnigrdg','2801@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-09-02 00:00:00','2018-09-02 00:00:00',NULL),
 	 ('Chzklcjpootv kbwmyf q wzsdpbwggdvb m','2802@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-09-03 00:00:00','2018-09-03 00:00:00',NULL),
@@ -3089,7 +3089,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ydrcwfnytevdavhkldrctdvxmyfghmx','2807@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-09-08 00:00:00','2019-08-11 00:00:00',NULL),
 	 ('Drbn Xxlri gosdjm js bidv mzym','2808@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-09-09 00:00:00','2018-10-27 00:00:00','2018-11-22 00:00:00'),
 	 ('Nw bgfcowefiiffrg','2809@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-09-10 00:00:00','2019-05-02 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Dlhje','2810@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-09-11 00:00:00','2018-11-19 00:00:00',NULL),
 	 ('Qnykjxcdln Pedycq  rbufpfbftkhh','2811@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-09-12 00:00:00','2020-04-12 00:00:00',NULL),
 	 ('Wpromlj hqqlufhekrcld','2812@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-09-13 00:00:00','2018-09-13 00:00:00',NULL),
@@ -3100,7 +3100,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Bgn gdgrvwwpxd Tdvq','2817@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-09-18 00:00:00','2018-10-13 00:00:00',NULL),
 	 ('Ggbbzoscl utbs pdanjtxinvmkovfj q','2818@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-09-19 00:00:00','2018-12-14 00:00:00','2018-12-17 00:00:00'),
 	 ('Nm wrdixwxi','2819@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-09-20 00:00:00','2018-11-03 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Bkycsju','2820@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-09-21 00:00:00','2019-01-10 00:00:00',NULL),
 	 ('Nudoqi','2821@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-09-22 00:00:00','2019-01-02 00:00:00','2019-04-22 00:00:00'),
 	 ('Andzzdhbhzlqgzacfovvqpncw euvjtskntg','2822@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-09-23 00:00:00','2018-11-09 00:00:00',NULL),
@@ -3111,7 +3111,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Uy y i','2827@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-09-28 00:00:00','2018-12-06 00:00:00',NULL),
 	 ('Shn ojxp Patpw thi gz','2828@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-09-29 00:00:00','2018-09-29 00:00:00',NULL),
 	 ('A axcf  cr vmze xhgkdgtl','2829@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-09-30 00:00:00','2019-09-11 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Bdp','2830@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-10-01 00:00:00','2019-10-25 00:00:00',NULL),
 	 ('Ezrih Xgysc','2831@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-10-02 00:00:00','2018-10-20 00:00:00',NULL),
 	 ('Lbl   qqjjdfmp kpjhz','2832@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-10-03 00:00:00','2018-10-26 00:00:00',NULL),
@@ -3122,7 +3122,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Bnsahjs impnhxxttqglnrvyaxkst Qcifqo','2837@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-10-08 00:00:00','2019-11-10 00:00:00',NULL),
 	 ('Svqkdkt j k','2838@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-10-09 00:00:00','2018-10-23 00:00:00','2018-11-18 00:00:00'),
 	 ('Gdtyvqkiwqohjroa mvgwkbsje whuvv','2839@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-10-10 00:00:00','2018-10-23 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ltjv','2840@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-10-11 00:00:00','2018-10-28 00:00:00',NULL),
 	 ('Obfn','2841@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-10-12 00:00:00','2020-05-13 00:00:00','2020-08-13 00:00:00'),
 	 ('Bsdtrqlfupqux nvvioqp Tmyhtm','2842@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-10-13 00:00:00','2019-03-17 00:00:00',NULL),
@@ -3133,7 +3133,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Gldn qcz oqupkr b','2847@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-10-18 00:00:00','2019-11-20 00:00:00',NULL),
 	 ('Rgdfjscjhjmjtgsd','2848@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-10-19 00:00:00','2018-11-13 00:00:00',NULL),
 	 ('Hrzsu','2849@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-10-20 00:00:00','2018-11-13 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ow z izuff','2850@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-10-21 00:00:00','2020-06-07 00:00:00',NULL),
 	 ('Knjousfmdyw','2851@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-10-22 00:00:00','2018-11-24 00:00:00',NULL),
 	 ('Hyjsb Scrzrycotxgufuq Yn sztcuqtio id','2852@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-10-23 00:00:00','2018-11-17 00:00:00',NULL),
@@ -3144,7 +3144,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Igqogkjkrzovjsaofv E vkroj','2857@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-10-28 00:00:00','2019-01-18 00:00:00',NULL),
 	 ('Zyb emajmtiuctdra nykoyqabv','2858@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-10-29 00:00:00','2019-09-18 00:00:00',NULL),
 	 ('Imydiinfsman','2859@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-10-30 00:00:00','2018-10-30 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Iwblepvladbjzc vqfuzefqqm Qpqaj','2860@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-10-31 00:00:00','2018-11-13 00:00:00',NULL),
 	 ('Jnzxqbmjvunxs lglzjnpseazupjqlc','2861@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-11-01 00:00:00','2019-01-28 00:00:00',NULL),
 	 ('Dwji wf f vziadxhzrnp Xleqlaw','2862@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-11-02 00:00:00','2018-11-16 00:00:00','2019-04-11 00:00:00'),
@@ -3155,7 +3155,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('X ecofevem aetkpa hkehoeilidamop','2867@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-11-07 00:00:00','2020-05-13 00:00:00',NULL),
 	 ('Dujry pvqjwpvizfn maxaaarucig','2868@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-11-08 00:00:00','2020-07-21 00:00:00','2020-08-06 00:00:00'),
 	 ('V lwbzxkltc X','2869@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-11-09 00:00:00','2018-11-27 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Lls ehvigb','2870@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-11-10 00:00:00','2018-12-08 00:00:00',NULL),
 	 ('Wojiyqyl kmf','2871@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-11-11 00:00:00','2019-12-10 00:00:00','2020-01-29 00:00:00'),
 	 ('Oebry zsxsobkf Bfyjh zlrvm tgkccaas','2872@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-11-12 00:00:00','2019-03-27 00:00:00',NULL),
@@ -3166,7 +3166,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Fpyicebrqyudst bfuzrxmqixiitbw','2877@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-11-17 00:00:00','2019-01-31 00:00:00',NULL),
 	 ('Uglsjxa tuc  g sqwlvgtpts pubqgxgd','2878@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-11-18 00:00:00','2018-11-18 00:00:00',NULL),
 	 ('Fxw rn dohdrhzyyxxififmcihpnnxq eyehwdef','2879@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-11-19 00:00:00','2019-01-18 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Iqslqfvmvx  e abdins Ql','2880@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-11-20 00:00:00','2018-11-20 00:00:00',NULL),
 	 ('Bom Dosuvnulu','2881@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-11-21 00:00:00','2019-12-25 00:00:00',NULL),
 	 ('Shwpkrulsmpv','2882@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-11-22 00:00:00','2020-06-08 00:00:00',NULL),
@@ -3177,7 +3177,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Yxzv k kbcqxwthrz fiwikxcthtwdlha eag','2887@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-11-27 00:00:00','2020-01-08 00:00:00',NULL),
 	 ('Bdkai xtydfqxzc xyrcwgomqyraypzjh','2888@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-11-28 00:00:00','2019-01-28 00:00:00',NULL),
 	 ('Mbtnhqgaks m','2889@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-11-29 00:00:00','2019-10-31 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Owifer ajp','2890@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-11-30 00:00:00','2019-01-29 00:00:00',NULL),
 	 ('Baarsdgvvjpdvbvxeuxxjqhfe','2891@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-12-01 00:00:00','2019-12-09 00:00:00',NULL),
 	 ('Wt lw Uidaustxlrwl y fjrmdi','2892@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-12-02 00:00:00','2019-11-10 00:00:00','2020-02-26 00:00:00'),
@@ -3188,7 +3188,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ktahjjbcsy','2897@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-12-07 00:00:00','2019-01-02 00:00:00',NULL),
 	 ('Eknjj x rit gcae uxxgdrw lhy ydjr w','2898@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-12-08 00:00:00','2019-03-04 00:00:00',NULL),
 	 ('Epxav kj wjlcgeyhmt Ddzwioz','2899@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-12-09 00:00:00','2018-12-09 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Mkrompxbg no nlrswz as','2900@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-12-10 00:00:00','2018-12-10 00:00:00',NULL),
 	 ('Tzfuctepee','2901@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-12-11 00:00:00','2018-12-11 00:00:00',NULL),
 	 ('Tfohtnabmdfp pehecswgmlc f','2902@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-12-12 00:00:00','2020-08-01 00:00:00','2020-08-04 00:00:00'),
@@ -3199,7 +3199,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Wkgwvqe Mxituxhpg tj plq','2907@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-12-17 00:00:00','2019-10-10 00:00:00','2020-01-31 00:00:00'),
 	 ('Xynumr','2908@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-12-18 00:00:00','2020-02-28 00:00:00',NULL),
 	 ('Vgfkyp','2909@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-12-19 00:00:00','2018-12-19 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Auplp fldmetguqpoibouxw  u midxk','2910@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-12-20 00:00:00','2020-05-14 00:00:00',NULL),
 	 ('Sxyuk o','2911@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-12-21 00:00:00','2019-01-20 00:00:00',NULL),
 	 ('Wwtsrvjpodhk ipef','2912@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-12-22 00:00:00','2019-08-27 00:00:00',NULL),
@@ -3210,7 +3210,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Jiuqlst','2917@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-12-27 00:00:00','2018-12-27 00:00:00',NULL),
 	 ('Hrtmxeiqaqg cm bnowbgc daegtt Jp','2918@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-12-28 00:00:00','2020-09-07 00:00:00',NULL),
 	 ('Udrohaqqcbruzjnimvo ohyi Tbuavw psrl','2919@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-12-29 00:00:00','2020-07-05 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Tsecjhlr bkivntbtpzqc','2920@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-12-30 00:00:00','2019-02-16 00:00:00',NULL),
 	 ('Bqw  dqoax','2921@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2018-12-31 00:00:00','2019-01-27 00:00:00',NULL),
 	 ('Zy w Iset  fbpizne glrnwj','2922@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-01-01 00:00:00','2019-03-16 00:00:00',NULL),
@@ -3221,7 +3221,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Oxje uovxpobc','2927@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-01-06 00:00:00','2019-05-03 00:00:00',NULL),
 	 ('Qa yboe hdisd kpo oqp dcmoitwzsu arjbcvn','2928@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-01-07 00:00:00','2019-04-11 00:00:00',NULL),
 	 ('Kgvyrxiigu n','2929@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-01-08 00:00:00','2019-01-08 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Wt vejjzuqxdcbwdx mmnoj Xi uj zy ziruiq','2930@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-01-09 00:00:00','2019-04-22 00:00:00','2020-01-28 00:00:00'),
 	 ('Xdkjqvqi glryvlznzlgpimidsi ua lu u','2931@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-01-10 00:00:00','2019-01-21 00:00:00',NULL),
 	 ('Hgcp yjrngrco','2932@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-01-11 00:00:00','2019-01-19 00:00:00',NULL),
@@ -3232,7 +3232,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('R Eml d p tdyt q hm','2937@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-01-16 00:00:00','2019-01-16 00:00:00',NULL),
 	 ('Uklbluqseisyykttauw Lqdrj lt Rgzammlqdaq','2938@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-01-17 00:00:00','2019-01-18 00:00:00',NULL),
 	 ('Kthbgnoz cqxsmujrgh mcxwnanqonch','2939@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-01-18 00:00:00','2020-02-24 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Igzsvlwvdk','2940@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-01-19 00:00:00','2019-01-24 00:00:00',NULL),
 	 ('Ek  huqr','2941@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-01-20 00:00:00','2019-02-03 00:00:00',NULL),
 	 ('Yfnmwpao','2942@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-01-21 00:00:00','2019-02-02 00:00:00',NULL),
@@ -3243,7 +3243,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Fpf egwhtgsiwztxcxwh vdpln','2947@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-01-26 00:00:00','2019-03-26 00:00:00',NULL),
 	 ('Xpybngkb dzqunumur niwqmsdiafv','2948@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-01-27 00:00:00','2019-03-29 00:00:00',NULL),
 	 ('Dxhn Aznlfrzqwznindsbtd Shjvcl Hquij','2949@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-01-28 00:00:00','2019-03-03 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Yetubbrdzxfrot gfzxjtjkx yy','2950@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-01-29 00:00:00','2019-01-29 00:00:00',NULL),
 	 ('Wo kzmpfxyhjerccujtsyckgvshcciekltdq','2951@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-01-30 00:00:00','2019-10-19 00:00:00',NULL),
 	 ('Irg maj nvxacbo','2952@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-01-31 00:00:00','2019-02-15 00:00:00',NULL),
@@ -3254,7 +3254,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Wevmiction uo egtjheoa','2957@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-02-05 00:00:00','2020-03-04 00:00:00',NULL),
 	 ('Dtsayzu Xjnbtgtqok bmqxgjmuza','2958@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-02-06 00:00:00','2020-01-02 00:00:00',NULL),
 	 ('Zjyx gtvjs','2959@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-02-07 00:00:00','2019-02-07 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Gkhj H cytcd  cgizcxztcnyy','2960@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-02-08 00:00:00','2019-02-08 00:00:00','2019-03-04 00:00:00'),
 	 ('Myhmrkvhzkmcuhwiuwgyuat oze','2961@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-02-09 00:00:00','2019-02-27 00:00:00',NULL),
 	 ('Z yijbtkjtqwodgdavybnsscwadxhza','2962@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-02-10 00:00:00','2020-06-06 00:00:00',NULL),
@@ -3265,7 +3265,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Yoprqyiiuzippul Ckzkmgcvtipqz drchg','2967@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-02-15 00:00:00','2019-06-30 00:00:00',NULL),
 	 ('Htqrs cyle ccrsxjwlk','2968@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-02-16 00:00:00','2019-04-23 00:00:00',NULL),
 	 ('A f amdvsjs Vllbsp md e sf wld lsj','2969@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-02-17 00:00:00','2019-03-14 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Fd lpkoeljllsmyyt jtey','2970@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-02-18 00:00:00','2019-04-22 00:00:00',NULL),
 	 ('Fcfvjhd','2971@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-02-19 00:00:00','2019-05-01 00:00:00',NULL),
 	 ('Hxjsgtlimtgpa','2972@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-02-20 00:00:00','2019-03-10 00:00:00','2019-05-11 00:00:00'),
@@ -3276,7 +3276,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Irzkfhlutpfglje Ndpquh e','2977@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-02-25 00:00:00','2019-02-27 00:00:00',NULL),
 	 ('H lcaten sdsdxvb','2978@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-02-26 00:00:00','2019-04-04 00:00:00',NULL),
 	 ('Xk  aw Mexojmrhpukglxhklgjzq Bmulfyn','2979@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-02-27 00:00:00','2019-03-05 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Bty kogpcnmtv hawhndij odqbjjpgrgd','2980@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-02-28 00:00:00','2019-02-28 00:00:00',NULL),
 	 ('Mmxo oqg yi xx','2981@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-03-01 00:00:00','2019-04-09 00:00:00','2019-07-27 00:00:00'),
 	 ('Xyqzjw vmbmie oomrkarvmddqyepfeybv','2982@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-03-02 00:00:00','2019-04-01 00:00:00',NULL),
@@ -3287,7 +3287,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ydre s ogwcliism','2987@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-03-07 00:00:00','2019-11-03 00:00:00',NULL),
 	 ('Sczs xsasrufkqsjlixri Dxvh lh q','2988@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-03-08 00:00:00','2019-03-25 00:00:00',NULL),
 	 ('Htfkt qszctg','2989@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-03-09 00:00:00','2019-03-09 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Xor u gtsdopwljyqmyxm Xzutsuovyrplr','2990@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-03-10 00:00:00','2021-01-29 00:00:00',NULL),
 	 ('Uat itemectbgyxvcaqj ilprhjgvagfx','2991@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-03-11 00:00:00','2020-11-19 00:00:00','2022-09-29 00:00:00'),
 	 ('Qwlp bqisaexyhfdaauabedr xv dgrnpfeg','2992@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-03-12 00:00:00','2019-03-31 00:00:00','2019-05-09 00:00:00'),
@@ -3298,7 +3298,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Wkcmvxj uclbzcd','2997@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-03-17 00:00:00','2019-12-09 00:00:00',NULL),
 	 ('Eiie lyt nsibdlbajlupmreh','2998@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-03-18 00:00:00','2019-11-07 00:00:00',NULL),
 	 ('Nwcgenrayqukynzzgezrerx tgpdnzgmfx','2999@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-03-19 00:00:00','2019-03-19 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Mgefofg Qesj hylohxi xdvbtdcne','3000@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-03-20 00:00:00','2019-03-27 00:00:00','2019-03-27 00:00:00'),
 	 ('Am Tg kgityj glzkjvrlmtsbtnwnnxx tud','3001@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-03-21 00:00:00','2019-03-21 00:00:00',NULL),
 	 ('Hcwncd  ppb rkdnrzhocpzrm','3002@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-03-22 00:00:00','2019-03-24 00:00:00',NULL),
@@ -3309,7 +3309,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('W kkoppolok jg klhb','3007@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-03-27 00:00:00','2019-04-09 00:00:00',NULL),
 	 ('Ozqyjd','3008@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-03-28 00:00:00','2019-04-27 00:00:00',NULL),
 	 ('V Dgf xrnjjlwl   inufiuqaenx Wytiudvwue','3009@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-03-29 00:00:00','2019-07-15 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ql pfm iylckhzl otomopckwqoslulxdn','3010@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-03-30 00:00:00','2019-03-30 00:00:00',NULL),
 	 ('Hzlsgkqbi hvbnefcsuha mwepiwwlc','3011@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-03-31 00:00:00','2021-01-27 00:00:00',NULL),
 	 ('Vifqko','3012@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-04-01 00:00:00','2019-04-15 00:00:00',NULL),
@@ -3320,7 +3320,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Pqzgyca wxgvjbbnipp','3017@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-04-06 00:00:00','2021-01-03 00:00:00',NULL),
 	 ('Lxrisylhgnz eeb','3018@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-04-07 00:00:00','2020-12-22 00:00:00',NULL),
 	 ('Oqunvdlwbqn wmswwpxafjlzlrfbhzmxqpdup','3019@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-04-08 00:00:00','2020-01-07 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Iwfufsforj','3020@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-04-09 00:00:00','2019-04-09 00:00:00',NULL),
 	 ('Saam','3021@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-04-10 00:00:00','2019-04-12 00:00:00',NULL),
 	 ('Jclnyvo Lfgecwblqsw rht trggudmsibe','3022@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-04-11 00:00:00','2019-04-11 00:00:00',NULL),
@@ -3331,7 +3331,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Y  ayqgryyszgbshkdubkcn vr','3027@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-04-16 00:00:00','2019-07-30 00:00:00',NULL),
 	 ('Birmtlpt xe mgf dssnfsvkmrykwnvifr klyr','3028@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-04-17 00:00:00','2019-04-29 00:00:00',NULL),
 	 ('Rork pmzkelbbejjslzxzhcdklwgk','3029@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-04-18 00:00:00','2019-07-31 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Doljggpx teemohlozlggjm a iqfejjq eco','3030@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-04-19 00:00:00','2019-05-11 00:00:00',NULL),
 	 ('Lnqhrj Yalhfrohiwv','3031@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-04-20 00:00:00','2020-12-31 00:00:00',NULL),
 	 ('Smfixgj az Stdds Pekdv jkrcgynnp','3032@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-04-21 00:00:00','2019-04-21 00:00:00',NULL),
@@ -3342,7 +3342,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Cagdsrhxm','3037@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-04-26 00:00:00','2019-04-26 00:00:00',NULL),
 	 ('Flxde qntco mgopahbey','3038@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-04-27 00:00:00','2019-07-16 00:00:00',NULL),
 	 ('Nfygldfjeysiiabrjqdvpx','3039@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-04-28 00:00:00','2019-10-03 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Bgyvr','3040@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-04-29 00:00:00','2019-04-29 00:00:00',NULL),
 	 ('Juf F','3041@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-04-30 00:00:00','2019-07-29 00:00:00',NULL),
 	 ('Xnyeqg cb obbxikzfeceejzgsrabxihu f','3042@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-05-01 00:00:00','2019-06-17 00:00:00',NULL),
@@ -3353,7 +3353,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Pqz rgrjwkw','3047@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-05-06 00:00:00','2019-05-06 00:00:00',NULL),
 	 ('Evtaouq bm cjvpwbc rqmygq Tctrz Monn','3048@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-05-07 00:00:00','2019-05-12 00:00:00',NULL),
 	 ('Gqg oh','3049@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-05-08 00:00:00','2019-08-13 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('I wgi','3050@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-05-09 00:00:00','2019-05-09 00:00:00',NULL),
 	 ('B Zxuyetyzoanox cruvimknpquselt dk','3051@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-05-10 00:00:00','2019-05-10 00:00:00',NULL),
 	 ('Jfcgyx pnwgzurbmreywb uenvr c','3052@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-05-11 00:00:00','2019-07-18 00:00:00','2021-02-01 00:00:00'),
@@ -3364,7 +3364,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Kqazr B Und','3057@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-05-16 00:00:00','2019-07-24 00:00:00',NULL),
 	 ('Xtros qu','3058@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-05-17 00:00:00','2019-05-17 00:00:00',NULL),
 	 ('Fnjvoxgqlyhpaw','3059@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-05-18 00:00:00','2019-06-10 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Cuumfddam a zslxgso','3060@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-05-19 00:00:00','2019-07-13 00:00:00',NULL),
 	 ('Lwsrdjmierzvsxhwtp rhad','3061@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-05-20 00:00:00','2019-05-20 00:00:00',NULL),
 	 ('Vefc','3062@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-05-21 00:00:00','2019-07-12 00:00:00',NULL),
@@ -3375,7 +3375,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('D oywqofghtxyjakfjs ycpp Jngvu','3067@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-05-26 00:00:00','2019-05-26 00:00:00',NULL),
 	 ('D sb w  xwqgwqh gwuqfblkejuzvfq','3068@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-05-27 00:00:00','2019-09-21 00:00:00',NULL),
 	 ('Roivyki','3069@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-05-28 00:00:00','2019-05-28 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Vunlzs N g ynufgm','3070@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-05-29 00:00:00','2019-05-29 00:00:00',NULL),
 	 ('Xupae wmdihtamnsenbnr uem wgsb','3071@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-05-30 00:00:00','2019-05-30 00:00:00',NULL),
 	 ('Movhcvhyvsmcippihuzmrfdjzypt gilqh','3072@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-05-31 00:00:00','2019-07-11 00:00:00',NULL),
@@ -3386,7 +3386,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Uqpuff q Qlc Puu ztcmg','3077@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-06-05 00:00:00','2019-07-28 00:00:00',NULL),
 	 ('Q ucohyxrwjbagxa wvhehf','3078@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-06-06 00:00:00','2019-07-31 00:00:00',NULL),
 	 ('Exhqcr','3079@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-06-07 00:00:00','2019-09-28 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Klbjqoqz gsiyfmu','3080@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-06-08 00:00:00','2020-05-16 00:00:00',NULL),
 	 ('Atyliz htrsifmngjhmdwkfh Ff r wywnc','3081@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-06-09 00:00:00','2019-06-09 00:00:00',NULL),
 	 ('Dgnslcslttbr zvos','3082@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-06-10 00:00:00','2019-06-13 00:00:00',NULL),
@@ -3397,7 +3397,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ipohxvyywviiuuleyhltck xosgwxow mscmgjks','3087@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-06-15 00:00:00','2019-06-18 00:00:00','2019-06-18 00:00:00'),
 	 ('Qlkhr kxgmoha','3088@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-06-16 00:00:00','2019-06-16 00:00:00',NULL),
 	 ('Nmwnfttpcq qt tcse Kps hhvirc','3089@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-06-17 00:00:00','2020-03-31 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Oxasvyqhjj s  ycdchpksl hqodkis t zlrzl','3090@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-06-18 00:00:00','2019-10-11 00:00:00',NULL),
 	 ('Bvky cjiajm m','3091@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-06-19 00:00:00','2019-09-20 00:00:00','2019-10-17 00:00:00'),
 	 ('Jsfpzndbpakrjmj iu','3092@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-06-20 00:00:00','2020-09-29 00:00:00',NULL),
@@ -3408,7 +3408,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ltthnaale xlgubpusxs Xvxqt','3097@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-06-25 00:00:00','2019-09-02 00:00:00','2019-09-02 00:00:00'),
 	 ('Kphxwuh','3098@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-06-26 00:00:00','2019-12-10 00:00:00',NULL),
 	 ('Spuyq','3099@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-06-27 00:00:00','2019-06-30 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Bswhctivhhxxv','3100@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-06-28 00:00:00','2019-07-24 00:00:00',NULL),
 	 ('Qmhl Fuamqrmbr hay vn fpij vpzoxq','3101@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-06-29 00:00:00','2020-12-03 00:00:00','2021-03-14 00:00:00'),
 	 ('Lvthfsn pr','3102@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-06-30 00:00:00','2021-02-26 00:00:00',NULL),
@@ -3419,7 +3419,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Auslbrnmwulggywu uv aoptxedblcv','3107@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-07-05 00:00:00','2020-01-10 00:00:00',NULL),
 	 ('Ibqtlkqdp','3108@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-07-06 00:00:00','2019-07-06 00:00:00',NULL),
 	 ('Ebz zokyrahp xzeos lvsniyoorjwk pg','3109@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-07-07 00:00:00','2019-10-27 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Rkstigpcnknmrp','3110@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-07-08 00:00:00','2019-08-22 00:00:00',NULL),
 	 ('Lcubmhhyfq zduyx Msjvczfq','3111@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-07-09 00:00:00','2019-10-13 00:00:00',NULL),
 	 ('Bjjlya','3112@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-07-10 00:00:00','2019-07-10 00:00:00',NULL),
@@ -3430,7 +3430,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Wz Iej Mzrl hh jqvvbetva','3117@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-07-15 00:00:00','2019-07-22 00:00:00',NULL),
 	 ('Uapthca aj i Vph nfwoafpdokc','3118@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-07-16 00:00:00','2019-07-16 00:00:00',NULL),
 	 ('Lctmjftfw','3119@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-07-17 00:00:00','2019-10-18 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Baxgb  fqfuqwowb bsxsukbloi','3120@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-07-18 00:00:00','2019-08-05 00:00:00','2019-08-19 00:00:00'),
 	 ('Wscxaz Pqreypnkmv ijue c','3121@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-07-19 00:00:00','2019-07-19 00:00:00',NULL),
 	 ('Qgroaw','3122@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-07-20 00:00:00','2019-07-20 00:00:00',NULL),
@@ -3441,7 +3441,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ydlymhiiqf Jbtibp','3127@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-07-25 00:00:00','2019-07-28 00:00:00',NULL),
 	 ('Zrhgscvfwkiys iadujc B','3128@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-07-26 00:00:00','2019-10-15 00:00:00',NULL),
 	 ('Byh ujibpobgktx','3129@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-07-27 00:00:00','2020-01-23 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ujobpwse Idd nthpk','3130@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-07-28 00:00:00','2019-07-28 00:00:00',NULL),
 	 ('Bapbqvfker aglp utubappuzipoa','3131@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-07-29 00:00:00','2021-03-08 00:00:00',NULL),
 	 ('Rsnhwhazlnmov','3132@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-07-30 00:00:00','2021-03-05 00:00:00',NULL),
@@ -3452,7 +3452,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('A pusuq aiacpb','3137@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-08-04 00:00:00','2019-08-04 00:00:00',NULL),
 	 ('Evraaf','3138@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-08-05 00:00:00','2019-10-29 00:00:00',NULL),
 	 ('Tgwep','3139@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-08-06 00:00:00','2019-08-06 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Bitefvdmyxxeuvydarq','3140@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-08-07 00:00:00','2019-11-22 00:00:00','2021-01-20 00:00:00'),
 	 ('Bouwivd yygopznb','3141@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-08-08 00:00:00','2019-08-08 00:00:00',NULL),
 	 ('Grsbr','3142@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-08-09 00:00:00','2019-09-30 00:00:00','2019-10-03 00:00:00'),
@@ -3463,7 +3463,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Worbg h','3147@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-08-14 00:00:00','2019-08-14 00:00:00',NULL),
 	 ('Xkae ydzel j P ydzu mw wdhp','3148@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-08-15 00:00:00','2019-08-19 00:00:00',NULL),
 	 ('Bmshouezekimetvahmtrgygzcyz a g','3149@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-08-16 00:00:00','2019-08-31 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ezyqmkvwjr njlvcjao','3150@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-08-17 00:00:00','2019-08-17 00:00:00',NULL),
 	 ('Eumttdqikeeenfpgijvzm','3151@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-08-18 00:00:00','2020-11-23 00:00:00',NULL),
 	 ('Rctw','3152@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-08-19 00:00:00','2021-03-07 00:00:00',NULL),
@@ -3474,7 +3474,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Fgkhgql','3157@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-08-24 00:00:00','2019-10-23 00:00:00',NULL),
 	 ('Xps  dhtmaclmtxiiichufihntr','3158@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-08-25 00:00:00','2020-05-12 00:00:00',NULL),
 	 ('Alfutqikrevnxj mgzqr skosictksowgycyz','3159@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-08-26 00:00:00','2021-04-17 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Xeljg b','3160@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-08-27 00:00:00','2019-09-03 00:00:00',NULL),
 	 ('Pzpafyymmaunxzuij crmaonq','3161@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-08-28 00:00:00','2020-03-30 00:00:00',NULL),
 	 ('Iofxn qp','3162@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-08-29 00:00:00','2019-11-04 00:00:00',NULL),
@@ -3485,7 +3485,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ei lwotoiioy','3167@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-09-03 00:00:00','2019-12-10 00:00:00',NULL),
 	 ('Avvmdupez','3168@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-09-04 00:00:00','2019-12-10 00:00:00',NULL),
 	 ('Bs mewftcoev tch gxebw','3169@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-09-05 00:00:00','2019-09-09 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Qpkneajclvceakgv','3170@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-09-06 00:00:00','2020-05-07 00:00:00',NULL),
 	 ('D wu ugjqfoccmlqo Dhozxf','3171@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-09-07 00:00:00','2019-09-07 00:00:00','2019-09-28 00:00:00'),
 	 ('Mtqvfepouyhuhym','3172@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-09-08 00:00:00','2019-09-11 00:00:00',NULL),
@@ -3496,7 +3496,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Vsffjprkjdbb Ylfiqyckjxn cd','3177@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-09-13 00:00:00','2019-11-03 00:00:00',NULL),
 	 ('Jsobwzpfulvy','3178@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-09-14 00:00:00','2019-09-14 00:00:00',NULL),
 	 ('Ki ju L ps','3179@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-09-15 00:00:00','2019-09-15 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Edsconzwcdcmbys pnevgbuh','3180@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-09-16 00:00:00','2020-01-08 00:00:00',NULL),
 	 ('Vweonpf yjdb hpdu r aslv tlqtmyfw','3181@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-09-17 00:00:00','2019-09-17 00:00:00',NULL),
 	 ('Xayu cfojgvdjqhto sheryodtlt','3182@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-09-18 00:00:00','2019-10-03 00:00:00',NULL),
@@ -3507,7 +3507,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('K tf g rno izvu dgpsvpv mbkik qwxs','3187@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-09-23 00:00:00','2020-01-01 00:00:00','2020-01-24 00:00:00'),
 	 ('Jvylujbhm','3188@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-09-24 00:00:00','2019-11-01 00:00:00',NULL),
 	 ('En ipdrsi c Llwtext mtguwg rr','3189@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-09-25 00:00:00','2020-04-20 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Bpopdodnocjp ktwbexyv atemutqefbxopw','3190@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-09-26 00:00:00','2019-11-27 00:00:00',NULL),
 	 ('Hamqbgkfftqhicwqgqffr zda','3191@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-09-27 00:00:00','2021-08-07 00:00:00',NULL),
 	 ('Latw umjawcdystyuxactp','3192@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-09-28 00:00:00','2021-02-10 00:00:00',NULL),
@@ -3518,7 +3518,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Tynlnew hfyyois','3197@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-10-03 00:00:00','2019-11-27 00:00:00',NULL),
 	 ('Zwlabrgdd','3198@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-10-04 00:00:00','2019-11-11 00:00:00',NULL),
 	 ('Fuxrlfyau','3199@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-10-05 00:00:00','2019-12-07 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Cjjiqrsizffeg iofyqgqca','3200@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-10-06 00:00:00','2019-10-19 00:00:00',NULL),
 	 ('Qymsm','3201@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-10-07 00:00:00','2019-10-31 00:00:00',NULL),
 	 ('Kasmiuopmozjv','3202@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-10-08 00:00:00','2019-10-08 00:00:00',NULL),
@@ -3529,7 +3529,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ogkrygvwo osnstr','3207@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-10-13 00:00:00','2019-10-13 00:00:00',NULL),
 	 ('Qe Tuyrng cgpjapuvgm','3208@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-10-14 00:00:00','2020-12-20 00:00:00',NULL),
 	 ('Fly','3209@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-10-15 00:00:00','2019-10-15 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Gfeimnwzin','3210@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-10-16 00:00:00','2021-07-19 00:00:00',NULL),
 	 ('Uuzhhxqkqeccnjpgzwtytisr spo','3211@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-10-17 00:00:00','2019-11-21 00:00:00',NULL),
 	 ('Vqnbhzbacsnzelrxdiaoogrempioxxdujqp','3212@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-10-18 00:00:00','2019-10-22 00:00:00',NULL),
@@ -3540,7 +3540,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ylwjlci ll qoov pmdbk pho jhmeqhgq','3217@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-10-23 00:00:00','2019-10-23 00:00:00',NULL),
 	 ('Sf Puwfmfpytnufwl','3218@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-10-24 00:00:00','2019-11-05 00:00:00',NULL),
 	 ('Jjt ofleq R','3219@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-10-25 00:00:00','2019-12-04 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Injtvuwcmlrzyi f Oxxsri skhmgz oxx','3220@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-10-26 00:00:00','2020-01-31 00:00:00','2021-12-30 00:00:00'),
 	 ('Suazrh zxylhugkesf','3221@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-10-27 00:00:00','2021-08-28 00:00:00',NULL),
 	 ('O ilrt','3222@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-10-28 00:00:00','2020-10-19 00:00:00',NULL),
@@ -3551,7 +3551,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Cqyqxly','3227@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-11-02 00:00:00','2019-11-02 00:00:00',NULL),
 	 ('Jzffdyrfws','3228@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-11-03 00:00:00','2020-03-01 00:00:00',NULL),
 	 ('Rwnwgw  fnr','3229@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-11-04 00:00:00','2020-03-06 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Y ferh fkcmxkmv tjrtqrjxg','3230@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-11-05 00:00:00','2019-11-05 00:00:00',NULL),
 	 ('Qtvwdzpnhxadfm W cvyzsjmazrawb','3231@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-11-06 00:00:00','2021-02-11 00:00:00',NULL),
 	 ('Bzcld oa f N hfmclvkbssqycpdrmcnmotlwtdb','3232@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-11-07 00:00:00','2021-05-27 00:00:00',NULL),
@@ -3562,7 +3562,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('X qbi','3237@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-11-12 00:00:00','2019-11-12 00:00:00','2019-12-07 00:00:00'),
 	 ('Wa av','3238@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-11-13 00:00:00','2019-11-13 00:00:00',NULL),
 	 ('Ouzs kyvqvykrmpubzqnpsyew  u','3239@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-11-14 00:00:00','2020-02-12 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Fmi ogujzcb','3240@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-11-15 00:00:00','2019-11-29 00:00:00',NULL),
 	 ('Lccqbeynbvm  jo wv hcdid k','3241@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-11-16 00:00:00','2019-12-13 00:00:00',NULL),
 	 ('S Iqpiirphtpesd jahilkcnvyanmkfdq','3242@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-11-17 00:00:00','2019-11-17 00:00:00',NULL),
@@ -3573,7 +3573,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Hr Fsktc  mumqk hj  rs ojlydvlwufu','3247@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-11-22 00:00:00','2020-01-19 00:00:00',NULL),
 	 ('Eoezskyodk xxewc','3248@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-11-23 00:00:00','2020-01-26 00:00:00',NULL),
 	 ('Huejpunm Uutntrmusrbaqm','3249@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-11-24 00:00:00','2019-11-24 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Qiw zyiaabnkldendqfrsxpiiggamcacwqahc','3250@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-11-25 00:00:00','2019-12-18 00:00:00',NULL),
 	 ('On i','3251@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-11-26 00:00:00','2019-11-26 00:00:00',NULL),
 	 ('Eydjdcgfroun','3252@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-11-27 00:00:00','2019-12-16 00:00:00',NULL),
@@ -3584,7 +3584,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Rwapo ohtkn flobc aabbsjqvik upi','3257@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-12-02 00:00:00','2020-02-21 00:00:00',NULL),
 	 ('Yhukllmwwacorgtkkmmqyumgaxeaoc vwybtcx','3258@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-12-03 00:00:00','2020-07-17 00:00:00','2020-07-30 00:00:00'),
 	 ('Lw skhrh py ytupnaynkqkptvbzedhsisia','3259@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-12-04 00:00:00','2019-12-04 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Hcteekufxtxwvruztbakfepeosqfie','3260@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-12-05 00:00:00','2019-12-05 00:00:00',NULL),
 	 ('Gqnxsaeswkvbo bacczkhnevocylj rsudhg','3261@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-12-06 00:00:00','2021-05-02 00:00:00',NULL),
 	 ('Nwpkmkepknix Ic','3262@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-12-07 00:00:00','2019-12-27 00:00:00',NULL),
@@ -3595,7 +3595,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Typbyakthsemqvgscn','3267@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-12-12 00:00:00','2021-03-19 00:00:00',NULL),
 	 ('Dcnch Yirqnzcbc','3268@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-12-13 00:00:00','2021-10-20 00:00:00',NULL),
 	 ('Ererzaujs bmo','3269@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-12-14 00:00:00','2019-12-14 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Dwxc dh ynhpplhl Udkpyxr utknkmyixhdtvu','3270@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-12-15 00:00:00','2020-01-05 00:00:00',NULL),
 	 ('R egvwbvwzaxu mbbrmdpuh j  pppw  l','3271@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-12-16 00:00:00','2021-02-12 00:00:00',NULL),
 	 ('Vz Xhdycau ttqthcxymhykngzye','3272@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-12-17 00:00:00','2019-12-17 00:00:00',NULL),
@@ -3606,7 +3606,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Twqopysdgotqhgmx cjil','3277@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-12-22 00:00:00','2020-02-18 00:00:00',NULL),
 	 ('Rddxqwzgcfyihu jtntnygkq E jsnni','3278@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-12-23 00:00:00','2020-01-13 00:00:00',NULL),
 	 ('Dhsbq','3279@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-12-24 00:00:00','2019-12-24 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Y Wqibcybsnscvy','3280@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-12-25 00:00:00','2020-10-04 00:00:00',NULL),
 	 ('Vaxwou vvznydftxrpqjwhuj ah ywx yf','3281@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-12-26 00:00:00','2020-11-24 00:00:00',NULL),
 	 ('W chtcxqhcadcvyeyh','3282@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2019-12-27 00:00:00','2019-12-27 00:00:00',NULL),
@@ -3617,7 +3617,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Dklxiaxgwlafyalmljytdjrkayisplneca','3287@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-01-01 00:00:00','2021-01-16 00:00:00',NULL),
 	 ('Gdqzdg le hodcibwvrko','3288@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-01-02 00:00:00','2020-09-03 00:00:00',NULL),
 	 ('Mifcqgdqb','3289@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-01-03 00:00:00','2020-04-05 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Usdtukx','3290@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-01-04 00:00:00','2020-01-31 00:00:00',NULL),
 	 ('Awepok i Mvcpgo rfslgigncd kvk vkm','3291@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-01-05 00:00:00','2020-05-03 00:00:00',NULL),
 	 ('Nsp gzevy cnis A jrckohep mftvzpgie yjcd','3292@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-01-06 00:00:00','2020-01-25 00:00:00',NULL),
@@ -3628,7 +3628,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Hdbcz I   ojqcnsbcl Qiovyfxouaxtuttnee','3297@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-01-11 00:00:00','2020-02-11 00:00:00','2020-02-19 00:00:00'),
 	 ('Kzensnr dgqjb Homam Yqpu','3298@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-01-12 00:00:00','2020-03-24 00:00:00',NULL),
 	 ('Txhgwtqiqq oociz olayiwfzocn','3299@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-01-13 00:00:00','2020-01-26 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Sze gltbzzpal u','3300@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-01-14 00:00:00','2020-02-25 00:00:00',NULL),
 	 ('Q qzlibvpd xhatospxbxobzxeeggdcizznnwk','3301@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-01-15 00:00:00','2020-02-13 00:00:00',NULL),
 	 ('Ewkm  yaqlfcprfqk','3302@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-01-16 00:00:00','2020-01-21 00:00:00',NULL),
@@ -3639,7 +3639,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Csvsc W r c','3307@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-01-21 00:00:00','2020-01-21 00:00:00',NULL),
 	 ('Lclfxsecaiydjhuqqtxmxmqfzgmou','3308@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-01-22 00:00:00','2020-06-22 00:00:00',NULL),
 	 ('Rbchx zyff z hkkff pk','3309@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-01-23 00:00:00','2020-05-04 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Wpmd vbo lezlh lh C n','3310@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-01-24 00:00:00','2020-01-24 00:00:00',NULL),
 	 ('Zjbisuvfr rz Nf','3311@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-01-25 00:00:00','2020-01-25 00:00:00',NULL),
 	 ('Lo kbpsbikvd onfn dskxc','3312@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-01-26 00:00:00','2021-11-07 00:00:00',NULL),
@@ -3650,7 +3650,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Dtkdkwy','3317@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-01-31 00:00:00','2020-02-24 00:00:00',NULL),
 	 ('D Vodryvtbmzikjeuym y','3318@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-02-01 00:00:00','2020-02-01 00:00:00',NULL),
 	 ('V vquszckyuwdgluduv mtawaisqzm Bbwi','3319@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-02-02 00:00:00','2020-05-20 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Lywjqni box jmdoetejrvqzegma','3320@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-02-03 00:00:00','2020-06-02 00:00:00',NULL),
 	 ('Bkp mdikqwtvkjgkqempvwylq','3321@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-02-04 00:00:00','2020-02-04 00:00:00',NULL),
 	 ('Snqib b xrgmsuzbamra gywnowoyycdwsdqmp','3322@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-02-05 00:00:00','2020-04-29 00:00:00',NULL),
@@ -3661,7 +3661,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Lqnbyyrzod owt','3327@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-02-10 00:00:00','2020-02-22 00:00:00',NULL),
 	 ('Cjbkqzvlputrwzhsypkigka vgkxwj','3328@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-02-11 00:00:00','2020-06-03 00:00:00',NULL),
 	 ('K uspl Kdzfg uilcxpkzmt b','3329@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-02-12 00:00:00','2020-02-12 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Etekpgb c daxmizqut','3330@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-02-13 00:00:00','2020-02-13 00:00:00',NULL),
 	 ('Qe yjgsiwwg','3331@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-02-14 00:00:00','2021-08-06 00:00:00',NULL),
 	 ('Vomqxk','3332@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-02-15 00:00:00','2020-03-03 00:00:00',NULL),
@@ -3672,7 +3672,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ojhib iagxwyw ylfzhretziwonu','3337@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-02-20 00:00:00','2020-03-23 00:00:00',NULL),
 	 ('Vdm apg c h Wij idfk ig rhqsfuwszmiiznr','3338@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-02-21 00:00:00','2020-02-21 00:00:00','2020-02-21 00:00:00'),
 	 ('Hhctss fppbjh uvhd ajw','3339@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-02-22 00:00:00','2020-06-14 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Jfvb','3340@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-02-23 00:00:00','2020-02-23 00:00:00',NULL),
 	 ('Fsf v zksiqaeolbmczay Lt x','3341@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-02-24 00:00:00','2020-02-24 00:00:00',NULL),
 	 ('Wvhg','3342@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-02-25 00:00:00','2020-03-09 00:00:00',NULL),
@@ -3683,7 +3683,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Azeeekyub cfhmycgxec','3347@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-03-01 00:00:00','2020-03-16 00:00:00',NULL),
 	 ('Vihhd Ergyagid j evp','3348@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-03-02 00:00:00','2022-01-28 00:00:00',NULL),
 	 ('Mrjmxtrh','3349@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-03-03 00:00:00','2020-03-03 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Luhbnkbqptuzk Zz yd J aufqumxgcmsrgvhy','3350@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-03-04 00:00:00','2020-03-17 00:00:00',NULL),
 	 ('Ujzsqz','3351@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-03-05 00:00:00','2020-03-05 00:00:00',NULL),
 	 ('Iz evnsqsqzxcqx','3352@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-03-06 00:00:00','2020-03-06 00:00:00',NULL),
@@ -3694,7 +3694,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Zw lfou','3357@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-03-11 00:00:00','2020-04-13 00:00:00',NULL),
 	 ('Td pbblaknqkowfo gjm bczqceculsf e','3358@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-03-12 00:00:00','2020-04-16 00:00:00',NULL),
 	 ('Sdd plypvgs cpztoaxsaxmveu','3359@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-03-13 00:00:00','2020-04-09 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Stwdjwpka wchnn Ycqbqzklrop','3360@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-03-14 00:00:00','2020-03-14 00:00:00',NULL),
 	 ('C qtvpkwlwakekkmdhni ehix q C','3361@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-03-15 00:00:00','2020-04-04 00:00:00',NULL),
 	 ('Phebuocvftqkzveu Ecekdfdcpcetzz','3362@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-03-16 00:00:00','2020-03-19 00:00:00',NULL),
@@ -3705,7 +3705,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Y sqjrunqps','3367@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-03-21 00:00:00','2020-05-19 00:00:00',NULL),
 	 ('Q Npvrnycdsr hxouqlqhroxbwxz j','3368@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-03-22 00:00:00','2020-03-22 00:00:00',NULL),
 	 ('Gptx prdkqeujuu','3369@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-03-23 00:00:00','2020-03-23 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Bqrqeoszsfrywponhur','3370@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-03-24 00:00:00','2020-04-15 00:00:00',NULL),
 	 ('Swsakjf Ontslgp','3371@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-03-25 00:00:00','2020-08-12 00:00:00',NULL),
 	 ('Rshjrzqvcgj haxuw edno anemwmjyu umefcj','3372@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-03-26 00:00:00','2020-03-26 00:00:00',NULL),
@@ -3716,7 +3716,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Zwlftef mhf ifkdfzvmwsub Cggdlwqrlt','3377@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-03-31 00:00:00','2020-03-31 00:00:00','2020-03-31 00:00:00'),
 	 ('Eyrbirce  eagpjycfzuozuxtpbk','3378@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-04-01 00:00:00','2020-04-30 00:00:00',NULL),
 	 ('Nvkrlbjemjmbm vqlndj lvl','3379@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-04-02 00:00:00','2020-07-29 00:00:00','2020-09-15 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Wvfxpne jyeu tleeuczxvnuh','3380@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-04-03 00:00:00','2020-08-01 00:00:00',NULL),
 	 ('F nsuyxipkrwhxz gmnmu','3381@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-04-04 00:00:00','2020-05-13 00:00:00',NULL),
 	 ('Lrjwmbodrtnxmqurwmnvxxs y hhtziw','3382@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-04-05 00:00:00','2020-04-14 00:00:00',NULL),
@@ -3727,7 +3727,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Qx bnufkithfou nwtdgogrlolg ipfowz','3387@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-04-10 00:00:00','2020-06-09 00:00:00',NULL),
 	 ('Kjwslrypd','3388@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-04-11 00:00:00','2020-07-16 00:00:00',NULL),
 	 ('Oyh ybyywb xzu zi Hcidckgl','3389@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-04-12 00:00:00','2021-05-18 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Skc mnmdyquvnix rlkzyrkwfqftqh','3390@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-04-13 00:00:00','2020-04-13 00:00:00',NULL),
 	 ('Mtcokvi ef hozdjcddiagvdfy','3391@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-04-14 00:00:00','2020-04-14 00:00:00','2020-05-06 00:00:00'),
 	 ('Buwxmgfjaioc Yfrxjohvvntzhxyaqn lkdna','3392@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-04-15 00:00:00','2021-06-21 00:00:00',NULL),
@@ -3738,7 +3738,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Rmonueflfabqccsboightmbvgsdnq','3397@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-04-20 00:00:00','2020-10-02 00:00:00',NULL),
 	 ('Fjfkh c u','3398@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-04-21 00:00:00','2020-05-28 00:00:00',NULL),
 	 ('Dkfz','3399@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-04-22 00:00:00','2020-07-22 00:00:00','2020-07-28 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Lrzuskzcjuxucf','3400@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-04-23 00:00:00','2020-05-16 00:00:00','2020-05-16 00:00:00'),
 	 ('Mxbla pgwzfzoa','3401@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-04-24 00:00:00','2020-04-25 00:00:00',NULL),
 	 ('Coylnals','3402@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-04-25 00:00:00','2021-08-15 00:00:00',NULL),
@@ -3749,7 +3749,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Svtwpu c wxp d va sckdrfictapu ovexskxx','3407@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-04-30 00:00:00','2020-05-09 00:00:00',NULL),
 	 ('Commev bfliumfsebtkvcpmgierd','3408@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-05-01 00:00:00','2021-08-24 00:00:00',NULL),
 	 ('Nhr tffolzyztxbebvyov etllqzbtlu','3409@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-05-02 00:00:00','2020-07-04 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ieutxvsvvrzpriwi zoavycrdu','3410@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-05-03 00:00:00','2020-08-03 00:00:00',NULL),
 	 ('Vdycnjd','3411@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-05-04 00:00:00','2020-10-17 00:00:00',NULL),
 	 ('Slftm hjcaki bmzobwpaufz Tvvsw','3412@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-05-05 00:00:00','2020-06-16 00:00:00',NULL),
@@ -3760,7 +3760,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Xgshrfs','3417@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-05-10 00:00:00','2020-07-23 00:00:00',NULL),
 	 ('Vcrvxn i','3418@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-05-11 00:00:00','2021-08-24 00:00:00',NULL),
 	 ('Cmpmqshccivm','3419@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-05-12 00:00:00','2021-02-08 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('K Fpywmeqrphxkdcjmjlq pc sl','3420@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-05-13 00:00:00','2021-12-15 00:00:00',NULL),
 	 ('Aeghp Eqoj','3421@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-05-14 00:00:00','2020-05-23 00:00:00',NULL),
 	 ('Nvd Cidub etwktibkvyky','3422@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-05-15 00:00:00','2020-08-04 00:00:00','2020-09-24 00:00:00'),
@@ -3771,7 +3771,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Plqndy agp bodusnh y Ge','3427@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-05-20 00:00:00','2020-06-15 00:00:00','2020-06-28 00:00:00'),
 	 ('Rywgtxaqc','3428@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-05-21 00:00:00','2020-05-21 00:00:00',NULL),
 	 ('Gv dakyjfsoznfjofirlt agyzse ri','3429@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-05-22 00:00:00','2020-05-22 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Dnwkkbjlqakzw cyplgyg orzcrgimkxtoupx','3430@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-05-23 00:00:00','2021-03-12 00:00:00',NULL),
 	 ('Wjiub mxb vyr','3431@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-05-24 00:00:00','2020-06-22 00:00:00',NULL),
 	 ('Kidwfrpaimucwprhf','3432@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-05-25 00:00:00','2020-09-01 00:00:00','2020-10-22 00:00:00'),
@@ -3782,7 +3782,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Jmbu kbcxnwhwhsxmnzlulrwibnneudpbgrjeor','3437@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-05-30 00:00:00','2020-08-14 00:00:00',NULL),
 	 ('Vskgwyeafuoxuhfpoflritxcxzrvi V','3438@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-05-31 00:00:00','2020-05-31 00:00:00','2020-09-18 00:00:00'),
 	 ('Y altfvgwueml l nhnjsysgz upvvy czbqm r','3439@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-06-01 00:00:00','2021-08-15 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Dljkl easyanc qp ceczpbx vjm tdqpng','3440@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-06-02 00:00:00','2020-09-01 00:00:00',NULL),
 	 ('Hnepcxhtl Bmfruch Is juzhmkyex','3441@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-06-03 00:00:00','2020-06-03 00:00:00',NULL),
 	 ('Cbqzvlkjisk mbndsglpwyanhubh hwy','3442@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-06-04 00:00:00','2020-06-11 00:00:00','2020-07-02 00:00:00'),
@@ -3793,7 +3793,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Wuiowgfggnjgurtnyegdmodojoyokpjtxri','3447@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-06-09 00:00:00','2021-11-17 00:00:00',NULL),
 	 ('Exbhox  ffistw Hqcmln','3448@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-06-10 00:00:00','2021-12-21 00:00:00',NULL),
 	 ('Q ft xqbpdksz','3449@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-06-11 00:00:00','2020-06-14 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Jvyhcanu','3450@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-06-12 00:00:00','2020-08-25 00:00:00',NULL),
 	 ('Gghl kib','3451@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-06-13 00:00:00','2020-06-13 00:00:00',NULL),
 	 ('Jray pysbd M va  zzommzeehfebrjbgpx','3452@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-06-14 00:00:00','2021-06-09 00:00:00',NULL),
@@ -3804,7 +3804,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Hk M Ijilbqg tukqxuxnlkhoyxulbnpq','3457@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-06-19 00:00:00','2020-06-19 00:00:00',NULL),
 	 ('Xlwukogfrdxmhv ewvc zxnm','3458@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-06-20 00:00:00','2020-06-20 00:00:00',NULL),
 	 ('Vf dr','3459@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-06-21 00:00:00','2020-07-09 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Q imbkc d xnqa nt yerhx njfmlum','3460@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-06-22 00:00:00','2021-12-21 00:00:00',NULL),
 	 ('X Vaupl rquafjnvqs','3461@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-06-23 00:00:00','2022-01-29 00:00:00',NULL),
 	 ('Ippcgpa ein','3462@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-06-24 00:00:00','2020-07-14 00:00:00',NULL),
@@ -3815,7 +3815,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ykxeratq','3467@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-06-29 00:00:00','2020-09-23 00:00:00',NULL),
 	 ('Rq atcyihxd Uletxttbwlllwf b','3468@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-06-30 00:00:00','2020-09-01 00:00:00','2020-11-30 00:00:00'),
 	 ('Ckgoyqwyblzcqwvvgsvjeg','3469@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-07-01 00:00:00','2021-10-16 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Lvpyjsopvkrzi g Qu otgd  c rrnxsqce','3470@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-07-02 00:00:00','2021-05-09 00:00:00',NULL),
 	 ('Pjc  yielqiqibjrms gluawyn','3471@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-07-03 00:00:00','2020-07-03 00:00:00','2020-07-03 00:00:00'),
 	 ('Yfyccchdlu','3472@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-07-04 00:00:00','2020-07-12 00:00:00','2020-07-12 00:00:00'),
@@ -3826,7 +3826,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Xvfrupfia o o xivndbux','3477@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-07-09 00:00:00','2020-07-09 00:00:00',NULL),
 	 ('Brc ang peuxcsbdm yzyfcmuuiou','3478@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-07-10 00:00:00','2021-09-19 00:00:00',NULL),
 	 ('Gwnlwsznz d Vcnwcmhr','3479@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-07-11 00:00:00','2020-10-19 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Kpbdkufgtoyww','3480@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-07-12 00:00:00','2020-08-13 00:00:00',NULL),
 	 ('Uqkmmornmsbp rkdu vg Lqjakora','3481@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-07-13 00:00:00','2020-07-25 00:00:00',NULL),
 	 ('Dekgcikwsngak pxpdutkvzbmob iyov xby','3482@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-07-14 00:00:00','2020-10-01 00:00:00',NULL),
@@ -3837,7 +3837,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ciunwanhrzll wgqtueq kyhe','3487@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-07-19 00:00:00','2020-08-28 00:00:00',NULL),
 	 ('Orkuktmdzeaq','3488@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-07-20 00:00:00','2020-07-20 00:00:00','2020-07-20 00:00:00'),
 	 ('U Cl byxji hbay  gqpdrj ae','3489@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-07-21 00:00:00','2022-06-06 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Z  acjf qtuluajb','3490@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-07-22 00:00:00','2020-07-22 00:00:00',NULL),
 	 ('O ykfvjaf','3491@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-07-23 00:00:00','2020-07-24 00:00:00',NULL),
 	 ('Fifxudgtvjyg','3492@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-07-24 00:00:00','2020-07-24 00:00:00',NULL),
@@ -3848,7 +3848,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Nclmotbgytsh Zmbzadfr mi kax','3497@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-07-29 00:00:00','2021-11-12 00:00:00',NULL),
 	 ('Kwfgmdjrcq kdtnow Kiaymtsb zksijppnu','3498@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-07-30 00:00:00','2021-03-25 00:00:00',NULL),
 	 ('Eoeqcyj qgbab','3499@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-07-31 00:00:00','2020-07-31 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Feqnmjncw sm rpenwx','3500@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-08-01 00:00:00','2021-05-10 00:00:00',NULL),
 	 ('Gkdaohxzubmdsbw','3501@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-08-02 00:00:00','2022-01-18 00:00:00',NULL),
 	 ('G dyowpekixabfigrsl bwg uyz ouk i','3502@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-08-03 00:00:00','2020-08-05 00:00:00',NULL),
@@ -3859,7 +3859,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Yvgwtn rj n mqocu','3507@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-08-08 00:00:00','2020-10-21 00:00:00',NULL),
 	 ('Mrlhoiedagu Hlezbhskkuiqzepgjftsc','3508@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-08-09 00:00:00','2020-08-09 00:00:00','2020-08-09 00:00:00'),
 	 ('Oflvf o','3509@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-08-10 00:00:00','2020-09-07 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ftc ejhkl Qs nsxnfxohmpi gtnrrkw vvdjm','3510@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-08-11 00:00:00','2020-08-31 00:00:00',NULL),
 	 ('L yeikd Zafwghuumdodrqe wm Tfzvvtbt','3511@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-08-12 00:00:00','2021-01-31 00:00:00',NULL),
 	 ('Gtpttfeo qznzyioeo bwulzhf r','3512@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-08-13 00:00:00','2020-09-04 00:00:00',NULL),
@@ -3870,7 +3870,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ngymcta ewbgrdpyomuunc sqoay','3517@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-08-18 00:00:00','2020-09-07 00:00:00',NULL),
 	 ('Ntwpaegj a  yevzztnvmlyzp','3518@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-08-19 00:00:00','2021-01-28 00:00:00','2021-02-11 00:00:00'),
 	 ('Hwgvoocqcwffbkenkhyzlndpi rq','3519@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-08-20 00:00:00','2021-02-05 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Klqwhrvzayfppq','3520@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-08-21 00:00:00','2020-08-23 00:00:00',NULL),
 	 ('Pyikkyvb','3521@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-08-22 00:00:00','2020-08-22 00:00:00',NULL),
 	 ('Yywf','3522@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-08-23 00:00:00','2020-09-07 00:00:00',NULL),
@@ -3881,7 +3881,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ioqnkwgzbsqlvqstu gh','3527@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-08-28 00:00:00','2021-07-01 00:00:00',NULL),
 	 ('Ombiw mohuqaft','3528@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-08-29 00:00:00','2020-08-29 00:00:00','2020-09-28 00:00:00'),
 	 ('Nhfxyvfm','3529@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-08-30 00:00:00','2022-07-16 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Iz gpg Ggseqyduxyagpmbbfiz Ilg','3530@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-08-31 00:00:00','2020-08-31 00:00:00',NULL),
 	 ('P mfmk qewzghatiqcijsdwktej Axdjrt','3531@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-09-01 00:00:00','2020-11-19 00:00:00',NULL),
 	 ('Pyphjxi','3532@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-09-02 00:00:00','2020-09-02 00:00:00',NULL),
@@ -3892,7 +3892,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Khe oi','3537@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-09-07 00:00:00','2020-09-08 00:00:00',NULL),
 	 ('Nmzeqrjwupovmpnikoxv Cj rl wwul','3538@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-09-08 00:00:00','2020-12-22 00:00:00',NULL),
 	 ('Tvnu m rj p grt dgj','3539@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-09-09 00:00:00','2020-09-11 00:00:00','2020-12-05 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Zdmwpk wk Fp','3540@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-09-10 00:00:00','2020-09-10 00:00:00',NULL),
 	 ('Vkohjodeugjh','3541@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-09-11 00:00:00','2020-11-16 00:00:00',NULL),
 	 ('Rscdmsyzyvnkg Kup gy tm Lhd Odm','3542@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-09-12 00:00:00','2020-12-28 00:00:00',NULL),
@@ -3903,7 +3903,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Icmreabbrmzmfn','3547@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-09-17 00:00:00','2020-10-12 00:00:00',NULL),
 	 ('Zdhxa kt','3548@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-09-18 00:00:00','2021-01-29 00:00:00','2021-01-29 00:00:00'),
 	 ('Yizqwaezbhg','3549@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-09-19 00:00:00','2020-09-29 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Aplzt','3550@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-09-20 00:00:00','2020-09-20 00:00:00',NULL),
 	 ('Bpzwkfmxkaoxyakjvfoi B ntubpcfitvsax d','3551@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-09-21 00:00:00','2020-09-26 00:00:00',NULL),
 	 ('Wkzzokoevftyvi ogyhvu','3552@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-09-22 00:00:00','2021-03-16 00:00:00',NULL),
@@ -3914,7 +3914,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Bzv  hotlddesfvsupmhvd jkbfg','3557@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-09-27 00:00:00','2022-07-09 00:00:00',NULL),
 	 ('Qaughi Clgrzbkvactxswt','3558@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-09-28 00:00:00','2020-09-28 00:00:00','2020-09-28 00:00:00'),
 	 ('Tmffgxwfdl jc','3559@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-09-29 00:00:00','2022-08-14 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Min dtobmunerhg o','3560@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-09-30 00:00:00','2022-05-10 00:00:00',NULL),
 	 ('Dfgvmptqan ajqtkzz kkbavjac','3561@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-10-01 00:00:00','2020-10-01 00:00:00',NULL),
 	 ('Jccyff k jltihfcwbsbozvuwlk','3562@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-10-02 00:00:00','2022-06-10 00:00:00',NULL),
@@ -3925,7 +3925,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ss phvo ieyyn','3567@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-10-07 00:00:00','2021-07-22 00:00:00',NULL),
 	 ('Msgjsisqpvfxqgat','3568@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-10-08 00:00:00','2020-11-19 00:00:00','2020-12-06 00:00:00'),
 	 ('Oyi Vjiz','3569@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-10-09 00:00:00','2020-10-09 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Nzq ltxoipuntxa','3570@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-10-10 00:00:00','2020-12-02 00:00:00','2020-12-02 00:00:00'),
 	 ('Vqcp Mn','3571@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-10-11 00:00:00','2021-01-30 00:00:00',NULL),
 	 ('Lq q vjwdf','3572@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-10-12 00:00:00','2021-01-28 00:00:00',NULL),
@@ -3936,7 +3936,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Obkpa r  ma rhsndv lai','3577@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-10-17 00:00:00','2021-01-25 00:00:00','2021-02-21 00:00:00'),
 	 ('Bviam tjtsl Cmkm r koefjf wba','3578@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-10-18 00:00:00','2020-11-07 00:00:00',NULL),
 	 ('Hoxiizelnfagjgy cf','3579@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-10-19 00:00:00','2020-10-19 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ocu gejikrlsj otdxg','3580@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-10-20 00:00:00','2020-11-19 00:00:00',NULL),
 	 ('Ymfyjacxlk','3581@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-10-21 00:00:00','2021-01-25 00:00:00',NULL),
 	 ('Slnzaijivgu Onxbxobz Uohtrzaadsbpjqjzo','3582@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-10-22 00:00:00','2020-12-12 00:00:00',NULL),
@@ -3947,7 +3947,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Xktkcomettwhvc Jtpo cv','3587@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-10-27 00:00:00','2020-10-27 00:00:00',NULL),
 	 ('Oswqqlmeaubzyldkzw xlnnf rz dvxgwg','3588@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-10-28 00:00:00','2020-10-28 00:00:00',NULL),
 	 ('Otfxcgor auzlekidci','3589@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-10-29 00:00:00','2022-01-27 00:00:00','2023-08-08 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Boemvxbfuvnznifqqq f','3590@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-10-30 00:00:00','2020-12-08 00:00:00',NULL),
 	 ('Jqo jivshm','3591@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-10-31 00:00:00','2022-08-09 00:00:00',NULL),
 	 ('Xqicdvjdmraaeymzo ckwmtf bfenjnilpvespbt','3592@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-11-01 00:00:00','2020-11-01 00:00:00',NULL),
@@ -3958,7 +3958,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Rjlncgjrodur lltjgn jcmdcnhouxdk Pfyfnxa','3597@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-11-06 00:00:00','2021-09-20 00:00:00',NULL),
 	 ('Zz scdlxstm V','3598@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-11-07 00:00:00','2020-11-07 00:00:00',NULL),
 	 ('Uzikouhybf Zcdgiqvbrv','3599@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-11-08 00:00:00','2022-05-09 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Hqgp iknjbtqttolukdjp sb gb','3600@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-11-09 00:00:00','2020-11-09 00:00:00',NULL),
 	 ('Vacyuy wspr Eilf','3601@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-11-10 00:00:00','2021-02-26 00:00:00',NULL),
 	 ('Imksyobufepu mmsfup','3602@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-11-11 00:00:00','2020-11-23 00:00:00',NULL),
@@ -3969,7 +3969,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Pdyarfsvnrmy','3607@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-11-16 00:00:00','2020-11-20 00:00:00',NULL),
 	 ('Af noxgkath Tjpgflpiernk','3608@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-11-17 00:00:00','2021-01-22 00:00:00',NULL),
 	 ('Bsplwut oecy wmt','3609@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-11-18 00:00:00','2020-12-13 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Qgircavxmuexx yar y hyuthrmqmac','3610@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-11-19 00:00:00','2021-01-18 00:00:00',NULL),
 	 ('Nkbitg qbiwrhjgaxroqqxuapuooru','3611@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-11-20 00:00:00','2021-08-16 00:00:00',NULL),
 	 ('Qlig c plynhyxcsq','3612@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-11-21 00:00:00','2020-12-17 00:00:00',NULL),
@@ -3980,7 +3980,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Xsf Ipsmysnphqhaigrdlpalmwsceegflk','3617@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-11-26 00:00:00','2021-03-14 00:00:00',NULL),
 	 ('Mhqcr','3618@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-11-27 00:00:00','2022-03-23 00:00:00',NULL),
 	 ('Ed suzfcwwbq zhwm Daef m dis w','3619@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-11-28 00:00:00','2020-11-28 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('C Cwbxohzhc e jgsscudjqbpkh','3620@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-11-29 00:00:00','2020-12-18 00:00:00','2020-12-21 00:00:00'),
 	 ('Mspdv','3621@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-11-30 00:00:00','2020-12-09 00:00:00',NULL),
 	 ('Cg Dvjetybwbpv eliamadkyiv','3622@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-12-01 00:00:00','2020-12-22 00:00:00',NULL),
@@ -3991,7 +3991,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Jhgywodd utrrp nynnplhdusm','3627@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-12-06 00:00:00','2021-03-26 00:00:00',NULL),
 	 ('Mh ycldevlf Xlxmd krxk czf','3628@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-12-07 00:00:00','2021-01-23 00:00:00',NULL),
 	 ('Vyzm muyymhoodscjnjwz i','3629@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-12-08 00:00:00','2020-12-08 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Rnqd jhuhip Fqnxk txlcdimn','3630@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-12-09 00:00:00','2020-12-11 00:00:00',NULL),
 	 ('Epgpqtmla qalw Rioivmc','3631@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-12-10 00:00:00','2021-01-19 00:00:00',NULL),
 	 ('Bilkhcexqmupwfww mozujypzumbv','3632@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-12-11 00:00:00','2020-12-11 00:00:00',NULL),
@@ -4002,7 +4002,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Levxnljwlvomvlcdfocyrdhlnmgqaiaqibawqb j','3637@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-12-16 00:00:00','2020-12-16 00:00:00','2022-02-25 00:00:00'),
 	 ('Mhbu','3638@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-12-17 00:00:00','2021-01-11 00:00:00',NULL),
 	 ('Cfizkvmeuudsctscswmmxogipimikpbavvyfw','3639@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-12-18 00:00:00','2021-01-30 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Iddmjmuskewuy N','3640@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-12-19 00:00:00','2021-04-29 00:00:00',NULL),
 	 ('Dm njis','3641@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-12-20 00:00:00','2020-12-20 00:00:00',NULL),
 	 ('Rfxyxu','3642@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-12-21 00:00:00','2021-07-30 00:00:00',NULL),
@@ -4013,7 +4013,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Mxgutnibulu hcp','3647@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-12-26 00:00:00','2020-12-26 00:00:00',NULL),
 	 ('Xuouwn shpbxgrptgqsavllqpcz wel','3648@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-12-27 00:00:00','2020-12-27 00:00:00','2021-01-01 00:00:00'),
 	 ('Ieaqruhqkfegodxryn Nca','3649@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-12-28 00:00:00','2020-12-28 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Re vhta efxnb ur r T uz A qwpy','3650@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-12-29 00:00:00','2020-12-29 00:00:00','2021-01-17 00:00:00'),
 	 ('Bupfttyjzymohrfzwoy Urjnqqysx','3651@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-12-30 00:00:00','2020-12-30 00:00:00',NULL),
 	 ('Q c i al su','3652@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2020-12-31 00:00:00','2022-07-03 00:00:00',NULL),
@@ -4024,7 +4024,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('A zrhfx Iauiry ufwcdygvlmeq','3657@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-01-05 00:00:00','2022-11-09 00:00:00',NULL),
 	 ('Aonanfhsfvpdgvwnqcm','3658@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-01-06 00:00:00','2021-01-23 00:00:00',NULL),
 	 ('Yoeznrxz tdvv v','3659@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-01-07 00:00:00','2022-11-24 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Rkwxytudzf Pcl','3660@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-01-08 00:00:00','2021-04-22 00:00:00',NULL),
 	 ('Mdsu j vwj','3661@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-01-09 00:00:00','2021-02-06 00:00:00',NULL),
 	 ('Zgbxz','3662@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-01-10 00:00:00','2021-05-05 00:00:00',NULL),
@@ -4035,7 +4035,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Dcigomudsji vfw wmgsxittpnwuxqrtftzf','3667@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-01-15 00:00:00','2021-02-03 00:00:00',NULL),
 	 ('Tbuav wkxkgc','3668@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-01-16 00:00:00','2021-04-03 00:00:00',NULL),
 	 ('Xt pngzyeybf','3669@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-01-17 00:00:00','2021-02-14 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Drovhgrix qgmsafpldmnt gcqiazf sceb','3670@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-01-18 00:00:00','2021-03-29 00:00:00',NULL),
 	 ('Q Semhh','3671@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-01-19 00:00:00','2021-12-25 00:00:00','2021-12-25 00:00:00'),
 	 ('Oe k ekhwrfs fkmi dfs tuzxuhiokohwd  i','3672@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-01-20 00:00:00','2022-10-13 00:00:00','2022-11-10 00:00:00'),
@@ -4046,7 +4046,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ktzljte a','3677@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-01-25 00:00:00','2021-07-10 00:00:00',NULL),
 	 ('Hgxbhxxtehgopqmlntulrg','3678@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-01-26 00:00:00','2021-05-23 00:00:00',NULL),
 	 ('Gdirlfoyw tu zdvlyqadrw b','3679@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-01-27 00:00:00','2021-01-27 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Quezzh zhejst Xqfvh','3680@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-01-28 00:00:00','2021-02-06 00:00:00','2022-04-13 00:00:00'),
 	 ('Xmsdbc fvpjsjdrpsbr I','3681@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-01-29 00:00:00','2021-02-01 00:00:00','2021-02-07 00:00:00'),
 	 ('Xdzykqlp Cbmlzgt zksmj','3682@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-01-30 00:00:00','2021-01-30 00:00:00',NULL),
@@ -4057,7 +4057,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Jfxdxhxv','3687@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-02-04 00:00:00','2021-04-18 00:00:00',NULL),
 	 ('Rajenudrkmuplys','3688@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-02-05 00:00:00','2021-07-26 00:00:00',NULL),
 	 ('L wgjeitdeiaotvqo stqeynyy rs','3689@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-02-06 00:00:00','2021-02-06 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ygcnffopqrvqjog haezjemdlynnbxxmghc','3690@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-02-07 00:00:00','2021-02-12 00:00:00',NULL),
 	 ('Fdiy Qbcqzfwuzrhrc niumwg Vlthac','3691@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-02-08 00:00:00','2021-03-09 00:00:00','2021-04-07 00:00:00'),
 	 ('Uotvbjk Twwmfgimemdyyuug mfwcjxbdlvqlwh','3692@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-02-09 00:00:00','2021-02-26 00:00:00',NULL),
@@ -4068,7 +4068,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Uvcv bwqsnaz umx slbahj','3697@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-02-14 00:00:00','2021-03-11 00:00:00',NULL),
 	 ('Un  udjx dbndti sld ue roh xgbpejev','3698@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-02-15 00:00:00','2021-02-15 00:00:00',NULL),
 	 ('Zddgdt','3699@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-02-16 00:00:00','2021-06-05 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Tnqhtuonik lcpq','3700@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-02-17 00:00:00','2021-05-02 00:00:00',NULL),
 	 ('Ig kecroqmogj','3701@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-02-18 00:00:00','2021-04-24 00:00:00',NULL),
 	 ('Vfs ywaio hfwzbhgdiputvtu','3702@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-02-19 00:00:00','2022-09-10 00:00:00',NULL),
@@ -4079,7 +4079,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Lryttqq N','3707@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-02-24 00:00:00','2022-09-05 00:00:00',NULL),
 	 ('Tib Enpojnwd o vyv iy','3708@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-02-25 00:00:00','2021-07-20 00:00:00',NULL),
 	 ('Dzukkajiw udwz ylqzfyunh gmuvughfkt b','3709@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-02-26 00:00:00','2022-04-11 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Bsnhbkqunq Ayupdqerx jgq g Aphp k','3710@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-02-27 00:00:00','2022-08-10 00:00:00','2022-09-20 00:00:00'),
 	 ('Sf fnebvnkyo','3711@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-02-28 00:00:00','2021-06-03 00:00:00',NULL),
 	 ('Upxjkspuhx o iivtteiqwoej','3712@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-03-01 00:00:00','2021-05-10 00:00:00',NULL),
@@ -4090,7 +4090,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Yvumvds u xkji','3717@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-03-06 00:00:00','2021-03-26 00:00:00',NULL),
 	 ('Oylc tb Rkpkvyezabpadisc  guwicprf','3718@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-03-07 00:00:00','2021-05-19 00:00:00',NULL),
 	 ('P ucvrmcuiztg  kvbbxd mp','3719@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-03-08 00:00:00','2021-03-08 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Xalqwssogpagjjql','3720@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-03-09 00:00:00','2022-02-25 00:00:00','2022-02-25 00:00:00'),
 	 ('Nptpe zgd ykttp rvh','3721@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-03-10 00:00:00','2021-09-11 00:00:00',NULL),
 	 ('Pjxzowws wfzvjdyxlipapvs','3722@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-03-11 00:00:00','2021-03-11 00:00:00',NULL),
@@ -4101,7 +4101,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Yobpndlobqvgjrhket','3727@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-03-16 00:00:00','2021-06-27 00:00:00',NULL),
 	 ('Yj cbjzvgbtmfffcsskzjhjvb h','3728@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-03-17 00:00:00','2021-06-19 00:00:00',NULL),
 	 ('Mhuqs  ha','3729@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-03-18 00:00:00','2021-03-19 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Evsoj','3730@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-03-19 00:00:00','2023-02-14 00:00:00',NULL),
 	 ('C N xaccpai gnmbdufdajozm','3731@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-03-20 00:00:00','2021-03-20 00:00:00',NULL),
 	 ('Lldkxek kbavziafffy dzgqejiiovaacba','3732@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-03-21 00:00:00','2021-11-13 00:00:00',NULL),
@@ -4112,7 +4112,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Sicyxtx wjdde Otpzugv Uu','3737@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-03-26 00:00:00','2021-05-27 00:00:00','2021-06-05 00:00:00'),
 	 ('Ebhmnfynglzd','3738@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-03-27 00:00:00','2021-04-02 00:00:00',NULL),
 	 ('Kqgmhoxj evbyyhxmxcg','3739@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-03-28 00:00:00','2021-06-24 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Y nfpvoui  rkk m apjtwnzalgst','3740@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-03-29 00:00:00','2021-03-29 00:00:00','2022-07-28 00:00:00'),
 	 ('Sxirlt cabybixvlaozhcynkkpvlqopynwxadx','3741@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-03-30 00:00:00','2021-03-30 00:00:00',NULL),
 	 ('Wbkgrs Apmgdv tolfzgwi qv v','3742@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-03-31 00:00:00','2021-05-24 00:00:00','2022-01-16 00:00:00'),
@@ -4123,7 +4123,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Uwklyrfdxziook yg hvciwqfqff wq','3747@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-04-05 00:00:00','2021-04-26 00:00:00','2022-05-11 00:00:00'),
 	 ('Imkhner','3748@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-04-06 00:00:00','2021-04-29 00:00:00',NULL),
 	 ('Mazggxinlnggklsiofrug','3749@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-04-07 00:00:00','2022-07-24 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Rdezv ntg','3750@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-04-08 00:00:00','2021-07-16 00:00:00',NULL),
 	 ('Huxtvs C','3751@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-04-09 00:00:00','2021-04-09 00:00:00',NULL),
 	 ('Rzrpmpk','3752@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-04-10 00:00:00','2021-04-10 00:00:00',NULL),
@@ -4134,7 +4134,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Pvlrbbk Cupnf','3757@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-04-15 00:00:00','2021-04-15 00:00:00',NULL),
 	 ('Dbiwj','3758@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-04-16 00:00:00','2022-11-01 00:00:00',NULL),
 	 ('U img Cz Cxsydgepu aqedlizniv aeficde','3759@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-04-17 00:00:00','2022-03-30 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Rbxmuftdolzfqxa','3760@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-04-18 00:00:00','2021-05-12 00:00:00',NULL),
 	 ('Odgvz','3761@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-04-19 00:00:00','2021-08-15 00:00:00','2021-08-15 00:00:00'),
 	 ('O as mqs','3762@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-04-20 00:00:00','2021-04-20 00:00:00',NULL),
@@ -4145,7 +4145,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Uyvxcqakm jtfooebzucipaow','3767@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-04-25 00:00:00','2022-10-29 00:00:00',NULL),
 	 ('Sdhhoaoypcrkwsa','3768@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-04-26 00:00:00','2021-05-25 00:00:00','2021-05-29 00:00:00'),
 	 ('Cvtj oznfvwzkyirx b tjmgcydjbant','3769@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-04-27 00:00:00','2021-05-19 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Cjqwvn kfsroo dvaeskkbhq','3770@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-04-28 00:00:00','2021-08-15 00:00:00','2021-09-25 00:00:00'),
 	 ('Zmyn','3771@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-04-29 00:00:00','2021-05-01 00:00:00',NULL),
 	 ('Yzo c','3772@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-04-30 00:00:00','2021-05-03 00:00:00',NULL),
@@ -4156,7 +4156,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ovbjui q mkk Fw','3777@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-05-05 00:00:00','2021-07-04 00:00:00',NULL),
 	 ('Vdslunqajpuye kvxg','3778@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-05-06 00:00:00','2021-07-17 00:00:00',NULL),
 	 ('Ubekjpzer vt Ii uttkbfy zi','3779@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-05-07 00:00:00','2021-05-19 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ynkc qk','3780@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-05-08 00:00:00','2021-05-08 00:00:00',NULL),
 	 ('Ssvqoilouo','3781@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-05-09 00:00:00','2021-06-24 00:00:00',NULL),
 	 ('Sgo tvacll gxpc eonav D Gkgo','3782@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-05-10 00:00:00','2021-05-10 00:00:00',NULL),
@@ -4167,7 +4167,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Wxwwfnlxoe Oygnrrnllrsu A','3787@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-05-15 00:00:00','2022-08-03 00:00:00',NULL),
 	 ('Kqv t dckxsgzouxberriwxssx fsqimmyfarmt','3788@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-05-16 00:00:00','2021-06-03 00:00:00',NULL),
 	 ('Fdgj Iam oggutlvma eca  rhcnqui','3789@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-05-17 00:00:00','2021-06-01 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Um yfx n cxxitm','3790@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-05-18 00:00:00','2021-05-23 00:00:00',NULL),
 	 ('Zdyyajfa rgp','3791@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-05-19 00:00:00','2021-05-19 00:00:00',NULL),
 	 ('Xeonikxdpxfahx kluulhx','3792@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-05-20 00:00:00','2021-05-20 00:00:00',NULL),
@@ -4178,7 +4178,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Dot shhprgqeugovylwen','3797@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-05-25 00:00:00','2022-10-21 00:00:00',NULL),
 	 ('Mhkgunr','3798@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-05-26 00:00:00','2021-05-26 00:00:00',NULL),
 	 ('D jazrtm zyoioad','3799@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-05-27 00:00:00','2021-09-12 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Npgo dic ljpcyov rwkwvyfe kzi','3800@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-05-28 00:00:00','2023-03-30 00:00:00',NULL),
 	 ('Vgqxjb Fplxhslfnfpl','3801@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-05-29 00:00:00','2021-06-12 00:00:00',NULL),
 	 ('Czavsghj znffckm n mcbwvevjaue i jl','3802@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-05-30 00:00:00','2021-06-13 00:00:00',NULL),
@@ -4189,7 +4189,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Jgrtnxeysbzimjllufbslv','3807@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-06-04 00:00:00','2021-06-04 00:00:00',NULL),
 	 ('Fv a ji xesbocf umjn','3808@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-06-05 00:00:00','2021-06-19 00:00:00','2021-06-26 00:00:00'),
 	 ('Xenhms','3809@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-06-06 00:00:00','2021-06-29 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Aswdvz','3810@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-06-07 00:00:00','2021-07-07 00:00:00',NULL),
 	 ('Gwklpvttfwyhyxgnfjjnqnd','3811@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-06-08 00:00:00','2021-06-08 00:00:00',NULL),
 	 ('Eyzwvd Gygdk qlh e gsyjhyve','3812@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-06-09 00:00:00','2022-03-20 00:00:00',NULL),
@@ -4200,7 +4200,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Akpuo lsx qhp tlhczwtqpceopswlwuvrhv','3817@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-06-14 00:00:00','2021-06-26 00:00:00','2021-06-26 00:00:00'),
 	 ('Wjyzy Wa gneakeafwrwrs m','3818@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-06-15 00:00:00','2021-06-15 00:00:00',NULL),
 	 ('Dryjichm hsyv','3819@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-06-16 00:00:00','2021-06-29 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Bpv Ekbxd  zaeidg','3820@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-06-17 00:00:00','2023-03-05 00:00:00',NULL),
 	 ('Nu  y i qisg woe fpxiy','3821@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-06-18 00:00:00','2022-10-20 00:00:00',NULL),
 	 ('P rjauizhgwubklapjjakntvymwmuvwzfn f','3822@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-06-19 00:00:00','2022-03-14 00:00:00',NULL),
@@ -4211,7 +4211,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Rxwkdau Nuamsdnuf xggadwonshtagk mv hhh','3827@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-06-24 00:00:00','2021-08-06 00:00:00','2021-11-13 00:00:00'),
 	 ('Jykae','3828@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-06-25 00:00:00','2021-07-14 00:00:00',NULL),
 	 ('Qsdph','3829@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-06-26 00:00:00','2021-08-04 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Lxurmbnnmatexxqpobjtz klksybu Qpvak','3830@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-06-27 00:00:00','2021-07-14 00:00:00',NULL),
 	 ('Swuhptyhtzkle Huqdfzefrkornmvz','3831@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-06-28 00:00:00','2021-07-17 00:00:00',NULL),
 	 ('Sdrv vwlazzarlsrz ooxreysz','3832@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-06-29 00:00:00','2021-07-22 00:00:00',NULL),
@@ -4222,7 +4222,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Pchtaa','3837@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-07-04 00:00:00','2021-07-04 00:00:00',NULL),
 	 ('Wpdhrpvu wotxxblkvn','3838@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-07-05 00:00:00','2022-11-16 00:00:00',NULL),
 	 ('Ydgcdcf bb bgdfu huiyic xvhkftz mavi i','3839@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-07-06 00:00:00','2021-10-28 00:00:00','2022-01-29 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Gmmemudb yrischm mfxgzo','3840@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-07-07 00:00:00','2021-07-07 00:00:00',NULL),
 	 ('Ityvyqzmtiftvcbbgkiog','3841@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-07-08 00:00:00','2021-07-17 00:00:00',NULL),
 	 ('Keatogoewzb  ckoi','3842@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-07-09 00:00:00','2021-08-16 00:00:00',NULL),
@@ -4233,7 +4233,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Lwggzqyw','3847@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-07-14 00:00:00','2021-07-14 00:00:00',NULL),
 	 ('Kmgzgukoeuzdbceamjotrsuo c eto qs','3848@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-07-15 00:00:00','2022-11-26 00:00:00',NULL),
 	 ('D fddehs totps','3849@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-07-16 00:00:00','2021-07-16 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Kplk bjde snqlhuu psbnphtpk ii','3850@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-07-17 00:00:00','2021-08-06 00:00:00',NULL),
 	 ('N iqznsxlyoikpagrh Afbohikbr vil','3851@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-07-18 00:00:00','2021-07-18 00:00:00',NULL),
 	 ('A hx dxf  u','3852@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-07-19 00:00:00','2021-07-19 00:00:00',NULL),
@@ -4244,7 +4244,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Jyzwezwp hnh ksaveopcspmgadljvlmpdbrhuz','3857@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-07-24 00:00:00','2021-07-29 00:00:00',NULL),
 	 ('Lmthcxsipsw m','3858@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-07-25 00:00:00','2022-01-28 00:00:00',NULL),
 	 ('Vnsn','3859@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-07-26 00:00:00','2021-08-31 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Bizqrtfggctzizhopep f rvhcs teasczxbrbka','3860@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-07-27 00:00:00','2021-08-03 00:00:00',NULL),
 	 ('Zb vgtpdhxr xqbgkoqnsefxdkvhxhngud W','3861@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-07-28 00:00:00','2021-08-09 00:00:00',NULL),
 	 ('Sabkfposaniylig','3862@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-07-29 00:00:00','2022-10-27 00:00:00',NULL),
@@ -4255,7 +4255,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Fsurkaja','3867@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-08-03 00:00:00','2021-10-31 00:00:00',NULL),
 	 ('Lftmhcuwaekwdpbjusl  tmkotkthkrqztqmu','3868@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-08-04 00:00:00','2021-10-09 00:00:00',NULL),
 	 ('Bxy h','3869@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-08-05 00:00:00','2021-10-11 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Qwcbuxnygyp','3870@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-08-06 00:00:00','2023-03-25 00:00:00',NULL),
 	 ('Wwjot dkirwtksle','3871@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-08-07 00:00:00','2021-09-05 00:00:00',NULL),
 	 ('Dopeizuxnnvxg','3872@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-08-08 00:00:00','2021-08-24 00:00:00',NULL),
@@ -4266,7 +4266,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Zqho','3877@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-08-13 00:00:00','2021-11-04 00:00:00',NULL),
 	 ('Bfmxgzuy c  szymilpkomiyunk','3878@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-08-14 00:00:00','2021-08-14 00:00:00',NULL),
 	 ('V srxu sw klpkxglt','3879@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-08-15 00:00:00','2021-10-14 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Cuvrt gcxphh uvnj','3880@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-08-16 00:00:00','2021-08-16 00:00:00',NULL),
 	 ('Smnicy prqivwokjgy nmcj tnr','3881@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-08-17 00:00:00','2021-08-17 00:00:00',NULL),
 	 ('Chnf vljuaqahnqewy cjg eou','3882@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-08-18 00:00:00','2021-09-02 00:00:00',NULL),
@@ -4277,7 +4277,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Sxp xkntjv befj y uq vhqis Rqunold','3887@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-08-23 00:00:00','2021-09-10 00:00:00',NULL),
 	 ('Djdnzoiyylztwa','3888@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-08-24 00:00:00','2021-12-14 00:00:00',NULL),
 	 ('Ug c dkka wwizr gwykcdrdtezigqc bamaowa','3889@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-08-25 00:00:00','2021-10-10 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Nt Hazbidzcvuklgtjpxjbetiupfpszgrvpja','3890@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-08-26 00:00:00','2022-05-09 00:00:00',NULL),
 	 ('Potxb A zrr zyvgr','3891@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-08-27 00:00:00','2021-08-27 00:00:00','2021-08-27 00:00:00'),
 	 ('Bxux Kh h','3892@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-08-28 00:00:00','2021-08-28 00:00:00',NULL),
@@ -4288,7 +4288,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Xhh Vtnfzc','3897@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-09-02 00:00:00','2021-09-02 00:00:00',NULL),
 	 ('Bq Cmvoo xixwx Ilol zjwzd','3898@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-09-03 00:00:00','2022-03-22 00:00:00',NULL),
 	 ('Emrgmhodzvsxfuhb','3899@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-09-04 00:00:00','2021-09-04 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('N  sblglrevflhqhzrfakr fk syzxtq','3900@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-09-05 00:00:00','2021-09-27 00:00:00',NULL),
 	 ('Ihwp jmlqcittk','3901@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-09-06 00:00:00','2021-09-06 00:00:00',NULL),
 	 ('Yqyalntxaxoz uoy wsk','3902@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-09-07 00:00:00','2021-11-16 00:00:00',NULL),
@@ -4299,7 +4299,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('P Xysfsfhmtattvbw Exnumdqfmef','3907@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-09-12 00:00:00','2021-09-12 00:00:00',NULL),
 	 ('Qpfyc','3908@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-09-13 00:00:00','2023-08-09 00:00:00',NULL),
 	 ('Rvjekolanevl gwgqhpxbvvg ckh','3909@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-09-14 00:00:00','2022-04-30 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Itzfohllwmbhsmgyvnazbuwowztienibdwndh w','3910@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-09-15 00:00:00','2021-12-09 00:00:00',NULL),
 	 ('Zvkabcdoevuygvi','3911@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-09-16 00:00:00','2021-09-29 00:00:00',NULL),
 	 ('Abdn','3912@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-09-17 00:00:00','2021-12-07 00:00:00',NULL),
@@ -4310,7 +4310,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Hnjfoximzcoc  bg Wttj diqqnwirwl','3917@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-09-22 00:00:00','2022-04-12 00:00:00',NULL),
 	 ('Klqgncmgftvlisxyfzzzeegvvmxgrklnh','3918@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-09-23 00:00:00','2022-01-21 00:00:00',NULL),
 	 ('Fpyso wc','3919@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-09-24 00:00:00','2023-05-02 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Hb lsh D caaewnjmdifrreoyqndh ffywwm','3920@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-09-25 00:00:00','2021-09-25 00:00:00',NULL),
 	 ('Pkag e cg vevtf nt xqpf','3921@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-09-26 00:00:00','2021-10-06 00:00:00','2021-10-26 00:00:00'),
 	 ('Aubgtmye Quj','3922@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-09-27 00:00:00','2021-09-27 00:00:00',NULL),
@@ -4321,7 +4321,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Gpvchrc Wfpkiltu','3927@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-10-02 00:00:00','2021-10-19 00:00:00',NULL),
 	 ('Uoaae Bkhisouand Ptrgy aeqpqjxlxf','3928@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-10-03 00:00:00','2021-10-10 00:00:00','2022-02-03 00:00:00'),
 	 ('Sypdh','3929@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-10-04 00:00:00','2021-10-04 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Myzaxsdi if','3930@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-10-05 00:00:00','2021-11-11 00:00:00',NULL),
 	 ('Rec wotfd msf','3931@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-10-06 00:00:00','2021-10-06 00:00:00',NULL),
 	 ('Fnrcuiyr nr Ehgzwfbwuh','3932@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-10-07 00:00:00','2021-10-24 00:00:00',NULL),
@@ -4332,7 +4332,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Rkl Ct','3937@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-10-12 00:00:00','2021-10-12 00:00:00',NULL),
 	 ('Vejiw','3938@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-10-13 00:00:00','2023-08-24 00:00:00',NULL),
 	 ('Xatwnvvngp o a fj','3939@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-10-14 00:00:00','2023-09-10 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Pbcvdsrunl Mktrc Kdcgrmqusmt','3940@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-10-15 00:00:00','2022-01-04 00:00:00',NULL),
 	 ('Gpfxyv ccm Elkctequwenkp','3941@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-10-16 00:00:00','2021-12-14 00:00:00',NULL),
 	 ('Vydw bpuzqmlnjjvxqz wltxowrcjx','3942@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-10-17 00:00:00','2022-01-10 00:00:00',NULL),
@@ -4343,7 +4343,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Nq Judx eiuuryiplosnkkvyjga','3947@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-10-22 00:00:00','2021-12-31 00:00:00',NULL),
 	 ('Dxcqih bjndntuk','3948@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-10-23 00:00:00','2021-10-23 00:00:00',NULL),
 	 ('Rshbv odye','3949@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-10-24 00:00:00','2023-04-09 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Tcefwfhg d Yoedlaox u','3950@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-10-25 00:00:00','2022-11-22 00:00:00',NULL),
 	 ('Ugargdzkjr t zzj','3951@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-10-26 00:00:00','2021-11-09 00:00:00','2021-11-22 00:00:00'),
 	 ('Exbjj o xoveacltyz ppkgvioxwteycdoue','3952@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-10-27 00:00:00','2022-01-05 00:00:00',NULL),
@@ -4354,7 +4354,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Wayehnwehjznp sp cyrxalijf','3957@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-11-01 00:00:00','2022-02-12 00:00:00',NULL),
 	 ('Mlyk chohzdm','3958@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-11-02 00:00:00','2021-11-02 00:00:00','2022-01-21 00:00:00'),
 	 ('Agq w M','3959@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-11-03 00:00:00','2022-01-04 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Oii qxgx','3960@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-11-04 00:00:00','2023-08-11 00:00:00',NULL),
 	 ('Wultisvfuomy edz wxqwdmannaujars ox','3961@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-11-05 00:00:00','2021-11-05 00:00:00',NULL),
 	 ('Djx We','3962@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-11-06 00:00:00','2023-01-14 00:00:00',NULL),
@@ -4365,7 +4365,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ej buv lj enmsm  dkrhz','3967@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-11-11 00:00:00','2023-06-05 00:00:00',NULL),
 	 ('Adc njialyoqiilbm','3968@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-11-12 00:00:00','2022-01-26 00:00:00',NULL),
 	 ('Dkidwdszrresfzb ych','3969@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-11-13 00:00:00','2023-02-17 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Alnpxmub uaocblkua ga lsly','3970@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-11-14 00:00:00','2022-01-04 00:00:00',NULL),
 	 ('Gbbbknycftz Rofpwkkgcpor bzol qor','3971@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-11-15 00:00:00','2022-03-05 00:00:00',NULL),
 	 ('Ygqg','3972@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-11-16 00:00:00','2022-08-08 00:00:00',NULL),
@@ -4376,7 +4376,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Avlofyayv','3977@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-11-21 00:00:00','2022-02-05 00:00:00',NULL),
 	 ('Nrndhgucwsjujmfb  cwsmoweaa Wnkesmvd','3978@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-11-22 00:00:00','2021-12-19 00:00:00',NULL),
 	 ('Udtiwn wnykyrhrnqedbhhrexqzzyogqmr jdl n','3979@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-11-23 00:00:00','2021-12-09 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Gtrwrxsqf','3980@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-11-24 00:00:00','2022-01-10 00:00:00',NULL),
 	 ('L Iej Hjageggyauomsv','3981@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-11-25 00:00:00','2021-12-11 00:00:00',NULL),
 	 ('O oupabr Qd ptmrj','3982@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-11-26 00:00:00','2021-11-26 00:00:00',NULL),
@@ -4387,7 +4387,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Whsyau rvk m','3987@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-12-01 00:00:00','2022-03-02 00:00:00',NULL),
 	 ('Lsmxull','3988@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-12-02 00:00:00','2023-06-08 00:00:00',NULL),
 	 ('Pdyu gooh','3989@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-12-03 00:00:00','2021-12-16 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('T gcmiduveek mrtrpifwvp','3990@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-12-04 00:00:00','2022-01-04 00:00:00',NULL),
 	 ('Duimihz dvuy Hizdlkbf zssqmmomos','3991@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-12-05 00:00:00','2021-12-11 00:00:00',NULL),
 	 ('Abgjxqahvogv xlsdabveb','3992@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-12-06 00:00:00','2021-12-19 00:00:00',NULL),
@@ -4398,7 +4398,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Zfkyt','3997@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-12-11 00:00:00','2021-12-11 00:00:00',NULL),
 	 ('C faoflcyeqqxkgosoo Fmpl','3998@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-12-12 00:00:00','2022-04-21 00:00:00',NULL),
 	 ('Dqonfw ehodqt Ysd','3999@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-12-13 00:00:00','2022-02-13 00:00:00','2022-02-21 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Fgugh','4000@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-12-14 00:00:00','2023-05-17 00:00:00',NULL),
 	 ('Dkexewooemlhttj F  ojfjyniqq','4001@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-12-15 00:00:00','2021-12-17 00:00:00',NULL),
 	 ('Koqayzvkzfpqfre','4002@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-12-16 00:00:00','2022-01-11 00:00:00',NULL),
@@ -4409,7 +4409,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('E funsbrusyqkkke v','4007@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-12-21 00:00:00','2021-12-21 00:00:00',NULL),
 	 ('Jvtmhw','4008@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-12-22 00:00:00','2022-12-08 00:00:00',NULL),
 	 ('Sffgv','4009@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-12-23 00:00:00','2021-12-23 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Eitoblzbffrpjrur ndxpwya','4010@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-12-24 00:00:00','2022-03-16 00:00:00',NULL),
 	 ('Otjkwynqhdr lmigjqjunjeppim Ssj klwnysrc','4011@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-12-25 00:00:00','2022-03-06 00:00:00',NULL),
 	 ('Qy dgmdiv Csgvg','4012@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-12-26 00:00:00','2022-03-28 00:00:00',NULL),
@@ -4420,7 +4420,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Jnsyscffwjcxcyhfksppgmbfuxxqh','4017@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2021-12-31 00:00:00','2022-02-23 00:00:00',NULL),
 	 ('R xvyaqgaqlhparb hleci bvm P ipc kzx t m','4018@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-01-01 00:00:00','2022-01-01 00:00:00',NULL),
 	 ('Fvdaxuuxfgzg olih axnh Vbhhgyjl vbh le','4019@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-01-02 00:00:00','2023-05-04 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Zvkagtgrspa','4020@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-01-03 00:00:00','2022-02-01 00:00:00',NULL),
 	 ('Yldqcqamw mfaksaolaa Xzkgjbktqcsums','4021@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-01-04 00:00:00','2022-02-11 00:00:00',NULL),
 	 ('Z phhben V wvespdhntmiv','4022@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-01-05 00:00:00','2022-01-20 00:00:00',NULL),
@@ -4431,7 +4431,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Lvdy','4027@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-01-10 00:00:00','2022-05-04 00:00:00',NULL),
 	 ('Szn kohi  bt osvpefc Tjjmz dnawk qz','4028@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-01-11 00:00:00','2023-05-16 00:00:00',NULL),
 	 ('Ytri z Ztdvvdhty Qazxji   sir gpd ldium','4029@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-01-12 00:00:00','2022-02-05 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('S Tcxq','4030@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-01-13 00:00:00','2022-11-24 00:00:00',NULL),
 	 ('Mlfufuboyhhgsjlu cpgxg sbxndtoebmo','4031@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-01-14 00:00:00','2022-11-24 00:00:00',NULL),
 	 ('Yvt numyhwsbvzwz bkdxpmdongqgc','4032@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-01-15 00:00:00','2022-01-15 00:00:00',NULL),
@@ -4442,7 +4442,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Qurreayw ymebupolu','4037@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-01-20 00:00:00','2022-04-01 00:00:00',NULL),
 	 ('Fdzzze rzaeedhyfd','4038@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-01-21 00:00:00','2022-01-21 00:00:00',NULL),
 	 ('Zqvje tqnzwihg cwqphcgxhtl','4039@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-01-22 00:00:00','2022-01-22 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ymsdqtbouoik jdckjvxlrnebqvgysucijbih','4040@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-01-23 00:00:00','2022-01-23 00:00:00',NULL),
 	 ('Fdroxj gmzxztql','4041@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-01-24 00:00:00','2022-01-26 00:00:00',NULL),
 	 ('Y Jpukomgyvtwtcfwzrjwg','4042@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-01-25 00:00:00','2023-07-21 00:00:00',NULL),
@@ -4453,7 +4453,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Gyktsreg','4047@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-01-30 00:00:00','2022-01-30 00:00:00',NULL),
 	 ('Vc lzv tybm fcgx','4048@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-01-31 00:00:00','2022-03-03 00:00:00',NULL),
 	 ('Vek eotvhgt vpcv khnamjsyyo vlfi','4049@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-02-01 00:00:00','2022-03-15 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Nhxpaidwwkbs Fu','4050@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-02-02 00:00:00','2023-01-28 00:00:00',NULL),
 	 ('Ioiu yyzmrebt wklj nt fvy','4051@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-02-03 00:00:00','2022-02-23 00:00:00',NULL),
 	 ('Hlsqqod','4052@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-02-04 00:00:00','2022-04-04 00:00:00',NULL),
@@ -4464,7 +4464,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ugqngdg iongfs lffi m wofrm','4057@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-02-09 00:00:00','2022-02-09 00:00:00',NULL),
 	 ('Qtsd jnlgugf lz gv qem X','4058@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-02-10 00:00:00','2022-03-05 00:00:00',NULL),
 	 ('Tpytkhnjxulxoobotvertztr Xojqwnmg','4059@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-02-11 00:00:00','2022-06-04 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Udvnmbrm','4060@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-02-12 00:00:00','2022-02-20 00:00:00','2022-02-24 00:00:00'),
 	 ('Xwpcjtl r r thcjflwwsiwqfa nzcutdyxgszr','4061@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-02-13 00:00:00','2023-08-14 00:00:00',NULL),
 	 ('Hg Hnfqcdsvt','4062@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-02-14 00:00:00','2023-09-25 00:00:00',NULL),
@@ -4475,7 +4475,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Bomirtfg pwfahhtz pdk','4066@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-02-18 00:00:00','2022-03-08 00:00:00',NULL),
 	 ('Wrzt Y','4067@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-02-19 00:00:00','2022-04-10 00:00:00',NULL),
 	 ('Fk lbfp n','4068@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-02-20 00:00:00','2023-03-31 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Msyfgbddjsylmjubrrvfaa','4069@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-02-21 00:00:00','2022-03-11 00:00:00',NULL),
 	 ('Tsdflvdsnajuvh Avx','4070@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-02-22 00:00:00','2022-03-03 00:00:00',NULL),
 	 ('Fgcetcp h puvogv jkbardf np','4071@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-02-23 00:00:00','2022-02-23 00:00:00',NULL),
@@ -4486,7 +4486,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Tkr tj','4076@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-02-28 00:00:00','2022-05-10 00:00:00',NULL),
 	 ('Suoejhauxbab metfcb','4077@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-03-01 00:00:00','2022-03-20 00:00:00',NULL),
 	 ('Iioiiajn cdsb','4078@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-03-02 00:00:00','2023-06-11 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Vqvzgfzowtomqg ve ztqywxfwrojba','4079@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-03-03 00:00:00','2022-05-25 00:00:00',NULL),
 	 ('Avmcexlzafy zoesorvof','4080@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-03-04 00:00:00','2022-05-17 00:00:00',NULL),
 	 ('Uebotlg ftmhjg hlk','4081@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-03-05 00:00:00','2023-05-12 00:00:00',NULL),
@@ -4497,7 +4497,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Omv','4086@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-03-10 00:00:00','2022-06-08 00:00:00',NULL),
 	 ('Pvrzf rspusgoyuouc elvh','4087@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-03-11 00:00:00','2022-04-02 00:00:00',NULL),
 	 ('Nnz vaptaacwoyrqovztjoqopy f b','4088@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-03-12 00:00:00','2022-04-10 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Sskqqsxpbyhdurq','4089@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-03-13 00:00:00','2022-04-30 00:00:00',NULL),
 	 ('Mfu Cgglhtmtfzmrbuteb exqxxwkb wm z','4090@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-03-14 00:00:00','2022-08-13 00:00:00',NULL),
 	 ('Pdytzdvesl Ufiip','4091@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-03-15 00:00:00','2022-04-12 00:00:00',NULL),
@@ -4508,7 +4508,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Px bkvtjgkst htnzixyg Zvyw Wlld','4096@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-03-20 00:00:00','2022-04-06 00:00:00',NULL),
 	 ('Fgzc caykffd u lni cety','4097@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-03-21 00:00:00','2022-04-08 00:00:00',NULL),
 	 ('H f gpdwdb ayguo gxor  wzr','4098@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-03-22 00:00:00','2022-05-29 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('E spnnikaiicn','4099@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-03-23 00:00:00','2022-03-29 00:00:00','2022-04-05 00:00:00'),
 	 ('Ibxcucwc Fovhefxrhmqrhq','4100@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-03-24 00:00:00','2024-02-11 00:00:00',NULL),
 	 ('Rjeccouhicqcuul b','4101@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-03-25 00:00:00','2023-07-30 00:00:00',NULL),
@@ -4519,7 +4519,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Jel Mzoj Yuhhcm cnvapadqa bt moekesjwe','4106@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-03-30 00:00:00','2022-05-09 00:00:00',NULL),
 	 ('Ocduk sqqyueuxkk Kbchczmootp zz','4107@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-03-31 00:00:00','2023-10-12 00:00:00',NULL),
 	 ('Rfqzijwmrboghdywgbbewxi ybtchypyd','4108@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-04-01 00:00:00','2022-05-06 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Sbbrrhp Ekscbscte','4109@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-04-02 00:00:00','2023-10-05 00:00:00',NULL),
 	 ('Zuoy','4110@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-04-03 00:00:00','2022-04-27 00:00:00',NULL),
 	 ('Fwwuqoech oc','4111@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-04-04 00:00:00','2023-11-15 00:00:00',NULL),
@@ -4530,7 +4530,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Vzuwtbqhiw urj q','4116@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-04-09 00:00:00','2022-04-27 00:00:00',NULL),
 	 ('X jgezbybapvflnqvmh pmffsqtq','4117@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-04-10 00:00:00','2022-04-27 00:00:00',NULL),
 	 ('Evwknaezjkulzyfuorf tlux','4118@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-04-11 00:00:00','2022-04-11 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Q mcfxw','4119@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-04-12 00:00:00','2022-04-12 00:00:00',NULL),
 	 ('Nhqhscylnaz bkhswvpsnxs','4120@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-04-13 00:00:00','2023-08-28 00:00:00',NULL),
 	 ('Egpwptvjkrj zpeycn','4121@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-04-14 00:00:00','2022-04-29 00:00:00',NULL),
@@ -4541,7 +4541,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Hpodnfiduhapujfysvekkvxrwznnjva ljgevgk','4127@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-04-20 00:00:00','2022-08-02 00:00:00',NULL),
 	 ('Xnt Jyfuddbnmyusopnjeqsh eyh m','4128@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-04-21 00:00:00','2022-04-21 00:00:00',NULL),
 	 ('Nkcxqjytfzsi owvlieiluar g esiedqxg','4129@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-04-22 00:00:00','2023-01-01 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Jno puvs tbqmadbhnmcgrfts','4130@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-04-23 00:00:00','2023-10-27 00:00:00','2023-12-24 00:00:00'),
 	 ('Mxjtvz wrkecyjdhrsw','4131@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-04-24 00:00:00','2022-05-06 00:00:00',NULL),
 	 ('Brgqmtagwn lolbu kbvnu','4132@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-04-25 00:00:00','2022-07-02 00:00:00',NULL),
@@ -4552,7 +4552,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('N eegl','4137@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-04-30 00:00:00','2022-08-05 00:00:00',NULL),
 	 ('Givofjhmbmyjkmtafiljyor','4138@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-05-01 00:00:00','2022-05-16 00:00:00',NULL),
 	 ('P p rtgvua vjptceu lwjiae cxyu','4139@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-05-02 00:00:00','2022-08-03 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('L Gotqewfmavaphym uj bz','4140@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-05-03 00:00:00','2022-05-11 00:00:00',NULL),
 	 ('Qzje qhp vewuy ntggnogmux','4141@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-05-04 00:00:00','2022-07-11 00:00:00',NULL),
 	 ('Qkzuw','4142@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-05-05 00:00:00','2022-05-25 00:00:00',NULL),
@@ -4563,7 +4563,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Sbqqfqp Eigq Vylgafoggyxuokytdt','4147@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-05-10 00:00:00','2022-12-31 00:00:00','2023-03-17 00:00:00'),
 	 ('Zsoeqlttnahamhswbetkbxrpawf pfu','4148@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-05-11 00:00:00','2022-05-11 00:00:00',NULL),
 	 ('Xxxbriaz wpqlgu','4149@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-05-12 00:00:00','2022-05-12 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Bdtiqqerixczpyfggedwj','4150@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-05-13 00:00:00','2022-08-10 00:00:00',NULL),
 	 ('S scsedxkvayo jeswnzvmol vyliks r','4151@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-05-14 00:00:00','2023-10-07 00:00:00',NULL),
 	 ('Ndv Lom xgg lgiyzllfhxqj','4152@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-05-15 00:00:00','2022-05-15 00:00:00',NULL),
@@ -4574,7 +4574,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Npvwttponzcohekjvcwep','4157@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-05-20 00:00:00','2022-06-04 00:00:00',NULL),
 	 ('Vcfyvylrgz xmmpfkydpjcerfjmj J','4158@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-05-21 00:00:00','2022-06-17 00:00:00',NULL),
 	 ('Pk ef nrya shcsgrxgxceeoplh','4159@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-05-22 00:00:00','2022-05-22 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Yauecan Asvjzsbcb bioq w wgvjzbr','4160@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-05-23 00:00:00','2022-05-23 00:00:00',NULL),
 	 ('Zfcyqqni clqk  rg','4161@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-05-24 00:00:00','2022-05-24 00:00:00',NULL),
 	 ('Plz jthayz','4162@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-05-25 00:00:00','2022-05-25 00:00:00',NULL),
@@ -4585,7 +4585,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Tfb az mjjapsunoyy','4167@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-05-30 00:00:00','2023-12-02 00:00:00',NULL),
 	 ('Jf xllbqnsrxhuqrohlrqtmsprxkxdut Hhlcprn','4168@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-05-31 00:00:00','2022-06-27 00:00:00',NULL),
 	 ('Sn fah uknrgtbz vouedv dy','4169@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-06-01 00:00:00','2022-08-18 00:00:00','2022-11-24 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ntfq tvwo p Ozdmgvaxn ztqkjdft s','4170@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-06-02 00:00:00','2024-03-10 00:00:00',NULL),
 	 ('Ysfcdxxgww','4171@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-06-03 00:00:00','2022-06-23 00:00:00',NULL),
 	 ('Gcwijoytdky ppbzmptppmqoorosegv','4172@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-06-04 00:00:00','2022-06-10 00:00:00',NULL),
@@ -4596,7 +4596,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Avlmtzozfopfdwp','4177@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-06-09 00:00:00','2022-09-05 00:00:00',NULL),
 	 ('Ur rxendcckuhebrgdvkimjtyxnu','4178@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-06-10 00:00:00','2022-06-10 00:00:00','2022-07-01 00:00:00'),
 	 ('G vbzqrvtqg wvlvwycdvjtx','4179@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-06-11 00:00:00','2022-08-22 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Jupgk','4180@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-06-12 00:00:00','2022-07-15 00:00:00',NULL),
 	 ('P Ucs Z','4181@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-06-13 00:00:00','2022-06-13 00:00:00','2023-01-29 00:00:00'),
 	 ('Ay xhxpqeew s fpuacwck zfh iizdhhrcdu','4182@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-06-14 00:00:00','2022-06-14 00:00:00','2022-09-28 00:00:00'),
@@ -4607,7 +4607,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Efc J ep ootnzjdkbj ssffbumswibi pgvqyx','4187@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-06-19 00:00:00','2022-06-19 00:00:00','2022-08-04 00:00:00'),
 	 ('Vbuk J Cynphc Dmexqaqvdvsroylay klejtb','4188@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-06-20 00:00:00','2022-08-22 00:00:00',NULL),
 	 ('Rmqvt','4189@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-06-21 00:00:00','2022-06-21 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Khkarha ofuaxp bd h Gbhsgu swin','4190@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-06-22 00:00:00','2022-06-22 00:00:00',NULL),
 	 ('Dwwqc','4191@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-06-23 00:00:00','2022-10-11 00:00:00',NULL),
 	 ('Mwi Hhgida zyku bh Cnsqdjkuvojad','4192@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-06-24 00:00:00','2022-07-08 00:00:00',NULL),
@@ -4618,7 +4618,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Yujb z','4197@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-06-29 00:00:00','2022-07-23 00:00:00',NULL),
 	 ('Xdiblmsxneialtmnxsmlov u','4198@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-06-30 00:00:00','2022-06-30 00:00:00',NULL),
 	 ('Rajtbv ltpxquz  xenn Nkrrxers','4199@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-07-01 00:00:00','2022-07-01 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ytpqvv vwha','4200@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-07-02 00:00:00','2022-07-02 00:00:00',NULL),
 	 ('Nbqdbnnsjmrgcpd vhweba k','4201@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-07-03 00:00:00','2022-07-03 00:00:00',NULL),
 	 ('Oeoypnt kgd Jrjxvedbu','4202@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-07-04 00:00:00','2022-10-11 00:00:00',NULL),
@@ -4629,7 +4629,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ls Ny','4207@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-07-09 00:00:00','2024-01-04 00:00:00',NULL),
 	 ('Xvqbdu bdr vxdrvuryzhwzbtcxh','4208@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-07-10 00:00:00','2022-07-13 00:00:00',NULL),
 	 ('Udspcge o uxhexpnutt euhq qbeq','4209@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-07-11 00:00:00','2022-10-18 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ild rfrygkb','4210@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-07-12 00:00:00','2022-07-12 00:00:00',NULL),
 	 ('Ycym Ldyetozsorgncqxgukyhgleb','4211@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-07-13 00:00:00','2022-07-13 00:00:00','2022-12-02 00:00:00'),
 	 ('Onuftxoqirddpe  qnndgy Pvedm','4212@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-07-14 00:00:00','2022-08-24 00:00:00','2022-08-24 00:00:00'),
@@ -4640,7 +4640,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Unctwgwaenuxafrkxxdvlshiegkssuoosmzsxw','4217@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-07-19 00:00:00','2022-09-28 00:00:00','2024-08-01 00:00:00'),
 	 ('W wv','4218@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-07-20 00:00:00','2022-07-20 00:00:00','2024-02-02 00:00:00'),
 	 ('Eucdld wqrsdxxcild','4219@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-07-21 00:00:00','2022-07-21 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Tjiccqnssyetd Gimlgmrfd mryrmsryrf','4220@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-07-22 00:00:00','2024-06-08 00:00:00','2024-06-16 00:00:00'),
 	 ('S x ltqfo goeeone ptgyncetxrcbczliuck','4221@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-07-23 00:00:00','2022-07-30 00:00:00',NULL),
 	 ('Uzpcenvsvl Ulqfe Borjvpwsdzo','4222@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-07-24 00:00:00','2022-11-08 00:00:00',NULL),
@@ -4651,7 +4651,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ggngdamwjvyxpfcabewzsvvqhfmfwlr jsp','4227@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-07-29 00:00:00','2022-10-19 00:00:00',NULL),
 	 ('Atwnj','4228@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-07-30 00:00:00','2022-08-27 00:00:00',NULL),
 	 ('Ttrs dn','4229@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-07-31 00:00:00','2022-08-14 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Dgwmhikdjmtvjez kijf zalkojufedbw ozezvb','4230@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-08-01 00:00:00','2022-08-01 00:00:00',NULL),
 	 ('Zam slofwcwflwfqhg','4231@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-08-02 00:00:00','2022-08-02 00:00:00',NULL),
 	 ('Urhrwjtp xfv cvcf qimeh wn e','4232@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-08-03 00:00:00','2024-02-09 00:00:00','2024-04-03 00:00:00'),
@@ -4662,7 +4662,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Udz Vmlaggymkcwt wdhi','4237@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-08-08 00:00:00','2022-10-04 00:00:00',NULL),
 	 ('Duqatypdrhhdxkhmchbkifudvixzhut','4238@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-08-09 00:00:00','2023-03-25 00:00:00',NULL),
 	 ('Zo sdrwfivojinox km uvmvywnlqwrsezfphqs','4239@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-08-10 00:00:00','2022-08-17 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('X xjcklk','4240@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-08-11 00:00:00','2023-05-23 00:00:00','2024-02-05 00:00:00'),
 	 ('Vp yvovdouqqm bpq b Ocljsqgdyfqxj pn','4241@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-08-12 00:00:00','2022-09-03 00:00:00','2022-12-25 00:00:00'),
 	 ('Goimwntq cc mkqpajmwbavtkb','4242@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-08-13 00:00:00','2022-08-13 00:00:00',NULL),
@@ -4673,7 +4673,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Pxdyynbxngcpznchs','4247@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-08-18 00:00:00','2022-11-23 00:00:00',NULL),
 	 ('T Len jnswzdrfldreyxh Mexqk','4248@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-08-19 00:00:00','2022-10-23 00:00:00',NULL),
 	 ('At vzmiyqjpy qlvjqxjtm','4249@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-08-20 00:00:00','2023-10-05 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Yaqnrtqkrest mhhnofinxbk P eal','4250@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-08-21 00:00:00','2022-09-10 00:00:00',NULL),
 	 ('Zsswhhuseizv Fau myjyhveficc','4251@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-08-22 00:00:00','2022-08-24 00:00:00',NULL),
 	 ('Bwtguhn cytin rsqkbnfp Hrlqphfrfpg h','4252@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-08-23 00:00:00','2022-12-19 00:00:00',NULL),
@@ -4684,7 +4684,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Utcvhx qqz rgslktwthnwiifac','4257@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-08-28 00:00:00','2022-08-28 00:00:00',NULL),
 	 ('Hhwglcwigt jjp  rz Y pzz','4258@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-08-29 00:00:00','2023-02-01 00:00:00',NULL),
 	 ('G   dmhlgrefmed','4259@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-08-30 00:00:00','2022-09-18 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Szvesrwetmsfavtsuvym','4260@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-08-31 00:00:00','2022-11-20 00:00:00','2023-08-01 00:00:00'),
 	 ('Jvt nc qnrmbbccqydfjiq o','4261@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-09-01 00:00:00','2022-09-01 00:00:00',NULL),
 	 ('Vgrj thhbrbukb f','4262@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-09-02 00:00:00','2022-09-02 00:00:00',NULL),
@@ -4695,7 +4695,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Iiqwvykiyrjptgkausvwtkgqpn','4267@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-09-07 00:00:00','2022-09-18 00:00:00',NULL),
 	 ('I coygpceayqebeodlqa','4268@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-09-08 00:00:00','2024-07-26 00:00:00',NULL),
 	 ('Svazxmfdduwrqidtuvaedasvxaclgftxpgyui','4269@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-09-09 00:00:00','2022-09-18 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Pbusfnqxaoueeneaxfxrhwxtv','4270@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-09-10 00:00:00','2024-04-15 00:00:00',NULL),
 	 ('Lwzhiyuvh gja K vlnotmdubr  eocxteu dw','4271@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-09-11 00:00:00','2022-11-14 00:00:00',NULL),
 	 ('Dyjdacwan xa','4272@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-09-12 00:00:00','2022-09-14 00:00:00',NULL),
@@ -4706,7 +4706,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Yp bqjc','4277@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-09-17 00:00:00','2022-09-25 00:00:00',NULL),
 	 ('Mnphy z Sgcqs','4278@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-09-18 00:00:00','2022-09-29 00:00:00',NULL),
 	 ('Lrru zqhfzhcwub l lpddox','4279@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-09-19 00:00:00','2023-01-05 00:00:00','2023-01-05 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Pcdee Rzgucdvqots F cfehbplx oc y','4280@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-09-20 00:00:00','2023-08-01 00:00:00','2023-08-01 00:00:00'),
 	 ('Pvagoktywqqomauhyczq','4281@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-09-21 00:00:00','2022-09-21 00:00:00',NULL),
 	 ('Iccntfg fuwr plajxrjfuuwucbhcj t','4282@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-09-22 00:00:00','2022-10-16 00:00:00',NULL),
@@ -4717,7 +4717,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Duk z lilc lhjpeoudamxpct','4287@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-09-27 00:00:00','2022-09-27 00:00:00',NULL),
 	 ('Odgmlp zlvoepboglztlhnfycvb Hhpob r','4288@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-09-28 00:00:00','2022-10-09 00:00:00',NULL),
 	 ('Ljg p','4289@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-09-29 00:00:00','2022-12-13 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Grgnrlsolmxqcj','4290@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-09-30 00:00:00','2022-10-07 00:00:00',NULL),
 	 ('Amuqsdagc zncom','4291@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-10-01 00:00:00','2023-01-18 00:00:00','2023-04-09 00:00:00'),
 	 ('Twkuibqrjofif Dfnnqrv','4292@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-10-02 00:00:00','2022-10-25 00:00:00',NULL),
@@ -4728,7 +4728,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Syegra tl bjnzzkjhw','4297@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-10-07 00:00:00','2023-01-30 00:00:00',NULL),
 	 ('Itxtiixk','4298@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-10-08 00:00:00','2024-02-15 00:00:00',NULL),
 	 ('Htu ld','4299@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-10-09 00:00:00','2023-01-27 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('B abduekfosvsbxqbqcvqpgp','4300@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-10-10 00:00:00','2022-10-10 00:00:00',NULL),
 	 ('Lhkmjxx','4301@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-10-11 00:00:00','2023-01-01 00:00:00',NULL),
 	 ('Juk ohwsz nlbecg','4302@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-10-12 00:00:00','2023-01-10 00:00:00',NULL),
@@ -4739,7 +4739,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Gpeyhuyyykduptzbpogf','4307@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-10-17 00:00:00','2022-11-15 00:00:00','2022-11-15 00:00:00'),
 	 ('Elotigaitke F','4308@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-10-18 00:00:00','2022-10-18 00:00:00',NULL),
 	 ('Gl Vkraecmezueepx gzggikimqayl aqriah','4309@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-10-19 00:00:00','2022-10-19 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Suhnqdreacqghbjf vye gjlwbt','4310@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-10-20 00:00:00','2022-10-20 00:00:00',NULL),
 	 ('Yp vnphksiltzbw rqfycflewgeehwffhocfnf','4311@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-10-21 00:00:00','2022-12-15 00:00:00',NULL),
 	 ('Bihnmijzvchap zhhfniflemlc','4312@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-10-22 00:00:00','2022-10-22 00:00:00',NULL),
@@ -4750,7 +4750,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Vgknwsnnvx opebagacsny','4317@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-10-27 00:00:00','2022-11-25 00:00:00',NULL),
 	 ('Kj tfdoebulk ry Ywgz','4318@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-10-28 00:00:00','2022-10-28 00:00:00',NULL),
 	 ('Qw Tytefytyzgnfpvuzgodf npqpuh','4319@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-10-29 00:00:00','2022-10-29 00:00:00','2023-02-22 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Xxswb','4320@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-10-30 00:00:00','2024-01-23 00:00:00',NULL),
 	 ('Qxycdinqjh owqoy E','4321@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-10-31 00:00:00','2023-01-06 00:00:00','2023-04-26 00:00:00'),
 	 ('Prvxue','4322@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-11-01 00:00:00','2022-11-03 00:00:00',NULL),
@@ -4761,7 +4761,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Zqah','4327@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-11-06 00:00:00','2022-11-06 00:00:00',NULL),
 	 ('Vvdnoznjcsj fy','4328@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-11-07 00:00:00','2022-11-07 00:00:00',NULL),
 	 ('Nzw jrp xtobaiqqdxvzfwglvijcqxskx','4329@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-11-08 00:00:00','2023-01-31 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Bkf lzni Yth mgxnvgelphxpxysf K','4330@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-11-09 00:00:00','2022-11-09 00:00:00',NULL),
 	 ('Lmdsrs so qu muekasac seo wsc','4331@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-11-10 00:00:00','2022-11-10 00:00:00',NULL),
 	 ('Iwmezsrhwcyfi','4332@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-11-11 00:00:00','2022-11-11 00:00:00',NULL),
@@ -4772,7 +4772,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Zfhgqlwtnc xlddbwthtchejv tmxu cbvzjmei','4337@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-11-16 00:00:00','2022-11-16 00:00:00',NULL),
 	 ('Ovoqmktuy jzdxwzlitn qafpvgux wcex','4338@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-11-17 00:00:00','2022-11-17 00:00:00',NULL),
 	 ('Npphcui pcailrsdzg xhyvvullpb ckycqsx','4339@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-11-18 00:00:00','2024-07-17 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Gkmrcjgg','4340@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-11-19 00:00:00','2023-06-24 00:00:00',NULL),
 	 ('Mswlfsromliaz vuzorhcsvair','4341@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-11-20 00:00:00','2022-11-20 00:00:00',NULL),
 	 ('Ycpj qthbm','4342@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-11-21 00:00:00','2022-11-21 00:00:00','2023-05-19 00:00:00'),
@@ -4783,7 +4783,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Zcxtpyoij dp m qocsypatqbje','4347@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-11-26 00:00:00','2023-01-23 00:00:00',NULL),
 	 ('Lkzhqb fdsaa  rcevsi','4348@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-11-27 00:00:00','2024-09-13 00:00:00',NULL),
 	 ('Qpwaljk','4349@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-11-28 00:00:00','2023-03-07 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ymbcanfgykyodu','4350@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-11-29 00:00:00','2022-12-09 00:00:00',NULL),
 	 ('Tend','4351@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-11-30 00:00:00','2023-03-05 00:00:00',NULL),
 	 ('Axbvbobuz n  eszc nbo','4352@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-12-01 00:00:00','2024-01-27 00:00:00',NULL),
@@ -4794,7 +4794,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Riltz p lmxbmkzobriqzjdlli dev','4357@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-12-06 00:00:00','2023-05-20 00:00:00','2023-05-20 00:00:00'),
 	 ('Obnkcfotlu','4358@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-12-07 00:00:00','2022-12-21 00:00:00',NULL),
 	 ('C H qdkpwepdajmoc W','4359@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-12-08 00:00:00','2022-12-08 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Tbnkqbsxxicziofkpjvwkx ayf  fzzrzzxwiz','4360@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-12-09 00:00:00','2023-04-06 00:00:00',NULL),
 	 ('Lxuqvb Yyt wqvgrhtiwzwelccrtxcxcqyo','4361@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-12-10 00:00:00','2024-08-12 00:00:00',NULL),
 	 ('C pkqbnjafcvgekj','4362@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-12-11 00:00:00','2022-12-29 00:00:00',NULL),
@@ -4805,7 +4805,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Zyqp v Fud','4367@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-12-16 00:00:00','2024-05-23 00:00:00',NULL),
 	 ('M hod','4368@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-12-17 00:00:00','2023-02-11 00:00:00','2023-03-06 00:00:00'),
 	 ('Juq Hhmenixnucyb','4369@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-12-18 00:00:00','2022-12-18 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Gxf malyzi jrghykzmn','4370@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-12-19 00:00:00','2023-04-05 00:00:00',NULL),
 	 ('O auenicvttmacaepcc yv Unx','4371@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-12-20 00:00:00','2023-02-02 00:00:00',NULL),
 	 ('Ltp w t Haje hygwcr m kaemx qrigfftz','4372@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-12-21 00:00:00','2023-03-15 00:00:00','2023-04-14 00:00:00'),
@@ -4816,7 +4816,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Nxz tvlatlqqidqvlvs Xqh xmecj edwbquwdi','4377@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-12-26 00:00:00','2022-12-26 00:00:00',NULL),
 	 ('Ptjprvmpimhxzm momnqsxdpm','4378@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-12-27 00:00:00','2022-12-27 00:00:00',NULL),
 	 ('Cupbsyfliwokdhykajkspogp R','4379@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-12-28 00:00:00','2022-12-28 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ntgjcjwnhnuud ohmmxjwc','4380@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-12-29 00:00:00','2023-03-18 00:00:00',NULL),
 	 ('Ycdyhjlxhxsek  oaazhz Eb','4381@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-12-30 00:00:00','2022-12-30 00:00:00',NULL),
 	 ('Sznoxsb tjvkpdwxwwar','4382@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2022-12-31 00:00:00','2023-01-02 00:00:00',NULL),
@@ -4827,7 +4827,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Hselgjgln iqfxzjrpczuxoivbtbgyy','4387@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-01-05 00:00:00','2023-01-05 00:00:00',NULL),
 	 ('Xuefjqe Wwnhynjjjvytaptczoavq mk eqtit','4388@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-01-06 00:00:00','2023-01-06 00:00:00',NULL),
 	 ('Vlfaoz lqpqoahxjxsknxuvbmzqx hynwnkaeye','4389@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-01-07 00:00:00','2023-04-14 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Hwj iebycjvr Qn dpoaqnkyiqzbdktd','4390@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-01-08 00:00:00','2023-02-11 00:00:00',NULL),
 	 ('An  khfukh pcj fpfjitononcdjg er','4391@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-01-09 00:00:00','2023-03-20 00:00:00',NULL),
 	 ('Lrfjjszgoojuwdp obbpscn','4392@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-01-10 00:00:00','2023-02-20 00:00:00',NULL),
@@ -4838,7 +4838,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Bhih Bvpbdthr bj  oiyp  vold','4397@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-01-15 00:00:00','2024-10-08 00:00:00',NULL),
 	 ('N Rrl  zwkwubkxvpabzgv','4398@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-01-16 00:00:00','2023-01-16 00:00:00','2024-04-20 00:00:00'),
 	 ('Guamv hx Go eohm apdjlrpluchec','4399@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-01-17 00:00:00','2023-08-01 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Pxkabpms Pghnn yd','4400@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-01-18 00:00:00','2023-05-17 00:00:00','2023-05-17 00:00:00'),
 	 ('Edzjtekyje','4401@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-01-19 00:00:00','2023-01-21 00:00:00',NULL),
 	 ('Pqamtbl msic  gt gfaymtlnvpcamm','4402@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-01-20 00:00:00','2023-04-10 00:00:00',NULL),
@@ -4849,7 +4849,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Cpgxfiudsvolzkd','4407@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-01-25 00:00:00','2023-01-25 00:00:00',NULL),
 	 ('G bpmzylmdg','4408@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-01-26 00:00:00','2023-01-26 00:00:00',NULL),
 	 ('Jdulekpokyocrjl','4409@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-01-27 00:00:00','2023-01-27 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ecgeqp','4410@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-01-28 00:00:00','2023-01-28 00:00:00',NULL),
 	 ('Ayqc','4411@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-01-29 00:00:00','2023-10-16 00:00:00','2024-07-06 00:00:00'),
 	 ('Koganvshgkjacwdomei Kd htdppxxinjphldn','4412@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-01-30 00:00:00','2023-01-30 00:00:00',NULL),
@@ -4860,7 +4860,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('H Lgok p','4417@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-02-04 00:00:00','2023-03-07 00:00:00',NULL),
 	 ('R hai gzswjxjdktzlulriyqjiiyidactxg K np','4418@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-02-05 00:00:00','2023-02-05 00:00:00','2024-04-30 00:00:00'),
 	 ('Cvblkyrmnrcvp Frluyqsgqovk x nd','4419@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-02-06 00:00:00','2023-03-17 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Eo h g Qi Pxjvfcajq S','4420@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-02-07 00:00:00','2023-04-17 00:00:00',NULL),
 	 ('Fiegl hlmecnhhtg fymojvf Ycfxzxifzsev','4421@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-02-08 00:00:00','2023-02-08 00:00:00','2023-07-12 00:00:00'),
 	 ('Gz a','4422@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-02-09 00:00:00','2024-04-27 00:00:00','2024-05-12 00:00:00'),
@@ -4871,7 +4871,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Wlhbmetgukr bmj tzkodlmj smpxiaz phlac','4427@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-02-14 00:00:00','2025-01-05 00:00:00',NULL),
 	 ('Gvhwnghcka','4428@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-02-15 00:00:00','2023-02-15 00:00:00',NULL),
 	 ('Nm Rfg gzpptk koi','4429@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-02-16 00:00:00','2024-10-02 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Lobhlvhmkvbz','4430@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-02-17 00:00:00','2023-06-15 00:00:00',NULL),
 	 ('Tbixnwfysyqlprbttyubbids','4431@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-02-18 00:00:00','2024-07-08 00:00:00',NULL),
 	 ('Owxazlqkhlcuh uwfizgiyjmysc d Qjuvcv','4432@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-02-19 00:00:00','2023-03-12 00:00:00',NULL),
@@ -4882,7 +4882,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('H Akkanxyvraaqiookmkrtlfx iorpvm','4437@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-02-24 00:00:00','2023-03-15 00:00:00',NULL),
 	 ('Sh gwkrajjxry ninwhw f zcikjumzffwer y','4438@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-02-25 00:00:00','2023-02-25 00:00:00',NULL),
 	 ('Eedvl','4439@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-02-26 00:00:00','2023-06-01 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Heyxlnzbeaqqu wudsa gv h wuzdtaqnk','4440@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-02-27 00:00:00','2023-03-23 00:00:00',NULL),
 	 ('Ahnynq h mwzoba fbxolvqo','4441@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-02-28 00:00:00','2023-03-12 00:00:00','2023-03-12 00:00:00'),
 	 ('Nuqkevr svqabyuaopvwavbydgwuomuwzbkqkr','4442@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-03-01 00:00:00','2023-03-01 00:00:00',NULL),
@@ -4893,7 +4893,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Jzduvsnvfoq','4447@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-03-06 00:00:00','2023-03-26 00:00:00',NULL),
 	 ('Swkg wwuvxlprysvbpvszcucqayeoso','4448@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-03-07 00:00:00','2023-03-07 00:00:00',NULL),
 	 ('Atxwuvhudebr   ufav','4449@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-03-08 00:00:00','2023-03-08 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Gldpmxhurvuka','4450@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-03-09 00:00:00','2023-03-20 00:00:00',NULL),
 	 ('Mu ebns sleqde','4451@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-03-10 00:00:00','2023-08-28 00:00:00',NULL),
 	 ('Vvcwl','4452@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-03-11 00:00:00','2023-03-11 00:00:00',NULL),
@@ -4904,7 +4904,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Frypwn g Owcfxtnelznsqc','4457@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-03-16 00:00:00','2023-03-16 00:00:00',NULL),
 	 ('Awglymvw nrbuvgc','4458@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-03-17 00:00:00','2023-06-07 00:00:00',NULL),
 	 ('Bonvxllm','4459@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-03-18 00:00:00','2023-04-11 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Jqbxsoda Qgdazpbo cstjdzbfoigqn aocrmlez','4460@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-03-19 00:00:00','2023-05-06 00:00:00',NULL),
 	 ('Kujau hgvfjhhxosasd sgqllfnkuoof','4461@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-03-20 00:00:00','2023-06-04 00:00:00',NULL),
 	 ('Aqqsjyuqvraw rvdmlzkvrbfnfrs','4462@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-03-21 00:00:00','2023-05-01 00:00:00',NULL),
@@ -4915,7 +4915,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Yxo wsspuxe bcdgeoiads dxq Bxuawyli','4467@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-03-26 00:00:00','2023-04-25 00:00:00',NULL),
 	 ('Jzicy Ippbkoe oxytmi','4468@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-03-27 00:00:00','2023-04-10 00:00:00','2025-03-02 00:00:00'),
 	 ('Vfso kpninbnu yn Dqa','4469@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-03-28 00:00:00','2023-09-02 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Dsc z exrsba','4470@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-03-29 00:00:00','2023-04-06 00:00:00',NULL),
 	 ('Vs uocyxhi','4471@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-03-30 00:00:00','2023-04-02 00:00:00',NULL),
 	 ('Axbijksqmgzxnj','4472@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-03-31 00:00:00','2023-09-27 00:00:00',NULL),
@@ -4926,7 +4926,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Jvjjchun ehr','4477@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-04-05 00:00:00','2023-04-30 00:00:00','2023-05-24 00:00:00'),
 	 ('Ztpp e Sci ajmzdn bxbnsjxu','4478@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-04-06 00:00:00','2023-04-16 00:00:00',NULL),
 	 ('Jopgm xzbnvsjoqkcfxgihbewkfrxsqdtxx','4479@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-04-07 00:00:00','2023-04-07 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Spdbk iamicftj','4480@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-04-08 00:00:00','2023-04-10 00:00:00','2023-05-28 00:00:00'),
 	 ('Woeuqiibh S  k ktmky dmlkmu J','4481@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-04-09 00:00:00','2023-04-16 00:00:00',NULL),
 	 ('Iwogs yliq thxuiijagfuslkco r','4482@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-04-10 00:00:00','2023-04-10 00:00:00','2023-12-15 00:00:00'),
@@ -4937,7 +4937,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ozhuxmcdp','4487@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-04-15 00:00:00','2023-05-14 00:00:00','2023-06-24 00:00:00'),
 	 ('Eunvauiezvieheytifsmic','4488@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-04-16 00:00:00','2023-10-14 00:00:00',NULL),
 	 ('Zd r zqei p Z vzrfxzyhxc','4489@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-04-17 00:00:00','2024-05-25 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Yfvpv tinx','4490@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-04-18 00:00:00','2023-04-24 00:00:00',NULL),
 	 ('X eqwk','4491@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-04-19 00:00:00','2023-12-14 00:00:00',NULL),
 	 ('Dpkiq Z zrmsogzxb tay Owualszmhhm','4492@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-04-20 00:00:00','2024-04-06 00:00:00','2024-04-20 00:00:00'),
@@ -4948,7 +4948,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Jnzbggtikxwekpvjhak','4497@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-04-25 00:00:00','2023-05-11 00:00:00',NULL),
 	 ('Dgdcmeb tqyq qqbbz','4498@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-04-26 00:00:00','2024-08-11 00:00:00',NULL),
 	 ('Izefrdpaywxyfzvcb','4499@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-04-27 00:00:00','2024-10-26 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Xo okkryxwb','4500@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-04-28 00:00:00','2023-05-05 00:00:00',NULL),
 	 ('Idyczs ivljoe wail','4501@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-04-29 00:00:00','2023-04-29 00:00:00',NULL),
 	 ('Pvwteioqwjr','4502@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-04-30 00:00:00','2024-05-23 00:00:00','2025-08-22 00:00:00'),
@@ -4959,7 +4959,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Hxpfpzbsaxprmx zxnqmev','4507@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-05-05 00:00:00','2024-11-21 00:00:00',NULL),
 	 ('Bfb ovq agymyzb nrhrdxx   lyhrkz','4508@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-05-06 00:00:00','2023-08-30 00:00:00',NULL),
 	 ('Bw Mstuzb qmtonihemv bz w a bqh w','4509@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-05-07 00:00:00','2023-08-19 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Dvxnbnuppicvpif kxp rolm Vunhu','4510@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-05-08 00:00:00','2023-07-14 00:00:00','2023-07-14 00:00:00'),
 	 ('Eea wgino','4511@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-05-09 00:00:00','2023-08-19 00:00:00',NULL),
 	 ('Jwomglbnkex ub onpbfprkc yzz iltpnjxpag','4512@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-05-10 00:00:00','2023-07-07 00:00:00','2023-07-07 00:00:00'),
@@ -4970,7 +4970,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Lbs pnpcqqu jdvxoef Ufxrltbowr','4517@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-05-15 00:00:00','2023-08-27 00:00:00','2023-11-22 00:00:00'),
 	 ('Spgsjhnh Tltvkfcfk owlcf w','4518@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-05-16 00:00:00','2023-08-12 00:00:00',NULL),
 	 ('Snnauuakvjy ql zv xqplyzw','4519@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-05-17 00:00:00','2024-12-25 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Exy f Ckovoedlm jgkawvfhdk Sknnsr qzr','4520@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-05-18 00:00:00','2023-05-18 00:00:00',NULL),
 	 ('Odobfbnyriy  ljs','4521@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-05-19 00:00:00','2024-10-23 00:00:00',NULL),
 	 ('Lx Qszeu  yaavrbewjucodpnflkyzfh','4522@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-05-20 00:00:00','2023-08-17 00:00:00','2024-02-12 00:00:00'),
@@ -4981,7 +4981,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Orplfuroguwpvtoex xh katosylcptxe','4527@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-05-25 00:00:00','2023-05-29 00:00:00',NULL),
 	 ('Zxuneamqzcspz w ylgeyqwdfwsvoyrhi my','4528@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-05-26 00:00:00','2023-08-11 00:00:00','2023-08-11 00:00:00'),
 	 ('Gjlmr','4529@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-05-27 00:00:00','2023-06-12 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Upgj Cxrwq pfe pw','4530@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-05-28 00:00:00','2023-06-26 00:00:00',NULL),
 	 ('Tdpzcqlcoqqes  sxicx','4531@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-05-29 00:00:00','2023-05-29 00:00:00',NULL),
 	 ('Nb  ukvpevl qmlmq','4532@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-05-30 00:00:00','2023-06-02 00:00:00',NULL),
@@ -4992,7 +4992,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Egfidvsqwbh t','4537@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-06-04 00:00:00','2024-06-22 00:00:00',NULL),
 	 ('Pqrbjyoqreqyptx','4538@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-06-05 00:00:00','2024-06-23 00:00:00',NULL),
 	 ('Zicyi sak Ipjpnzefkdjhho jgsnpyjluj','4539@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-06-06 00:00:00','2023-07-16 00:00:00','2023-07-22 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Skwn orwdojjdekkwnwqdseu dkkwuvyc','4540@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-06-07 00:00:00','2023-07-01 00:00:00',NULL),
 	 ('Dhkcq Gxwzaxbhxfjbgud','4541@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-06-08 00:00:00','2023-06-08 00:00:00',NULL),
 	 ('Brgw','4542@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-06-09 00:00:00','2024-06-30 00:00:00',NULL),
@@ -5003,7 +5003,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ivn rxpi','4547@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-06-14 00:00:00','2024-07-30 00:00:00',NULL),
 	 ('Kk pgd cebhxxc s','4548@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-06-15 00:00:00','2023-09-03 00:00:00',NULL),
 	 ('Rcdkf  nz hyeyenxw u  ojokwq','4549@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-06-16 00:00:00','2023-06-16 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Kjswvf qoqcvpudghf evm  rhnzajh','4550@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-06-17 00:00:00','2023-06-17 00:00:00',NULL),
 	 ('Nxjgnq hsfi Tmecgd','4551@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-06-18 00:00:00','2024-10-08 00:00:00',NULL),
 	 ('Cgs b','4552@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-06-19 00:00:00','2023-12-01 00:00:00',NULL),
@@ -5014,7 +5014,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Opabcr wpkiuioa t','4557@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-06-24 00:00:00','2024-08-07 00:00:00',NULL),
 	 ('Fagc Vodpzkclvawzdqrpdr dhl Ey Scnbzzxve','4558@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-06-25 00:00:00','2023-07-21 00:00:00',NULL),
 	 ('Sm Jxsnwfumwvuticwklufk','4559@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-06-26 00:00:00','2023-07-02 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('B upqzkrvoklsms f  gtndvk','4560@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-06-27 00:00:00','2023-06-27 00:00:00',NULL),
 	 ('L yz   bqohxdwmt ezmrpekpwlk','4561@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-06-28 00:00:00','2023-08-27 00:00:00','2023-08-29 00:00:00'),
 	 ('Ieowmtmp tf vkinmegi Kbqqsj xj jncue','4562@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-06-29 00:00:00','2023-06-29 00:00:00',NULL),
@@ -5025,7 +5025,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Lynwvkn  zsunwrwryyji t g','4567@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-07-04 00:00:00','2023-07-16 00:00:00',NULL),
 	 ('Npdprjc zcs  lpizjevroeeanl qp Fd','4568@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-07-05 00:00:00','2023-07-18 00:00:00',NULL),
 	 ('Snovnpatcb naesspbro','4569@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-07-06 00:00:00','2023-07-06 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ounpyvvnhdfqwojifxs ukueuualf Ggut','4570@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-07-07 00:00:00','2023-10-23 00:00:00',NULL),
 	 ('Pekm fbsnwwdsjbm rxqvzysmvoa jdfwzvv gi','4571@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-07-08 00:00:00','2023-07-08 00:00:00',NULL),
 	 ('Zemfbj','4572@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-07-09 00:00:00','2023-07-09 00:00:00',NULL),
@@ -5036,7 +5036,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Oogjnwbl k sifraboufipcr','4577@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-07-14 00:00:00','2023-12-14 00:00:00',NULL),
 	 ('Exam qbqmfkm Ar fgwxniuj dotska f Am','4578@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-07-15 00:00:00','2023-07-31 00:00:00',NULL),
 	 ('Wmdeeepormfoiqgnaycrxhwo jpf w','4579@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-07-16 00:00:00','2023-08-10 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Yevbdmnnwksnfavvgbpilmf','4580@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-07-17 00:00:00','2023-08-12 00:00:00',NULL),
 	 ('Aushhpaeffigpco','4581@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-07-18 00:00:00','2023-07-24 00:00:00',NULL),
 	 ('Opsyny itea','4582@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-07-19 00:00:00','2025-05-25 00:00:00',NULL),
@@ -5047,7 +5047,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Goql sxbnsxsyzzcmh','4587@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-07-24 00:00:00','2023-07-24 00:00:00',NULL),
 	 ('Oyrbjgnavgphuudmoednrsqso','4588@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-07-25 00:00:00','2023-08-20 00:00:00',NULL),
 	 ('Bypvioiti ncv qggoedtgzflfbctka Yldsoetw','4589@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-07-26 00:00:00','2023-08-13 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Vtrzkkjllfx','4590@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-07-27 00:00:00','2023-08-04 00:00:00',NULL),
 	 ('Ngncohnjmyvfzoqc tfqj mmuwujnx','4591@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-07-28 00:00:00','2023-08-08 00:00:00',NULL),
 	 ('Jeckixinqmnz fvawcvnucovzknwrcnfmptc','4592@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-07-29 00:00:00','2023-07-29 00:00:00',NULL),
@@ -5058,7 +5058,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Zzhhoqaohfaqnaknhmcsfw','4597@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-08-03 00:00:00','2023-08-16 00:00:00',NULL),
 	 ('Zkbtg','4598@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-08-04 00:00:00','2024-09-07 00:00:00',NULL),
 	 ('Pdjvcqsni ndrsl a tkk','4599@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-08-05 00:00:00','2023-11-12 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ydmpeirxavwvtcjktj j knoqpdmmorphlly','4600@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-08-06 00:00:00','2024-04-21 00:00:00',NULL),
 	 ('Q eddnzyvhgcdqh','4601@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-08-07 00:00:00','2024-02-01 00:00:00',NULL),
 	 ('Bloyl rhebrhouuffqxcmvqswcrrcuhfkvpqwr','4602@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-08-08 00:00:00','2023-08-18 00:00:00',NULL),
@@ -5069,7 +5069,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Drmkbjyk','4607@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-08-13 00:00:00','2023-09-17 00:00:00',NULL),
 	 ('Uz Yhjmhuw jscfs','4608@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-08-14 00:00:00','2023-08-14 00:00:00','2023-08-14 00:00:00'),
 	 ('Eokyrls myavis uxchq blgvjrfopi','4609@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-08-15 00:00:00','2023-11-15 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Mtpcam','4610@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-08-16 00:00:00','2023-10-15 00:00:00',NULL),
 	 ('Bmm np ipdomte qwnmdbehvvhikkyqc','4611@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-08-17 00:00:00','2024-07-09 00:00:00',NULL),
 	 ('Akqwqph','4612@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-08-18 00:00:00','2023-11-08 00:00:00',NULL),
@@ -5080,7 +5080,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Vihc Hkog','4617@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-08-23 00:00:00','2024-05-11 00:00:00',NULL),
 	 ('O Kwewraxsyfsyzbydczvtvwiupmsotc','4618@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-08-24 00:00:00','2023-10-23 00:00:00',NULL),
 	 ('Kscgksrmuoh  rvb sh','4619@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-08-25 00:00:00','2023-09-11 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Yczvev Elkzcnfdonctjph N ncgov','4620@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-08-26 00:00:00','2023-09-03 00:00:00',NULL),
 	 ('Bs ex','4621@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-08-27 00:00:00','2023-08-27 00:00:00','2023-09-08 00:00:00'),
 	 ('Eszxlzvud','4622@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-08-28 00:00:00','2023-08-28 00:00:00',NULL),
@@ -5091,7 +5091,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Revhoh Qnxzyxqxcnlbzpx advdqceoxq','4627@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-09-02 00:00:00','2023-09-02 00:00:00',NULL),
 	 ('Ugt twezijclrjbrfz ajjfanb','4628@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-09-03 00:00:00','2023-11-10 00:00:00',NULL),
 	 ('Ot nfqscl p Yxugyxzz','4629@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-09-04 00:00:00','2023-11-07 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Llucvmnc uhpilwwopuvvzpkthbzfvqihzeqr','4630@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-09-05 00:00:00','2023-12-29 00:00:00',NULL),
 	 ('Ozvf ymrodqfwayyt  eahycuwmdqdltul Zby','4631@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-09-06 00:00:00','2023-10-02 00:00:00',NULL),
 	 ('Owbz','4632@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-09-07 00:00:00','2024-05-25 00:00:00',NULL),
@@ -5102,7 +5102,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Eepr azwxhv w vvbqwlny ezawjygyri rqf','4637@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-09-12 00:00:00','2023-12-26 00:00:00',NULL),
 	 ('Bw Isx','4638@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-09-13 00:00:00','2023-10-08 00:00:00','2023-10-08 00:00:00'),
 	 ('Vyehzltnnzhkho yyxccnmmgd Vsve','4639@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-09-14 00:00:00','2023-09-14 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Glydnaozl','4640@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-09-15 00:00:00','2023-09-15 00:00:00',NULL),
 	 ('Aeugyyivtirxhtbceug','4641@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-09-16 00:00:00','2023-10-14 00:00:00',NULL),
 	 ('Hdzoexdgaqlfrwftd Zgux  py','4642@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-09-17 00:00:00','2024-01-27 00:00:00',NULL),
@@ -5113,7 +5113,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Dddrdya','4647@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-09-22 00:00:00','2023-12-05 00:00:00',NULL),
 	 ('Vogaicxefz','4648@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-09-23 00:00:00','2024-08-24 00:00:00',NULL),
 	 ('Ripqpudrtm gn Hlvx lmevaoiyawmaeu p','4649@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-09-24 00:00:00','2023-10-13 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Arddl','4650@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-09-25 00:00:00','2024-04-16 00:00:00',NULL),
 	 ('Wvssksozjecdmhg','4651@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-09-26 00:00:00','2023-10-24 00:00:00','2023-10-24 00:00:00'),
 	 ('Nrtpkcmo Cmfsbdwtapdg  itcw','4652@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-09-27 00:00:00','2023-09-27 00:00:00',NULL),
@@ -5124,7 +5124,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Cqzjzojutqvafrvtf qcbi ase','4657@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-10-02 00:00:00','2025-04-25 00:00:00',NULL),
 	 ('Rzdna v','4658@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-10-03 00:00:00','2024-03-23 00:00:00',NULL),
 	 ('Az exqbgntvjllatunqnamdv','4659@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-10-04 00:00:00','2023-10-04 00:00:00','2023-11-15 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Wvvvj Qngzodchybii bqkg','4660@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-10-05 00:00:00','2023-12-18 00:00:00','2023-12-18 00:00:00'),
 	 ('Hptgeyvspiypfkvckpdhtkpgxc n','4661@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-10-06 00:00:00','2023-12-26 00:00:00',NULL),
 	 ('Llnjseyyqa shnwpytvr','4662@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-10-07 00:00:00','2023-10-12 00:00:00',NULL),
@@ -5135,7 +5135,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ksqgczhp wltgkakfjdzhemcxooaapkcjzf','4667@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-10-12 00:00:00','2023-12-05 00:00:00',NULL),
 	 ('Agyjzudvwc ke Wisctg ngli','4668@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-10-13 00:00:00','2024-01-05 00:00:00','2024-01-05 00:00:00'),
 	 ('Hxwtcwmdcaelazmytwljhvtwkojswzttn','4669@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-10-14 00:00:00','2024-05-16 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Vl idj qwnvfifedhrdzufx','4670@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-10-15 00:00:00','2023-10-15 00:00:00',NULL),
 	 ('Fzmnskynt tipblb fk fh','4671@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-10-16 00:00:00','2025-04-24 00:00:00',NULL),
 	 ('Vjsb ugeyaucvqojg v','4672@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-10-17 00:00:00','2024-05-03 00:00:00',NULL),
@@ -5146,7 +5146,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Uhma  owipqursraoik wjcrazoovizc G','4677@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-10-22 00:00:00','2023-11-07 00:00:00',NULL),
 	 ('Dspu Fjo k','4678@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-10-23 00:00:00','2024-05-04 00:00:00',NULL),
 	 ('Yw   rldfvrgt','4679@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-10-24 00:00:00','2024-02-21 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Y qkva','4680@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-10-25 00:00:00','2025-01-22 00:00:00',NULL),
 	 ('Ihvjnvvzpcettdywkmikumdbq onijrvf','4681@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-10-26 00:00:00','2025-08-15 00:00:00',NULL),
 	 ('Dfgoqifcmbpvdsgntz','4682@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-10-27 00:00:00','2023-10-27 00:00:00','2023-10-27 00:00:00'),
@@ -5157,7 +5157,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Rtmzwtkqq','4687@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-11-01 00:00:00','2023-11-01 00:00:00','2024-03-14 00:00:00'),
 	 ('Rcn Dck d bjxvrchbm','4688@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-11-02 00:00:00','2024-01-21 00:00:00',NULL),
 	 ('Wul j Lnutxmflauwofpzaqcpoa','4689@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-11-03 00:00:00','2025-07-31 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Xit iffae ajhaflt wby vywe yim','4690@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-11-04 00:00:00','2024-03-03 00:00:00','2024-03-03 00:00:00'),
 	 ('Lmwdqqzuuq wncpvmd liqnzmrfpk','4691@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-11-05 00:00:00','2023-11-12 00:00:00',NULL),
 	 ('Jqoljis','4692@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-11-06 00:00:00','2023-12-02 00:00:00',NULL),
@@ -5168,7 +5168,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Irg neuqribwvuuqvs rhfwr','4697@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-11-11 00:00:00','2025-05-08 00:00:00',NULL),
 	 ('Pzswjendxfcxbvltdysskdk','4698@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-11-12 00:00:00','2025-06-26 00:00:00',NULL),
 	 ('Ilzgjcoz B','4699@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-11-13 00:00:00','2023-11-18 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Vqjpvqseixf cbge fowqqnwrjmcrfuu','4700@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-11-14 00:00:00','2023-11-14 00:00:00',NULL),
 	 ('Arqldbrpd jsjlvpr dbyuhnnbqmvomppofdn','4701@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-11-15 00:00:00','2024-01-05 00:00:00',NULL),
 	 ('Mjl isuzsdsxu','4702@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-11-16 00:00:00','2023-11-16 00:00:00',NULL),
@@ -5179,7 +5179,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Oltxif Odliu vzlcym t','4707@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-11-21 00:00:00','2023-11-21 00:00:00',NULL),
 	 ('Gfndozytqiysm Vcphysexq','4708@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-11-22 00:00:00','2023-11-22 00:00:00',NULL),
 	 ('Cvyqqzz','4709@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-11-23 00:00:00','2024-01-31 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Rkiwziwce q','4710@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-11-24 00:00:00','2023-11-24 00:00:00',NULL),
 	 ('Zmuk eaasje msiw sn qgfqeyg','4711@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-11-25 00:00:00','2023-11-25 00:00:00',NULL),
 	 ('Uzymzknrwb','4712@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-11-26 00:00:00','2023-11-29 00:00:00',NULL),
@@ -5190,7 +5190,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Qr viv  dj djsy','4717@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-12-01 00:00:00','2023-12-01 00:00:00',NULL),
 	 ('Ivokvpectmgumhjnsi wreicglq um Rjdwyd','4718@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-12-02 00:00:00','2024-03-09 00:00:00',NULL),
 	 ('Qt Oy p n kdmcfjl plzqxzhyz','4719@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-12-03 00:00:00','2023-12-03 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Rvdzy qx','4720@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-12-04 00:00:00','2023-12-25 00:00:00',NULL),
 	 ('Drqkaxtanwlqkzzjapryei Dbicbcvspy c','4721@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-12-05 00:00:00','2023-12-16 00:00:00',NULL),
 	 ('Ljwde zagztpazgouomnasgymaz','4722@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-12-06 00:00:00','2024-10-04 00:00:00','2024-12-15 00:00:00'),
@@ -5201,7 +5201,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ptgfn sxnwg Jhb ljlidjp  zxd','4727@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-12-11 00:00:00','2023-12-11 00:00:00',NULL),
 	 ('Nrtmhyasolymbleco','4728@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-12-12 00:00:00','2023-12-12 00:00:00',NULL),
 	 ('Rlhg raovanpdxlasrr','4729@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-12-13 00:00:00','2023-12-13 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Hdcgmt mepqc lsrwvxuaiyskahbpwe fds','4730@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-12-14 00:00:00','2023-12-14 00:00:00',NULL),
 	 ('Ryynnbs gvtievspoj ylhvltbbobtsaiw','4731@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-12-15 00:00:00','2024-01-25 00:00:00','2024-10-24 00:00:00'),
 	 ('As dmweyou nzps ccc Rwrhm nk','4732@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-12-16 00:00:00','2024-03-17 00:00:00',NULL),
@@ -5212,7 +5212,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ktqb treyh khwvpl bnqp rm','4737@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-12-21 00:00:00','2025-10-31 00:00:00',NULL),
 	 ('Ym lgrd uhquangc ce xl','4738@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-12-22 00:00:00','2025-03-19 00:00:00',NULL),
 	 ('Qubunsdfvdffmegykopq ni','4739@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-12-23 00:00:00','2023-12-27 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Qvmsvo cumf kdvbukoaoxdwpchfyntkbyhhaqy','4740@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-12-24 00:00:00','2024-03-22 00:00:00',NULL),
 	 ('Qaknsthy rkqsbifjqszvvthpfpcsa','4741@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-12-25 00:00:00','2023-12-25 00:00:00',NULL),
 	 ('M Lycrrepbed dof zeintukhnwpivh Iz','4742@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-12-26 00:00:00','2024-01-25 00:00:00',NULL),
@@ -5223,7 +5223,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Xqm Gi op zpvulbnw','4747@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2023-12-31 00:00:00','2024-01-22 00:00:00',NULL),
 	 ('Zz   btamjo nb','4748@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-01-01 00:00:00','2024-01-01 00:00:00',NULL),
 	 ('Xlnn','4749@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-01-02 00:00:00','2024-08-04 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Jxamkdrj','4750@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-01-03 00:00:00','2024-01-09 00:00:00','2024-04-17 00:00:00'),
 	 ('P vhwqoxbop kz rsypbbjgncig b','4751@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-01-04 00:00:00','2024-04-29 00:00:00',NULL),
 	 ('Vcxm','4752@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-01-05 00:00:00','2024-02-05 00:00:00',NULL),
@@ -5234,7 +5234,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Tpa udfzi','4757@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-01-10 00:00:00','2024-04-25 00:00:00',NULL),
 	 ('Rqp kfjth','4758@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-01-11 00:00:00','2024-03-16 00:00:00',NULL),
 	 ('Ger zuicoigevssabusc xjppvohg Wsk','4759@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-01-12 00:00:00','2024-12-27 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Xfuasxvfew ramrizorxd Gjdrgajetw','4760@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-01-13 00:00:00','2024-03-01 00:00:00',NULL),
 	 ('Ywzfsuglcofdgabyofejiofonhkyicwretts','4761@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-01-14 00:00:00','2024-02-16 00:00:00',NULL),
 	 ('Uhpcmjomunkk b oqckyh','4762@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-01-15 00:00:00','2025-04-06 00:00:00',NULL),
@@ -5245,7 +5245,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Lfviurgcgdwc v','4767@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-01-20 00:00:00','2024-09-20 00:00:00',NULL),
 	 ('Pggscspc Sawnsmud inhycgy zrkty ha','4768@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-01-21 00:00:00','2024-01-21 00:00:00',NULL),
 	 ('Kjcu esj mdgtup rcwaheebcfwolx','4769@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-01-22 00:00:00','2024-02-15 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Y eqwlwzp','4770@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-01-23 00:00:00','2024-01-23 00:00:00',NULL),
 	 ('Xqqbjth','4771@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-01-24 00:00:00','2024-03-31 00:00:00','2024-05-19 00:00:00'),
 	 ('Yfimft Tym hekvwaabdqjmis awwzrjeaq','4772@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-01-25 00:00:00','2024-03-05 00:00:00',NULL),
@@ -5256,7 +5256,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('O pclym Xq','4777@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-01-30 00:00:00','2024-01-30 00:00:00',NULL),
 	 ('Ibiahaw abgkglbdufx bxg doac dyc tyqlgh','4778@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-01-31 00:00:00','2024-01-31 00:00:00',NULL),
 	 ('Dsndtojgigkyredrgby','4779@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-02-01 00:00:00','2024-05-01 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Flcjxm uhodcrmwd jpdjnccgg Nq','4780@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-02-02 00:00:00','2024-02-13 00:00:00',NULL),
 	 ('Tfeccxd tmycuze sv Etw','4781@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-02-03 00:00:00','2024-04-07 00:00:00',NULL),
 	 ('Wzqqp   h w j cvfjsmdwiovd egeekuvjygd','4782@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-02-04 00:00:00','2024-06-28 00:00:00',NULL),
@@ -5267,7 +5267,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Govptzay','4787@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-02-09 00:00:00','2024-02-09 00:00:00',NULL),
 	 ('Qyjmogkbmeclsnjqn wr nsiwpmrgnffqekg c','4788@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-02-10 00:00:00','2024-02-10 00:00:00',NULL),
 	 ('Zd igcc','4789@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-02-11 00:00:00','2024-02-19 00:00:00','2024-02-19 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Tgijgzq gwzdxhqldafxmfys b lcf zd','4790@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-02-12 00:00:00','2025-08-25 00:00:00',NULL),
 	 ('Hvjrufknw','4791@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-02-13 00:00:00','2024-02-22 00:00:00',NULL),
 	 ('R As etnrhsdshgjshd','4792@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-02-14 00:00:00','2025-11-15 00:00:00',NULL),
@@ -5278,7 +5278,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ju skm Qwvoqolcljidupk','4797@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-02-19 00:00:00','2024-03-19 00:00:00',NULL),
 	 ('Zoadkwuumsyp dqesyzbvzbspcykswh','4798@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-02-20 00:00:00','2024-02-20 00:00:00',NULL),
 	 ('Qjsdsv ynnorj j','4799@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-02-21 00:00:00','2024-06-12 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Esybrwgbrw','4800@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-02-22 00:00:00','2025-01-24 00:00:00',NULL),
 	 ('Ca nl dgqqmqlpjh','4801@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-02-23 00:00:00','2024-02-23 00:00:00','2024-02-23 00:00:00'),
 	 ('Fzjzsamskw','4802@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-02-24 00:00:00','2024-03-05 00:00:00',NULL),
@@ -5289,7 +5289,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Uyhvyr jgqftkxhu Dizesau jsgmzi fol','4807@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-02-29 00:00:00','2025-03-08 00:00:00',NULL),
 	 ('Gx ynctdegqmgbj zdxakpql Em','4808@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-03-01 00:00:00','2024-03-01 00:00:00',NULL),
 	 ('Fubaqrtneomexjz','4809@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-03-02 00:00:00','2024-04-22 00:00:00','2024-04-28 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Tbd qqrskm yxpxiqeuguw ihggxgwjdb','4810@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-03-03 00:00:00','2024-03-03 00:00:00',NULL),
 	 ('Mooiiuaovto','4811@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-03-04 00:00:00','2024-03-06 00:00:00',NULL),
 	 ('Wq vnfpjespga','4812@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-03-05 00:00:00','2024-04-24 00:00:00',NULL),
@@ -5300,7 +5300,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Nuqad zvs vtxrpgx xoijhzall yclt x','4817@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-03-10 00:00:00','2024-03-27 00:00:00',NULL),
 	 ('Fctg sn','4818@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-03-11 00:00:00','2024-03-11 00:00:00',NULL),
 	 ('Omqi b gi cm xuhggh','4819@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-03-12 00:00:00','2024-03-12 00:00:00','2024-03-12 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Nfzsqg','4820@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-03-13 00:00:00','2025-07-31 00:00:00',NULL),
 	 ('Sciefgrmurfn mck','4821@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-03-14 00:00:00','2024-03-14 00:00:00','2025-03-30 00:00:00'),
 	 ('Jggfuesn tpsjaadutuhf xbtm qrsdwvzanoe','4822@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-03-15 00:00:00','2024-03-15 00:00:00',NULL),
@@ -5311,7 +5311,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Bisdaxubfv riyd','4827@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-03-20 00:00:00','2024-03-20 00:00:00',NULL),
 	 ('Ncb','4828@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-03-21 00:00:00','2025-06-04 00:00:00',NULL),
 	 ('Tkgsco','4829@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-03-22 00:00:00','2024-07-02 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Ywslvlwnsjrq oyn nrggao idemtbot','4830@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-03-23 00:00:00','2024-05-31 00:00:00',NULL),
 	 ('Hdczxxckoe dwsyphdmqbiwjra','4831@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-03-24 00:00:00','2024-03-24 00:00:00',NULL),
 	 ('Pxlllphomojopfmqpkwjgpk','4832@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-03-25 00:00:00','2024-03-25 00:00:00','2024-03-25 00:00:00'),
@@ -5322,7 +5322,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Yvwbkxmnyaq','4837@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-03-30 00:00:00','2024-03-30 00:00:00',NULL),
 	 ('Bjbnh znj','4838@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-03-31 00:00:00','2024-03-31 00:00:00',NULL),
 	 ('Tjyzpkiowjjwk','4839@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-04-01 00:00:00','2026-01-31 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Kzzezb azkrkyaiqrvjznbtjqzhfjzv','4840@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-04-02 00:00:00','2024-06-12 00:00:00',NULL),
 	 ('Ashsywrobctngtaz  nmv js l','4841@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-04-03 00:00:00','2024-04-20 00:00:00',NULL),
 	 ('Uwddksj E lgltvhp kspc','4842@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-04-04 00:00:00','2025-08-25 00:00:00','2025-09-22 00:00:00'),
@@ -5333,7 +5333,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Divquvd zcf yniybp p','4847@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-04-09 00:00:00','2024-05-22 00:00:00',NULL),
 	 ('Kmfqfqsobskmwrtx  agtnshfjp','4848@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-04-10 00:00:00','2024-08-06 00:00:00',NULL),
 	 ('Ihic','4849@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-04-11 00:00:00','2024-04-12 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Vkqhijqjvqxs','4850@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-04-12 00:00:00','2024-04-13 00:00:00',NULL),
 	 ('Fejvqtkcjayynfdhzqoh mbn','4851@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-04-13 00:00:00','2025-03-06 00:00:00',NULL),
 	 ('Lrejbs','4852@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-04-14 00:00:00','2024-08-28 00:00:00',NULL),
@@ -5344,7 +5344,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Eyilgisza cafhavtpyqybuqpy','4857@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-04-19 00:00:00','2026-01-07 00:00:00',NULL),
 	 ('Tgcjq','4858@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-04-20 00:00:00','2024-04-28 00:00:00',NULL),
 	 ('Kunklpendjbpzysidkxf ftwnjuvz','4859@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-04-21 00:00:00','2024-11-07 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('C ubbleooijr','4860@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-04-22 00:00:00','2025-04-23 00:00:00','2026-09-11 00:00:00'),
 	 ('Mnqnul','4861@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-04-23 00:00:00','2024-07-18 00:00:00','2024-10-26 00:00:00'),
 	 ('Lpijvnzfkwickhtugvxqbdptvka','4862@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-04-24 00:00:00','2024-05-19 00:00:00',NULL),
@@ -5355,7 +5355,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Zulvkjr Pvm ze caplnw','4867@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-04-29 00:00:00','2025-06-08 00:00:00',NULL),
 	 ('Csggrgbgtdiyax qd S','4868@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-04-30 00:00:00','2025-07-19 00:00:00',NULL),
 	 ('Pmxdswsajwpajyiercoer  urf Nsxf','4869@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-05-01 00:00:00','2024-05-01 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Zzxucdrbxbxlyybwipxyhm','4870@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-05-02 00:00:00','2024-05-06 00:00:00',NULL),
 	 ('Sydblxjtf','4871@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-05-03 00:00:00','2024-06-02 00:00:00',NULL),
 	 ('Vxhbpwlzfubl fglkyjsbfz','4872@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-05-04 00:00:00','2024-05-04 00:00:00',NULL),
@@ -5366,7 +5366,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Jqx  yu H','4877@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-05-09 00:00:00','2025-01-03 00:00:00',NULL),
 	 ('Yg F','4878@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-05-10 00:00:00','2025-01-03 00:00:00',NULL),
 	 ('Y uenznetqdg gbtcdkklzyab','4879@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-05-11 00:00:00','2024-07-29 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Oipm Zc','4880@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-05-12 00:00:00','2024-05-26 00:00:00',NULL),
 	 ('Ziwasb','4881@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-05-13 00:00:00','2024-05-13 00:00:00',NULL),
 	 ('Ue g Lzwuvexdaj rvkirhbnwivwbzkre','4882@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-05-14 00:00:00','2024-05-14 00:00:00',NULL),
@@ -5377,7 +5377,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Jixqktwce','4887@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-05-19 00:00:00','2024-05-29 00:00:00',NULL),
 	 ('Bcexiq','4888@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-05-20 00:00:00','2025-04-07 00:00:00','2025-04-27 00:00:00'),
 	 ('Fkyeuhtsmnff fyr','4889@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-05-21 00:00:00','2024-05-21 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Khjrqg zprbzjbeds','4890@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-05-22 00:00:00','2024-09-18 00:00:00',NULL),
 	 ('Xqixofx sm ybrk','4891@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-05-23 00:00:00','2024-06-09 00:00:00',NULL),
 	 ('Ocznoljvknd jcuabmwoz','4892@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-05-24 00:00:00','2024-05-24 00:00:00',NULL),
@@ -5388,7 +5388,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Wx jgizlf jtcxjdlxmmylxxtktbbelc oddxppq','4897@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-05-29 00:00:00','2024-08-24 00:00:00',NULL),
 	 ('Endpo ya pkkegbvgjizk','4898@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-05-30 00:00:00','2024-05-30 00:00:00',NULL),
 	 ('S fc suagjsife','4899@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-05-31 00:00:00','2025-03-06 00:00:00','2025-04-04 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Hcidrcetld','4900@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-06-01 00:00:00','2025-06-07 00:00:00',NULL),
 	 ('Ksxlmthawascua obwcmszwgt','4901@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-06-02 00:00:00','2024-06-07 00:00:00',NULL),
 	 ('Yxdfwfotnkupb','4902@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-06-03 00:00:00','2024-06-03 00:00:00',NULL),
@@ -5399,7 +5399,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Wmjegvfurhdqgdjhjunpdbr','4907@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-06-08 00:00:00','2024-07-05 00:00:00',NULL),
 	 ('Ieckn i t Heuvzmedwmxffhgi xfmj','4908@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-06-09 00:00:00','2024-06-09 00:00:00',NULL),
 	 ('Wocaypkvyvypnmtgcv ownxgoztj bi Inu iz','4909@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-06-10 00:00:00','2024-06-13 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('T Pus','4910@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-06-11 00:00:00','2024-06-11 00:00:00','2024-06-24 00:00:00'),
 	 ('Knrgqvgn c bg iytycfagmnuuimoiu Bnxlmcmf','4911@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-06-12 00:00:00','2024-06-12 00:00:00','2024-06-12 00:00:00'),
 	 ('Vl e z','4912@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-06-13 00:00:00','2026-03-09 00:00:00',NULL),
@@ -5410,7 +5410,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ohr rl Rs','4917@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-06-18 00:00:00','2024-07-13 00:00:00','2024-09-03 00:00:00'),
 	 ('Umd fkui','4918@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-06-19 00:00:00','2024-07-12 00:00:00',NULL),
 	 ('Wgiynqjdmkd xjwghacljljdx cvbfcltzrzagk','4919@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-06-20 00:00:00','2024-06-20 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Revvugmguzhmgoyv watakmflqchzanwvcpry','4920@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-06-21 00:00:00','2024-09-03 00:00:00',NULL),
 	 ('Gan vkfyqosk v yjwmzu hwhuaefvf o','4921@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-06-22 00:00:00','2025-09-27 00:00:00',NULL),
 	 ('Ubfdhuf o','4922@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-06-23 00:00:00','2024-09-07 00:00:00',NULL),
@@ -5421,7 +5421,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Srrav yfzycm vu lmgvwciiimen plxfnz qb','4927@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-06-28 00:00:00','2025-04-28 00:00:00','2027-03-08 00:00:00'),
 	 ('A tkd qxhzpxsvignfekjyyxadkywwzom','4928@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-06-29 00:00:00','2024-09-24 00:00:00',NULL),
 	 ('M ywrpryuxnuye','4929@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-06-30 00:00:00','2025-11-02 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Txrkuqv ebjgrfi hponhltsyljjmopv','4930@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-07-01 00:00:00','2025-06-27 00:00:00',NULL),
 	 ('Lohbifvwdp','4931@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-07-02 00:00:00','2024-07-30 00:00:00',NULL),
 	 ('Ydhjdzx','4932@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-07-03 00:00:00','2025-03-31 00:00:00',NULL),
@@ -5432,7 +5432,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Iw ivcxxyl emfbtphklniqjwetem','4937@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-07-08 00:00:00','2024-10-23 00:00:00',NULL),
 	 ('Gfzfqzhleoypfszhotippkjuux eblulumgm Tlu','4938@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-07-09 00:00:00','2024-07-23 00:00:00',NULL),
 	 ('Vv jj','4939@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-07-10 00:00:00','2024-08-03 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Maelw xqqiknxexgyqqqxkg Eztrchhprv   le','4940@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-07-11 00:00:00','2024-08-04 00:00:00',NULL),
 	 ('Wow mb  nvade nhz ra','4941@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-07-12 00:00:00','2025-01-18 00:00:00',NULL),
 	 ('Rrquz ypbdb','4942@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-07-13 00:00:00','2024-08-11 00:00:00','2024-09-03 00:00:00'),
@@ -5443,7 +5443,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Wn n urldbc  erc z ydpuhoskkyygintj','4947@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-07-18 00:00:00','2024-07-18 00:00:00',NULL),
 	 ('Hxekbytft zaqumd esh','4948@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-07-19 00:00:00','2024-07-19 00:00:00',NULL),
 	 ('Pzezwrjgy qvsvgljhf','4949@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-07-20 00:00:00','2024-07-20 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('B hupg cuqjkua jbm','4950@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-07-21 00:00:00','2024-07-21 00:00:00','2026-05-02 00:00:00'),
 	 ('Hkrybirrohbihfjh myekjia hslbroerb u','4951@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-07-22 00:00:00','2024-09-30 00:00:00',NULL),
 	 ('Ckoszhdmiyodylmqxoryu tys jddzaa','4952@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-07-23 00:00:00','2024-08-11 00:00:00',NULL),
@@ -5454,7 +5454,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('R Wrnrbyzfmc n bxrabjz P l','4957@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-07-28 00:00:00','2024-09-21 00:00:00',NULL),
 	 ('Vjgddbux','4958@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-07-29 00:00:00','2024-08-14 00:00:00',NULL),
 	 ('Pcwmypju jfkefqscpmngrr','4959@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-07-30 00:00:00','2024-07-30 00:00:00','2024-08-06 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Efxqtkfnbx ggpixpkpowwp','4960@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-07-31 00:00:00','2024-07-31 00:00:00','2024-07-31 00:00:00'),
 	 ('Dudxbz ge Coubwfp Gqbyegxa','4961@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-08-01 00:00:00','2024-08-21 00:00:00',NULL),
 	 ('Qgswgegtehr ctlo','4962@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-08-02 00:00:00','2024-11-25 00:00:00',NULL),
@@ -5465,7 +5465,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Ilquui','4967@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-08-07 00:00:00','2024-08-14 00:00:00',NULL),
 	 ('Dum heunzejkcr','4968@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-08-08 00:00:00','2024-08-08 00:00:00',NULL),
 	 ('Ssinkd r y','4969@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-08-09 00:00:00','2024-09-06 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Dnynzzlll','4970@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-08-10 00:00:00','2024-08-23 00:00:00',NULL),
 	 ('Rcu qhvnkpwloayfudf x s li h nev Azcc','4971@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-08-11 00:00:00','2024-08-11 00:00:00','2024-08-11 00:00:00'),
 	 ('Wn X chuosut','4972@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-08-12 00:00:00','2025-12-13 00:00:00',NULL),
@@ -5476,7 +5476,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Pc kxkz','4977@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-08-17 00:00:00','2025-08-21 00:00:00',NULL),
 	 ('Srcbrirylnqe','4978@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-08-18 00:00:00','2025-04-14 00:00:00',NULL),
 	 ('Cmopd pmdirn vue kyvrog jjo jpymq','4979@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-08-19 00:00:00','2026-01-08 00:00:00',NULL);
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Dkvlivkrysostuywofqxbzie','4980@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-08-20 00:00:00','2024-09-14 00:00:00',NULL),
 	 ('Nfcikoyfw Dclqtrdong','4981@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-08-21 00:00:00','2024-11-08 00:00:00',NULL),
 	 ('Ooc xgk ywib','4982@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-08-22 00:00:00','2024-08-22 00:00:00',NULL),
@@ -5487,7 +5487,7 @@ INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,cri
 	 ('Pxs fwiiyzqhyyrbjulwiwjkbpikzll','4987@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-08-27 00:00:00','2024-12-08 00:00:00',NULL),
 	 ('Ahneedpnxexrwoag','4988@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-08-28 00:00:00','2026-03-01 00:00:00',NULL),
 	 ('Nnwzgyunhi cf sdzpfj azjbqqcr','4989@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-08-29 00:00:00','2024-09-17 00:00:00','2026-01-18 00:00:00');
-INSERT INTO public.usuarios (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
+INSERT INTO public."Usuarios" (nome,email,senha,tipo_usuario,token_reset_senha,criado_em,atualizado_em,deletado_em) VALUES
 	 ('Kqclafmfhmfupxpjxsasnxs','4990@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-08-30 00:00:00','2024-08-30 00:00:00',NULL),
 	 ('Tglewx fxqdijqtimpgxq yytwf uytxzmaeuvy','4991@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-08-31 00:00:00','2024-08-31 00:00:00','2024-08-31 00:00:00'),
 	 ('Anemijuq Avvuz lt','4992@email.com','UMA_SENHA_MUITO_SEGURA_E_ENCRIPTADA','PADRAO'::public.tipousuarioenum,NULL,'2024-09-01 00:00:00','2024-09-01 00:00:00',NULL),
