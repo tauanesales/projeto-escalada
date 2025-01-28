@@ -8,9 +8,18 @@ install: ## Install the project.
 	poetry install --no-root
 	poetry run pre-commit install
 
+.PHONY: up
+up: ## Start all podman services from this project.
+	podman compose up -d --force-recreate
+
 .PHONY: up-postgres
 up-postgres: ## Start postgres database container.
 	podman compose up -d postgres --force-recreate
+
+.PHONY: up-mongo
+up-mongo: ## Start mongodb database container.
+	podman compose up -d mongo --force-recreate
+	podman compose up -d mongo-express --force-recreate
 
 .PHONY: down
 down: ## Stop all podman services from this project.
