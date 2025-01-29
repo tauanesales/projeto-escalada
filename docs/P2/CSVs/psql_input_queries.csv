@@ -1,0 +1,2 @@
+Query,ExecutionTime(ms)
+"SELECT * FROM ""Usuarios"" u LEFT JOIN ""Notificacoes"" n ON n.""fk_Usuarios_id"" = u.id WHERE u.id = 1;"
